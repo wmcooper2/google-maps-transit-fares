@@ -1,28 +1,30 @@
 from time import sleep as wait
 from util import load_stations
 from util import file_counter
+from util import fares_already_scraped
 from milestones import confirm_start
 from googlemaps import *
 
 fares = "fares/"
 icons = "icons/"
+# dest = f"{stations.pop(0)} Station"
+dest = "Shinjuku Station" # temp fix, delete
 fare_count = file_counter(fares)
-stations = load_stations("data/trains/Keio.txt")
+print(f"starting fare count: {fare_count}")
+stations_finished = fares_already_scraped(fares)
+all_stations = set(load_stations("data/trains/Keio.txt"))
+fares_waiting = all_stations.difference(stations_finished)
+fares_waiting.remove(dest.split()[0]) # dest == start, nonsense
+stations = list(fares_waiting)
+print(f"fares waiting to be collected: {len(stations)}")
+
+# stations = load_stations("data/trains/Keio.txt")
 direction_arrow1 = icons+"directionarrow1.png"
 direction_arrow2 = icons+"directionarrow2.png"
-
-print(f"starting fare count: {fare_count}")
-print(f"fares waiting to be collected: {stations}")
-# exit()
-
 wait(3)  # time to switch desktops
-# if not confirm_start():
-#     exit()
-
-
 # goto_maps()
 # switch_desktop()
-dest = f"{stations.pop(0)} Station"
+
 goto_search_input()
 enter_text(dest)
 # verify destination was entered
@@ -40,8 +42,8 @@ while len(stations) > 0:
     change_starting_station(start) 
     capture_fare(f"{fares}{start}_{dest}.png")
 
-    # verify fare file was created 
-    assert fare_count == file_counter() - 1
+    # verify new file was made
+    assert fare_count == file_counter(fares) - 1
     fare_count += 1
 
 print(f"fares collected: {fare_count}")
