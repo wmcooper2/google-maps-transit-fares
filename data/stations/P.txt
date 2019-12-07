@@ -1,0 +1,5 @@
+Pippu Station	比布駅 （ぴっぷ）
+Port Terminal Station	ポートターミナル駅 （ぽーとたーみなる）
+Port Town-higashi Station	ポートタウン東駅 （ぽーとたうんひがし）
+Port Town-nishi Station	ポートタウン西駅 （ぽーとたうんにし）
+Prefectural Office Station	県庁前駅 (沖縄県)（けんちょうまえ）

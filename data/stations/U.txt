@@ -1,0 +1,224 @@
+Ubadō Station	姥堂駅（うばどう）
+Ubara Station	鵜原駅（うばら）
+Ubashima Station	祖母島駅（うばしま）
+Ube Station	宇部駅（うべ）
+Ubemisaki Station	宇部岬駅（うべみさき）
+Ube-Shinkawa Station	宇部新川駅（うべしんかわ）
+Uchida Station	内田駅（うちだ）
+Uchide Station	打出駅（うちで）
+Uchigamaki Station	内ヶ巻駅（うちがまき）
+Uchigō Station	内郷駅（うちごう）
+Uchigoshi Station	打越駅（うちごし）
+Uchihara Station	内原駅（うちはら）
+Uchijuku Station	内宿駅（うちじゅく）
+Uchiko Station	内子駅（うちこ）
+Uchina Station	内名駅（うちな）
+Uchinada Station	内灘駅（うちなだ）
+Uchino Station	内野駅（うちの）
+Uchinoda Station	内之田駅（うちのだ）
+Uchinomaki Station	内牧駅（うちのまき）
+Uchino-Nishigaoka Station	内野西が丘駅（うちのにしがおか）
+Uchisaiwaichō Station	内幸町駅（うちさいわいちょう）
+Uchita Station	打田駅（うちた）
+Uchiumi Station	内海駅 (宮崎県)（うちうみ）
+Uchiyama Station	内山駅（うちやま）
+Udono Station	鵜殿駅（うどの）
+Uebayashi Station	上林駅（うえばやし）
+Ueda Station (Aichi)	植田駅 (名古屋市)（うえだ）
+Ueda Station (Fukushima)	植田駅 (福島県)（うえだ）
+Ueda Station (Nagano)	上田駅（うえだ）
+Uedahara Station	上田原駅（うえだはら）
+Uedai Station	植大駅（うえだい）
+Ueki Station	植木駅（うえき）
+Uematsu Station	植松駅（うえまつ）
+Uemura Station	植村駅（うえむら）
+Uenae Station	植苗駅（うえなえ）
+Ueno Station	上野駅（うえの）
+Ueno Dōbutsuen Higashien Station	上野動物園東園駅（うえのどうぶつえんひがしえん）
+Ueno Dōbutsuen Nishien Station	上野動物園西園駅（うえのどうぶつえんにしえん）
+Uenohara Station	上野原駅（うえのはら）
+Ueno-Hirokōji Station	上野広小路駅（うえのひろこうじ）
+Ueno-Okachimachi Station	上野御徒町駅（うえのおかちまち）
+Uenoshi Station	上野市駅（うえのし）
+Uenoshiba Station	上野芝駅（うえのしば）
+Ueta Station	植田駅 (愛知県豊橋市)（うえた）
+Ugata Station	鵜方駅（うがた）
+Uge Station	有家駅 (岩手県)（うげ）
+Ugo-Honjō Station	羽後本荘駅（うごほんじょう）
+Ugo-Iizuka Station	羽後飯塚駅（うごいいづか）
+Ugo-Iwaya Station	羽後岩谷駅（うごいわや）
+Ugo-Kameda Station	羽後亀田駅（うごかめだ）
+Ugo-Nagano Station	羽後長野駅（うごながの）
+Ugo-Nagatoro Station	羽後長戸呂駅（うごながとろ）
+Ugo-Nakazato Station	羽後中里駅（うごなかざと）
+Ugo-Ōta Station	羽後太田駅（うごおおた）
+Ugo-Sakai Station	羽後境駅（うごさかい）
+Ugo-Ushijima Station	羽後牛島駅（うごうしじま）
+Ugo-Yotsuya Station	羽後四ツ屋駅（うごよつや）
+Uguisudani Station	鶯谷駅（うぐいすだに）
+Uguisuno Station	鶯野駅（うぐいすの）
+Uguisunomori Station	鶯の森駅（うぐいすのもり）
+Uguisuzawa Station	鶯沢駅（うぐいすざわ）
+Uguisuzawa Kōgyōkōkō Mae Station	鶯沢工業高校前駅（うぐいすざわこうぎょうこうこうまえ）
+Ugusu Station	鶯巣駅（うぐす）
+Uji Station (JR West)	宇治駅 (JR西日本)（うじ）
+Uji Station (Keihan)	宇治駅 (京阪)（うじ）
+Ujiie Station	氏家駅（うじいえ）
+Ujina 2-chōme Station	宇品二丁目駅（うじなにちょうめ）
+Ujina 3-chōme Station	宇品三丁目駅（うじなさんちょうめ）
+Ujina 4-chōme Station	宇品四丁目駅（うじなよんちょうめ）
+Ujina 5-chōme Station	宇品五丁目駅（うじなごちょうめ）
+Ujina Station	広島港駅（ひろしまこう（うじな））
+Ujiyamada Station	宇治山田駅（うじやまだ）
+Ukahongō Station	宇賀本郷駅（うかほんごう）
+Ukai Station	鵜飼駅 (広島県)（うかい）
+Ukawa Station	鵜川駅（うかわ）
+Ukiana Station	浮孔駅（うきあな）
+Ukibuchi Station	浮鞭駅（うきぶち）
+Ukiha Station	うきは駅
+Ukimafunado Station	浮間舟渡駅（うきまふなど）
+Ukishimachō Station	浮島町駅（うきしまちょう）
+Ukui Station	宇久井駅（うくい）
+Umahori Station	馬堀駅（うまほり）
+Umamichi Station	馬道駅（うまみち）
+Umatate Station	馬立駅（うまたて）
+Umebayashi Station	梅林駅 (福岡県)（うめばやし）
+Umeda Station	梅田駅（うめだ）
+Umedoi Station	梅戸井駅（うめどい）
+Umegadani Station	梅ヶ谷駅（うめがだに）
+Umegaoka Station	梅ヶ丘駅（うめがおか）
+Umegasawa Station	梅ヶ沢駅（うめがさわ）
+Umegatō Station	梅ヶ峠駅（うめがとう）
+Umejima Station	梅島駅（うめじま）
+Umekōji-Kyōtonishi Station	梅小路京都西駅（うめこうじきょうとにし）
+Umenomoto Station	梅本駅（うめのもと）
+Umesato Station	梅郷駅（うめさと）
+Umetsubo Station	梅坪駅（うめつぼ）
+Umeyama Station	梅山駅（うめやま）
+Umeyashiki Station (Nara)	梅屋敷駅 (奈良県)（うめやしき）
+Umeyashiki Station (Tokyo)	梅屋敷駅 (東京都)（うめやしき）
+Umezako Station	梅迫駅（うめざこ）
+Umi Station	宇美駅（うみ）
+Umijiri Station	海尻駅（うみじり）
+Uminokōen Minamiguchi Station	海の公園南口駅（うみのこうえんみなみぐち）
+Uminokōen Shibaguchi Station	海の公園柴口駅（うみのこうえんしばぐち）
+Uminokuchi Station	海ノ口駅（うみのくち）
+Uminonakamichi Station	海ノ中道駅（うみのなかみち）
+Uminoōmukae Station	海の王迎駅（うみのおうむかえ）
+Uminoura Station	海浦駅（うみのうら）
+Umishibaura Station	海芝浦駅（うみしばうら）
+Unazuki Station	宇奈月駅（うなづき）
+Unazukionsen Station	宇奈月温泉駅（うなづきおんせん）
+Undōkōen Station (Gunma)	運動公園駅 (群馬県)（うんどうこうえん）
+Undōkōen Station (Miyazaki)	運動公園駅 (宮崎県)（うんどうこうえん）
+Undōkōenmae Station (Aomori)	運動公園前駅 (青森県)（うんどうこうえんまえ）
+Une Station	有年駅（うね）
+Unebi Station	畝傍駅（うねび）
+Unebi-Goryōmae Station	畝傍御陵前駅（うねびごりょうまえ）
+Uneno Station	畦野駅（うねの）
+Unga Station	運河駅（うんが）
+Universal City Station	ユニバーサルシティ駅
+Uno Station	宇野駅（うの）
+Unobe Station	宇野辺駅（うのべ）
+Unoke Station	宇野気駅（うのけ）
+Unoki Station	鵜の木駅（うのき）
+Unomachi Station	卯之町駅（うのまち）
+Unoshima Station	宇島駅（うのしま）
+Unosumai Station	鵜住居駅（うのすまい）
+Unsenji Station	雲泉寺駅（うんせんじ）
+Unshū-Hirata Station	雲州平田駅（うんしゅうひらた）
+Unuma Station	鵜沼駅（うぬま）
+Unumajuku Station	鵜沼宿駅（うぬまじゅく）
+Uonuma-Kyūryō Station	魚沼丘陵駅（うおぬまきゅうりょう）
+Uonuma-Nakajō Station	魚沼中条駅（うおぬまなかじょう）
+Uonuma-Tanaka Station	魚沼田中駅（うおぬまたなか）
+Uozaki Station	魚崎駅（うおざき）
+Uozu Station	魚津駅（うおづ）
+Uozumi Station	魚住駅（うおずみ）
+Urada Station (Fukuoka)	浦田駅 (福岡県)（うらだ）
+Urada Station (Okayama)	浦田駅 (岡山県)（うらだ）
+Uraga Station	浦賀駅（うらが）
+Uragawara Station	うらがわら駅
+Urahoro Station	浦幌駅（うらほろ）
+Urakami Station	浦上駅（うらかみ）
+Urakamiekimae Station	浦上駅前駅（うらかみえきまえ）
+Urakawa Station (Hokkaido)	浦河駅（うらかわ）
+Urakawa Station (Shizuoka)	浦川駅（うらかわ）
+Uramoto Station	浦本駅（うらもと）
+Uranosaki Station	浦ノ崎駅（うらのさき）
+Urasa Station	浦佐駅（うらさ）
+Urashuku Station	浦宿駅（うらしゅく）
+Urasoe-Maeda Station	浦添前田駅（うらそえまえだ）
+Urata Station	浦田駅 (福岡県)（うらた）
+Urausu Station	浦臼駅（うらうす）
+Urawa Station	浦和駅（うらわ）
+Urawa-Misono Station	浦和美園駅（うらわみその）
+Urayama Station	浦山駅（うらやま）
+Urayamaguchi Station	浦山口駅（うらやまぐち）
+Urayasu Station (Chiba)	浦安駅 (千葉県)（うらやす）
+Urayasu Station (Tottori)	浦安駅 (鳥取県)（うらやす）
+Ureshino-onsen Station	嬉野温泉駅（うれしのおんせん）
+Urizura Station	瓜連駅（うりづら）
+Urushiyama Station	漆山駅 (山形県)（うるしやま）
+Usa Station	宇佐駅（うさ）
+Usami Station	宇佐美駅（うさみ）
+Ushibuchi Station	牛渕駅（うしぶち）
+Ushibuchidanchi-mae Station	牛渕団地前駅（うしぶちだんちまえ）
+Ushida Station (Aichi)	牛田駅 (愛知県)（うしだ）
+Ushida Station (Tokyo)	牛田駅 (東京都)（うしだ）
+Ushizu Station	牛津駅（うしづ）
+Ushigome-Kagurazaka Station	牛込神楽坂駅（うしごめかぐらざか）
+Ushigome-Yanagichō Station	牛込柳町駅（うしごめやなぎちょう）
+Ushihama Station	牛浜駅（うしはま）
+Ushiku Station	牛久駅（うしく）
+Ushikubo Station	牛久保駅（うしくぼ）
+Ushinohama Station	牛ノ浜駅（うしのはま）
+Ushinoshima Station	牛島駅（うしのしま）
+Ushinoya Station	牛ノ谷駅（うしのや）
+Ushio Station	潮駅（うしお）
+Ushirogata Station	後潟駅（うしろがた）
+Ushita Station	牛田駅 (広島県)（うした）
+Ushiyama Station	牛山駅（うしやま）
+Usu Station	有珠駅（うす）
+Usuda Station	臼田駅（うすだ）
+Usugi Station	鵜杉駅（うすぎ）
+Usuki Station (Kagoshima)	宇宿駅（うすき）
+Usuki Station (Oita)	臼杵駅（うすき）
+Utagō Station	宇田郷駅（うたごう）
+Utanai Station	歌内駅（うたない）
+Utano Station	宇多野駅（うたの）
+Utatsu Station	歌津駅（うたつ）
+Utazu Station	宇多津駅（うたづ）
+Uto Station	宇土駅（うと）
+Utoma Station	鵜苫駅（うとま）
+Utō Station	宇頭駅（うとう）
+Utsube Station	内部駅（うつべ）
+Utsubo Station	打保駅（うつぼ）
+Utsubuna Station	内船駅（うつぶな）
+Utsuigawa Station	打井川駅（うついがわ）
+Utsumi Station	内海駅 (愛知県)（うつみ）
+Utsunomiya Station	宇都宮駅（うつのみや）
+Utsunomiya Kamotsu Terminal Station	宇都宮貨物ターミナル駅（うつのみやかもつたーみなる）
+Utsutsugawa Station	現川駅（うつつがわ）
+Uwagoromo Station	上挙母駅（うわごろも）
+Uwajima Station	宇和島駅（うわじま）
+Uyagawa Station	敬川駅（うやがわ）
+Uzen-Chitose Station	羽前千歳駅（うぜんちとせ）
+Uzen-Kanezawa Station	羽前金沢駅（うぜんかねざわ）
+Uzen-Komatsu Station	羽前小松駅（うぜんこまつ）
+Uzen-Matsuoka Station	羽前松岡駅（うぜんまつおか）
+Uzen-Mizusawa Station	羽前水沢駅（うぜんみずさわ）
+Uzen-Nagasaki Station	羽前長崎駅（うぜんながさき）
+Uzen-Nakayama Station	羽前中山駅（うぜんなかやま）
+Uzen-Narita Station	羽前成田駅（うぜんなりた）
+Uzen-Numazawa Station	羽前沼沢駅（うぜんぬまざわ）
+Uzen-Ōyama Station	羽前大山駅（うぜんおおやま）
+Uzen-Takamatsu Station	羽前高松駅（うぜんたかまつ）
+Uzen-Toyosato Station	羽前豊里駅（うぜんとよさと）
+Uzen-Tsubaki Station	羽前椿駅（うぜんつばき）
+Uzen-Yamabe Station	羽前山辺駅（うぜんやまべ）
+Uzen-Zennami Station	羽前前波駅（うぜんぜんなみ）
+Uzui Station	宇都井駅（うづい）
+Uzumasa Station	太秦駅（うずまさ）
+Uzumasa-Kōryūji Station	太秦広隆寺駅（うずまさこうりゅうじ）
+Uzumasa Tenjingawa Station	太秦天神川駅（うずまさてんじんがわ）

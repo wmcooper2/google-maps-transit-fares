@@ -1,0 +1,100 @@
+Raihai Station	礼拝駅（らいはい）
+Raikōji Station	来迎寺駅（らいこうじ）
+Rakurakuen Station	楽々園駅（らくらくえん）
+Rakusaiguchi Station	洛西口駅（らくさいぐち）
+Rakutenchishita Station	ラクテンチ下駅（らくてんちした）
+Rakutenchiue Station	ラクテンチ上駅（らくてんちうえ）
+Randen-Saga Station	嵐電嵯峨駅（らんでんさが）
+Randen-Tenjingawa Station	嵐電天神川駅（らんでんてんじんがわ）
+Rankoshi Station	蘭越駅（らんこし）
+Ranru Station	蘭留駅（らんる）
+Ranshima Station	蘭島駅（らんしま）
+Rebun Station	礼文駅（れぶん）
+Reikyūkōen Taiikukan Station	霊丘公園体育館駅（れいきゅうこうえんたいいくかん）
+Reiwa Costa Yukuhashi Station	令和コスタ行橋駅（れいわこすたゆくはし）
+Rembo Station	連坊駅（れんぼう）
+Rendaiji Station	蓮台寺駅（れんだいじ）
+Rengeji Station	蓮花寺駅（れんげじ）
+Resort Gateway Station	リゾートゲートウェイ・ステーション駅
+Reuke Station	礼受駅（れうけ）
+Rifu Station	利府駅（りふ）
+Rikuchū-Kanzaki Station	陸中門崎駅（りくちゅうかんざき）
+Rikuchū-Kawai Station	陸中川井駅（りくちゅうかわい）
+Rikuchū-Matsukawa Station	陸中松川駅（りくちゅうまつかわ）
+Rikuchū-Nakano Station	陸中中野駅（りくちゅうなかの）
+Rikuchū-Natsui Station	陸中夏井駅（りくちゅうなつい）
+Rikuchū-Noda Station	陸中野田駅（りくちゅうのだ）
+Rikuchū-Ōhashi Station	陸中大橋駅（りくちゅうおおはし）
+Rikuchū-Ōsato Station	陸中大里駅（りくちゅうおおさと）
+Rikuchū-Orii Station	陸中折居駅（りくちゅうおりい）
+Rikuchū-Ube Station	陸中宇部駅（りくちゅううべ）
+Rikuchū-Yagi Station	陸中八木駅（りくちゅうやぎ）
+Rikuchū-Yamada Station	陸中山田駅（りくちゅうやまだ）
+Rikuzen-Akai Station	陸前赤井駅（りくぜんあかい）
+Rikuzen-Akasaki Station	陸前赤崎駅（りくぜんあかさき）
+Rikuzen-Hamada Station	陸前浜田駅（りくぜんはまだ）
+Rikuzen-Haranomachi Station	陸前原ノ町駅（りくぜんはらのまち）
+Rikuzen-Hashikami Station	陸前階上駅（りくぜんはしかみ）
+Rikuzen-Inai Station	陸前稲井駅（りくぜんいない）
+Rikuzen-Koizumi Station	陸前小泉駅（りくぜんこいずみ）
+Rikuzen-Minato Station	陸前港駅（りくぜんみなと）
+Rikuzen-Ochiai Station	陸前落合駅（りくぜんおちあい）
+Rikuzen-Ono Station	陸前小野駅（りくぜんおの）
+Rikuzen-Ōtsuka Station	陸前大塚駅（りくぜんおおつか）
+Rikuzen-Sannō Station	陸前山王駅（りくぜんさんのう）
+Rikuzen-Shirasawa Station	陸前白沢駅（りくぜんしらさわ）
+Rikuzen-Takasago Station	陸前高砂駅（りくぜんたかさご）
+Rikuzen-Takata Station	陸前高田駅（りくぜんたかた）
+Rikuzen-Togura Station	陸前戸倉駅（りくぜんとぐら）
+Rikuzen-Tomiyama Station	陸前富山駅（りくぜんとみやま）
+Rikuzen-Toyosato Station	陸前豊里駅（りくぜんとよさと）
+Rikuzen-Yachi Station	陸前谷地駅（りくぜんやち）
+Rikuzen-Yahagi Station	陸前矢作駅（りくぜんやはぎ）
+Rikuzen-Yamashita Station	陸前山下駅（りくぜんやました）
+Rikuzen-Yokoyama Station	陸前横山駅（りくぜんよこやま）
+Ringō Station	梨郷駅（りんごう）
+Rinkanden'entoshi Station	林間田園都市駅（りんかんでんえんとし）
+Rinkū Town Station	りんくうタウン駅
+Rinkū-Tokoname Station	りんくう常滑駅（りんくうとこなめ）
+Ritsurin Station	栗林駅（りつりん）
+Ritsurinkōen Station	栗林公園駅（りつりんこうえん）
+Ritsurinkōen Kitaguchi Station	栗林公園北口駅（りつりんこうえんきたぐち）
+Rittō Station	栗東駅（りっとう）
+Rokakōen Station	芦花公園駅（ろかこうえん）
+Rokken Station (Gifu)	六軒駅 (岐阜県)（ろっけん）
+Rokken Station (Mie)	六軒駅 (三重県)（ろっけん）
+Rokkō Cable-shita Station	六甲ケーブル下駅（ろっこうけーぶるした）
+Rokkō Station	六甲駅（ろっこう）
+Rokkōmichi Station	六甲道駅（ろっこうみち）
+Rokkōsanjō Station	六甲山上駅（ろっこうさんじょう）
+Rokubanchō Station	六番町駅（ろくばんちょう）
+Rokuchō Station	六町駅（ろくちょう）
+Rokuchonome Station	六丁の目駅（ろくちょうのめ）
+Rokugō Station	六合駅（ろくごう）
+Rokugōdote Station	六郷土手駅（ろくごうどて）
+Rokuhara Station	六原駅（ろくはら）
+Rokujizō Station	六地蔵駅（ろくじぞう）
+Rokujō Station	六条駅（ろくじょう）
+Rokumanji Station	六万寺駅（ろくまんじ）
+Rokuōin Station	鹿王院駅（ろくおういん）
+Rokutanji Station	六反地駅（ろくたんじ）
+Rokuwa Station	六輪駅（ろくわ）
+Ropeway Iriguchi Station	ロープウェイ入口駅（ろーぷうぇいいりぐち）
+Roppongi Station	六本木駅（ろっぽんぎ）
+Roppongi-itchōme Station	六本木一丁目駅（ろっぽんぎいっちょうめ）
+Ropponmatsu Station	六本松駅（ろっぽんまつ）
+Rubeshibe Station	留辺蘂駅（るべしべ）
+Rumoi Station	留萌駅（るもい）
+Ryōanji Station	龍安寺駅（りょうあんじ）
+Ryōgoku Station	両国駅（りょうごく）
+Ryōishi Station	両石駅（りょういし）
+Ryokuchikōen Station	緑地公園駅（りょくちこうえん）
+Ryokuentoshi Station	緑園都市駅（りょくえんとし）
+Ryōri Station	綾里駅（りょうり）
+Ryūgamizu Station	竜ヶ水駅（りゅうがみず）
+Ryūgasaki Station	竜ヶ崎駅（りゅうがさき）
+Ryūkokudai-mae-fukakusa Station	龍谷大前深草駅（りゅうこくだいまえふかくさ）
+Ryūmai Station	竜舞駅（りゅうまい）
+Ryūō Station	竜王駅（りゅうおう）
+Ryūōkyō Station	龍王峡駅（りゅうおうきょう）
+Ryūtsū Center Station	流通センター駅（りゅうつうせんたー）

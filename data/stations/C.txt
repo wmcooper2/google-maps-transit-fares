@@ -1,0 +1,127 @@
+Cable Enryakuji Station	ケーブル延暦寺駅（けーぶるえんりゃくじ）
+Cable-hachimangū-guchi Station	ケーブル八幡宮口駅（けーぶるはちまんぐうぐち）
+Cable-hachimangū-sanjō Station	ケーブル八幡宮山上駅（けーぶるはちまんぐうさんじょう）
+Cable Hiei Station	ケーブル比叡駅（けーぶるひえい）
+Cable Sakamoto Station	ケーブル坂本駅（けーぶるさかもと）
+Cable Sanjō Station	ケーブル山上駅（けーぶるさんじょう）
+Cable Yase Station	ケーブル八瀬駅（けーぶるやせ）
+Center Kita Station	センター北駅（せんたーきた）
+Center Minami Station	センター南駅（せんたーみなみ）
+Central Japan International Airport Station	中部国際空港駅（ちゅうぶこくさいくうこう）
+Chajo Station	茶所駅（ちゃじょ）
+Chanai Station	茶内駅（ちゃない）
+Chashinai Station	茶志内駅（ちゃしない）
+Chausuyama Station	茶臼山駅（ちゃうすやま）
+Chayagasaka Station	茶屋ヶ坂駅（ちゃやがさか）
+Chayama Station (Fukuoka)	茶山駅 (福岡県)（ちゃやま）
+Chayama Station (Kyoto)	茶山駅 (京都府)（ちゃやま）
+Chayamachi Station	茶屋町駅（ちゃやまち）
+Chiba New Town Chūō Station	千葉ニュータウン中央駅（ちばニュータウンちゅうおう）
+Chiba Station	千葉駅（ちば）
+Chiba-Chūō Station	千葉中央駅（ちばちゅうおう）
+Chibadera Station	千葉寺駅（ちばでら）
+Chibakōen Station	千葉公園駅（ちばこうえん）
+Chibaminato Station	千葉みなと駅（ちばみなと）
+Chibata Station	知波田駅（ちばた）
+Chibiki Station	千曳駅（ちびき）
+Chibune Station	千船駅（ちぶね）
+Chichibu Station	秩父駅（ちちぶ）
+Chidori Station	千鳥駅（ちどり）
+Chidoribashi Station	千鳥橋駅（ちどりばし）
+Chidorichō Station	千鳥町駅 (東京都)（ちどりちょう）
+Chiebun Station	智恵文駅（ちえぶん）
+Chigane Station	千金駅（ちがね）
+Chigaki Station	千垣駅（ちがき）
+Chigasaki Station	茅ヶ崎駅（ちがさき）
+Chigozuka Station	稚子塚駅（ちごづか）
+Chiharadai Station	ちはら台駅（ちはらだい）
+Chihaya Station	千早駅（ちはや）
+Chihayaguchi Station	千早口駅（ちはやぐち）
+Chihoku Station	智北駅（ちほく）
+Chiji Station	千路駅（ちじ）
+Chikabumi Station	近文駅（ちかぶみ）
+Chikagawa Station	近川駅（ちかがわ）
+Chikanaga Station	近永駅（ちかなが）
+Chikata Station	近田駅（ちかた）
+Chikatetsu-Akatsuka Station	地下鉄赤塚駅（ちかてつあかつか）
+Chikatetsu-Narimasu Station	地下鉄成増駅（ちかてつなります）
+Chikatsu Station	近津駅（ちかつ）
+Chikkōchō Station	築港町駅（ちっこうちょう）
+Chiku Center Station	地区センター駅（ちくセンター）
+Chikugo-Funagoya Station	筑後船小屋駅（ちくごふなごや）
+Chikugo-Kusano Station	筑後草野駅（ちくごくさの）
+Chikugo-Ōishi Station	筑後大石駅（ちくごおおいし）
+Chikugo-Yoshii Station	筑後吉井駅（ちくごよしい）
+Chikuhō-Katsuki Station	筑豊香月駅（ちくほうかつき）
+Chikuhō-Nakama Station	筑豊中間駅（ちくほうなかま）
+Chikuhō-Nōgata Station	筑豊直方駅（ちくほうのおがた）
+Chikuma Station	千曲駅（ちくま）
+Chikuni Station	千国駅（ちくに）
+Chikura Station	千倉駅（ちくら）
+Chikusa Station	千種駅（ちくさ）
+Chikushi Station	筑紫駅（ちくし）
+Chikuzen-Iwaya Station	筑前岩屋駅（ちくぜんいわや）
+Chikuzen-Daibu Station	筑前大分駅（ちくぜんだいぶ）
+Chikuzen-Fukae Station	筑前深江駅（ちくぜんふかえ）
+Chikuzen-Habu Station	筑前垣生駅（ちくぜんはぶ）
+Chikuzen-Maebaru Station	筑前前原駅（ちくぜんまえばる）
+Chikuzen-Shōnai Station	筑前庄内駅（ちくぜんしょうない）
+Chikuzen-Uchino Station	筑前内野駅（ちくぜんうちの）
+Chikuzen-Ueki Station	筑前植木駅（ちくぜんうえき）
+Chikuzen-Yamae Station	筑前山家駅（ちくぜんやまえ）
+Chikuzen-Yamate Station	筑前山手駅（ちくぜんやまて）
+Chino Station	茅野駅（ちの）
+Chippubetsu Station	秩父別駅（ちっぷべつ）
+Chiraiotsu Station	知来乙駅（ちらいおつ）
+Chiryū Station	知立駅（ちりゅう）
+Chisato Station (Mie)	千里駅 (三重県)（ちさと）
+Chisato Station (Toyama)	千里駅 (富山県)（ちさと）
+Chishirodai Station	千城台駅（ちしろだい）
+Chishirodai-Kita Station	千城台北駅（ちしろだいきた）
+Chita-Handa Station	知多半田駅（ちたはんだ）
+Chita-Okuda Station	知多奥田駅（ちたおくだ）
+Chita-Taketoyo Station	知多武豊駅（ちたたけとよ）
+Chitetsubirumae Station	地鉄ビル前駅（ちてつびるまえ）
+Chitose Station (Aomori)	千年駅（ちとせ）
+Chitose Station (Chiba)	千歳駅 (千葉県)（ちとせ）
+Chitose Station (Hokkaido)	千歳駅 (北海道)（ちとせ）
+Chitose-Funabashi Station	千歳船橋駅（ちとせふなばし）
+Chitose-Karasuyama Station	千歳烏山駅（ちとせからすやま）
+Chitō Station	智東駅（ちとう）
+Chiwa Station	知和駅（ちわ）
+Chiwata Station	千綿駅（ちわた）
+Chiyo Station	千代駅（ちよ）
+Chiyoda Station	千代田駅（ちよだ）
+Chiyogaoka Station	千代ヶ岡駅（ちよがおか）
+Chiyokawa Station	千代川駅（ちよかわ）
+Chiyo-Kenchōguchi Station	千代県庁口駅（ちよけんちょうぐち）
+Chiyozaki Station	千代崎駅（ちよざき）
+Chizu Station	智頭駅（ちず）
+Chōfu Station (Tokyo)	調布駅（ちょうふ）
+Chōfu Station (Yamaguchi)	長府駅（ちょうふ）
+Chōgo Station	長後駅（ちょうご）
+Chōjabaru Station	長者原駅（ちょうじゃばる）
+Chōjagahama Shiosai Hamanasu Kōenmae Station	長者ヶ浜潮騒はまなす公園前駅（ちょうじゃがはましおさいはまなすこうえんまえ）
+Chōjamachi Station	長者町駅（ちょうじゃまち）
+Chōkokunomori Station	彫刻の森駅（ちょうこくのもり）
+Chokubetsu Station	直別駅（ちょくべつ）
+Chokushi Station	勅旨駅（ちょくし）
+Chōmonkyō Station	長門峡駅（ちょうもんきょう）
+Chōrakuji Station	長楽寺駅（ちょうらくじ）
+Chōsa Station	帖佐駅（ちょうさ）
+Chōshi Station	銚子駅（ちょうし）
+Chōshiguchi Station	銚子口駅（ちょうしぐち）
+Chōyō Station	長陽駅（ちょうよう）
+Chūbu-Tenryū Station	中部天竜駅（ちゅうぶてんりゅう）
+Chūden Station	中田駅 (徳島県)（ちゅうでん）
+Chūgakkō Station	中学校駅（ちゅうがっこう）
+Chūgoku-Katsuyama Station	中国勝山駅（ちゅうごくかつやま）
+Chūgun Station	中郡駅 (山形県)（ちゅうぐん）
+Chūkyōkeibajōmae Station	中京競馬場前駅（ちゅうきょうけいばじょうまえ）
+Chūōdaigaku Meiseidaigaku Station	中央大学・明星大学駅
+Chūō-Hirosaki Station	中央弘前駅（ちゅうおうひろさき）
+Chūōichibamae Station	中央市場前駅（ちゅうおういちばまえ）
+Chūō-Maebashi Station	中央前橋駅（ちゅうおうまえばし）
+Chūō-Rinkan Station	中央林間駅（ちゅうおうりんかん）
+Chūshojima Station	中書島駅（ちゅうしょじま）
+Cosmosquare Station	コスモスクエア駅（コスモスクエア）

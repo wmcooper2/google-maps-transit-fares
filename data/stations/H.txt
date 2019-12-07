@@ -1,0 +1,855 @@
+Haba Station (Gifu)	羽場駅 (岐阜県)
+Haba Station (Nagano)	羽場駅 (長野県)
+Habu Station	埴生駅
+Hachigata Station	鉢形駅
+Hachihama Station	八浜駅
+Hachihommatsu Station	八本松駅
+Hachiken Station	八軒駅
+Hachiman Station	八幡駅 (静岡県)
+Hachimanmae Station (Kyoto)	八幡前駅 (京都府)
+Hachimanmae Station (Wakayama)	八幡前駅 (和歌山県)
+Hachimantai Station	八幡平駅
+Hachimanyama Station	八幡山駅
+Hachimori Station	八森駅
+Hachinohe Station	八戸駅
+Hachinohekamotsu Station	八戸貨物駅（はちのへかもつ）
+Hachiōji Station	八王子駅（はちおうじ）
+Hachiōji-Minamino Station	八王子みなみ野駅（はちおうじみなみの）
+Hachirōgata Station	八郎潟駅（はちろうがた）
+Hachisu Station	蓮駅
+Hadachi Station	羽立駅
+Hadakajima Station	波高島駅（はだかじま）
+Hadano Station	秦野駅（はだの）
+Hadasu Station	波田須駅（はだす）
+Haenosaki Station	南風崎駅（はえのさき）
+Hage Station	半家駅（はげ）
+Hagi Station	萩駅（はぎ）
+Hagiharatenjin Station	萩原天神駅（はぎはらてんじん）
+Hagino Station	萩野駅（はぎの）
+Haginochaya Station	萩ノ茶屋駅（はぎのちゃや）
+Haginodai Station	萩の台駅（はぎのだい）
+Hagiwara Station (Aichi)	萩原駅 (愛知県)（はぎわら）
+Hagiwara Station (Fukuoka)	萩原駅 (福岡県)（はぎわら）
+Hagiyama Station	萩山駅（はぎやま）
+Hagoromo Station	羽衣駅（はごろも）
+Hagurazaki Station	羽倉崎駅（はぐらざき）
+Hagure Station	波久礼駅（はぐれ）
+Haguro Station (Aichi)	羽黒駅 (愛知県)（はぐろ）
+Haguro Station (Ibaraki)	羽黒駅 (茨城県)（はぐろ）
+Haguroshita Station	羽黒下駅（はぐろした）
+Hagyū Station	萩生駅（はぎゅう）
+Haibara Station	榛原駅（はいばら）
+Haijima Station	拝島駅（はいじま）
+Haiki Station	早岐駅（はいき）
+Hainuzuka Station	羽犬塚駅（はいぬづか）
+Haji Station	土師駅（はじ）
+Hajinosato Station	土師ノ里駅（はじのさと）
+Hakariishi Station	計石駅（はかりいし）
+Hakata Station	博多駅（はかた）
+Hakataminami Station	博多南駅（はかたみなみ）
+Hakawa Station	波川駅（はかわ）
+Hakenomiya Station	八景水谷駅（はけのみや）
+Haki Station	葉木駅（はき）
+Hakkeijima Station	八景島駅（はっけいじま）
+Hakodate Station	函館駅（はこだて）
+Hakoishi Station	箱石駅（はこいし）
+Hakonegasaki Station	箱根ヶ崎駅（はこねがさき）
+Hakone-Itabashi Station	箱根板橋駅（はこねいたばし）
+Hakone-Yumoto Station	箱根湯本駅（はこねゆもと）
+Hakotsukuri Station	箱作駅（はこつくり）
+Hakozaki Station	箱崎駅（はこざき）
+Hakozaki-Kyūdaimae Station	箱崎九大前駅（はこざききゅうだいまえ）
+Hakozaki-Miyamae Station	箱崎宮前駅（はこざきみやまえ）
+Hakuba Station	白馬駅（はくば）
+Hakuba-Ōike Station	白馬大池駅（はくばおおいけ）
+Hakui Station	羽咋駅（はくい）
+Hakunōkōkōmae Station	柏農高校前駅（はくのうこうこうまえ）
+Hakuraku Station	白楽駅（はくらく）
+Hakurindai Station	柏林台駅（はくりんだい）
+Hakusan Station (Niigata)	白山駅 (新潟県)（はくさん）
+Hakusan Station (Tokyo)	白山駅 (東京都)（はくさん）
+Hakusannagataki Station	白山長滝駅（はくさんながたき）
+Hakushima Station (Hiroden)	白島駅 (広島電鉄)（はくしま）
+Hakushima Station (Astram)	白島駅 (広島高速交通)（はくしま）
+Hakuyachō Station	柏矢町駅（はくやちょう）
+Hakuyō Station	柏陽駅（はくよう）
+Hama Station	浜駅（はま）
+Hama-Atsuma Station	浜厚真駅（はまあつま）
+Hamachō Station	浜町駅（はまちょう）
+Hamada Station	浜田駅（はまだ）
+Hamadayama Station	浜田山駅（はまだやま）
+Hamaderaekimae Station	浜寺駅前駅（はまでらえきまえ）
+Hamaderakōen Station	浜寺公園駅（はまでらこうえん）
+Hamagōchi Station	浜河内駅（はまごうち）
+Hamahara Station	浜原駅（はまはら）
+Hamakazumi Station	浜加積駅（はまかづみ）
+Hama-Kanaya Station	浜金谷駅（はまかなや）
+Hama-Kawasaki Station	浜川崎駅（はまかわさき）
+Hamakita Station	浜北駅（はまきた）
+Hama-Koshimizu Station	浜小清水駅（はまこしみず）
+Hamamatsu Station	浜松駅（はままつ）
+Hamamatsuchō Station	浜松町駅（はままつちょう）
+Hamamatsudaigakumae Station	浜松大学前駅（はままつだいがくまえ）
+Hamamura Station	浜村駅（はまむら）
+Hamanaka Station	浜中駅（はまなか）
+Hamanako-Sakume Station	浜名湖佐久米駅（はまなこさくめ）
+Hamano Station	浜野駅（はまの）
+Hamanomiya Station	浜の宮駅（はまのみや）
+Hamasaka Station	浜坂駅（はまさか）
+Hamasaki Station	浜崎駅（はまさき）
+Hamataura Station	浜田浦駅（はまたうら）
+Hamayamakōen-Kitaguchi Station	浜山公園北口駅（はまやまこうえんきたぐち）
+Hamayoshida Station	浜吉田駅（はまよしだ）
+Hamonokaikan-mae Station	刃物会館前駅（はものかいかんまえ）
+Hamura Station	羽村駅（はむら）
+Hanabatake Station	花畑駅（はなばたけ）
+Hanaizumi Station	花泉駅（はないずみ）
+Hanakoganei Station	花小金井駅（はなこがねい）
+Hanakuma Station	花隈駅（はなくま）
+Hanamaki Station	花巻駅（はなまき）
+Hanamakikūkō Station	花巻空港駅（はなまきくうこう）
+Hanami Station	花見駅（はなみ）
+Hanamizukidōri Station	はなみずき通駅（はなみずきどおり）
+Hanamizuzaka Station	花水坂駅（はなみずざか）
+Hanandō Station	花堂駅（はなんどう）
+Hanasaki Station (Hokkaido)	花咲駅（はなさき）
+Hanasaki Station (Saitama)	花崎駅（はなさき）
+Hanashiro Station	花白駅（はなしろ）
+Hanataguchi Station	花田口駅（はなたぐち）
+Hanaten Station	放出駅（はなてん）
+Hanawa Station	花輪駅（はなわ）
+Hanayama Station	花山駅（はなやま）
+Hanazono Station (Kagawa)	花園駅 (香川県)（はなぞの）
+Hanazono Station (Kyoto)	花園駅 (京都府)（はなぞの）
+Hanazonochō Station	花園町駅（はなぞのちょう）
+Handa Station	半田駅（はんだ）
+Handafutō Station	半田埠頭駅（はんだふとう）
+Handaguchi Station	半田口駅（はんだぐち）
+Handaibyōinmae Station	阪大病院前駅（はんだいびょういんまえ）
+Hane Station	波根駅（はね）
+Haneda Airport Domestic Terminal Station	羽田空港国内線ターミナル駅（はねだくうこうこくないせんたーみなる）
+Haneda Airport International Terminal Station	羽田空港国際線ターミナル駅（はねだくうこうこくさいせんせんたーみなる）, 羽田空港国際線ビル駅（はねだくうこうこくさいせんせんびる）
+Haneda Airport Terminal 1 Station	羽田空港第1ビル駅（はねだくうこうだいいちびる）
+Haneda Airport Terminal 2 Station	羽田空港第2ビル駅（はねだくうこうだいにびる）
+Haneo Station	羽根尾駅（はねお）
+Hanno Station	母野駅（はんの）
+Hannō Station	飯能駅（はんのう）
+Hanoura Station	羽ノ浦駅（はのうら）
+Hanshin-Kokudō Station	阪神国道駅（はんしんこくどう）
+Hanuki Station	羽貫駅（はぬき）
+Hanyū Station	羽生駅（はにゅう）
+Hanyūda Station	羽生田駅（はにゅうだ）
+Hanzōmon Station	半蔵門駅（はんぞうもん）
+Haobi Station	羽帯駅（はおび）
+Hara Station (Aichi)	原駅 (愛知県)（はら）
+Hara Station (Kagawa)	原駅 (香川県)（はら）
+Hara Station (Shizuoka)	原駅 (静岡県)（はら）
+Harada Station	原田駅 (静岡県)（はらだ）
+Haraichi Station	原市駅（はらいち）
+Haraigawa Station	払川駅（はらいがわ）
+Harajuku Station	原宿駅（はらじゅく）
+Haramizu Station	原水駅（はらみず）
+Haramukō Station	原向駅（はらむこう）
+Harano Station	原野駅（はらの）
+Haranomachi Station	原ノ町駅（はらのまち）
+Haranoya Station	原谷駅（はらのや）
+Haratai Station	腹帯駅（はらたい）
+Harataima Station	原当麻駅（はらたいま）
+Harborland Station	ハーバーランド駅
+Harima Station	播磨駅（はりま）
+Harimachō Station	播磨町駅（はりまちょう）
+Harima-Katsuhara Station	はりま勝原駅（はりまかつはら）
+Harima-Shimosato Station	播磨下里駅（はりましもさと）
+Harima-Shingū Station	播磨新宮駅（はりましんぐう）
+Harima-Takaoka Station	播磨高岡駅（はりまたかおか）
+Harima-Tokusa Station	播磨徳久駅（はりまとくさ）
+Harimayabashi Station	はりまや橋駅（はりまやばし）
+Harima-Yokota Station	播磨横田駅（はりまよこた）
+Harinakano Station	針中野駅（はりなかの）
+Hariusu Station	張碓駅（はりうす）
+Harmony Hall Station	ハーモニーホール駅
+Haruda Station	原田駅 (福岡県)（はるだ）
+Harue Station	春江駅（はるえ）
+Haruhino Station	はるひ野駅（はるひの）
+Haruka Station	春賀駅（はるか）
+Haruki Station	春木駅（はるき）
+Harukiba Station	春木場駅（はるきば）
+Harumachi Station	原町駅（はるまち）
+Haruta Station	春田駅（はるた）
+Harutachi Station	春立駅（はるたち）
+Haruyama Station	晴山駅（はるやま）
+Hasama Station	飯山満駅（はさま）
+Hase Station (Hyogo)	長谷駅 (兵庫県)（はせ）
+Hase Station (Kanagawa)	長谷駅 (神奈川県)（はせ）
+Hasedera Station	長谷寺駅（はせでら）
+Hashi Station	波子駅（はし）
+Hashibetsu Station	箸別駅（はしべつ）
+Hashihama Station	波止浜駅（はしはま）
+Hashikami Station	階上駅（はしかみ）
+Hashikura Station	箸蔵駅（はしくら）
+Hashimashiyakushomae Station	羽島市役所前駅（はしましやくしょまえ）
+Hashimoto Station (Fukuoka)	橋本駅 (福岡県)（はしもと）
+Hashimoto Station (Kanagawa)	橋本駅 (神奈川県)（はしもと）
+Hashimoto Station (Kyoto)	橋本駅 (京都府)（はしもと）
+Hashimoto Station (Wakayama)	橋本駅 (和歌山県)（はしもと）
+Hashio Station	箸尾駅（はしお）
+Hashioka Station	端岡駅（はしおか）
+Hashirano Station	柱野駅（はしらの）
+Hassamu Station	発寒駅（はっさむ）
+Hassamu-Chūō Station	発寒中央駅（はっさむちゅうおう）
+Hassamuminami Station	発寒南駅（はっさむみなみ）
+Hasuda Station	蓮田駅（はすだ）
+Hasugaike Station	蓮ヶ池駅（はすがいけ）
+Hasumachi Station	蓮町駅（はすまち）
+Hasune Station	蓮根駅（はすね）
+Hasunuma Station	蓮沼駅（はすぬま）
+Hata Station (Nagano)	波田駅（はた）
+Hata Station (Hyogo)	葉多駅（はた）
+Hatabu Station	幡生駅（はたぶ）
+Hatada Station	畑田駅（はただ）
+Hatae Station	波多江駅（はたえ）
+Hatagaya Station	幡ヶ谷駅（はたがや）
+Hatakeda Station	畠田駅（はたけだ）
+Hataki Station	八多喜駅（はたき）
+Hatama Station	端間駅（はたま）
+Hatanodai Station	旗の台駅（はたのだい）
+Hataura Station	波多浦駅（はたうら）
+Hataya Station	幡屋駅（はたや）
+Hatchōbori Station (Hiroshima)	八丁堀駅 (広島県)（はっちょうぼり）
+Hatchōbori Station (Tokyo)	八丁堀駅 (東京都)（はっちょうぼり）
+Hatchōmuta Station	八丁牟田駅（はっちょうむた）
+Hatchōnawate Station	八丁畷駅（はっちょうなわて）
+Hatogaya Station	鳩ヶ谷駅（はとがや）
+Hatonosu Station	鳩ノ巣駅（はとのす）
+Hatori Station	羽鳥駅（はとり）
+Hatsudai Station	初台駅（はつだい）
+Hatsuishi Station	初石駅（はついし）
+Hatsukaichi Station	廿日市駅（はつかいち）
+Hatsukaichi-shiyakusho-mae Station	廿日市市役所前駅（はつかいちしやくしょまえ）
+Hatsukari Station	初狩駅（はつかり）
+Hatsuno Station	初野駅（はつの）
+Hatsushiba Station	初芝駅（はつしば）
+Hatsushima Station	初島駅（はつしま）
+Hatsutomi Station	初富駅（はつとみ）
+Hatta Station	八田駅（はった）
+Hattaushi Station	初田牛駅（はったうし）
+Hattori Station	服部駅 (岡山県)（はっとり）
+Hattorigawa Station	服部川駅（はっとりがわ）
+Hattori-tenjin Station	服部天神駅（はっとりてんじん）
+Hattō Station	八東駅（はっとう）
+Haya Station	芳養駅（はや）
+Hayabusa Station	隼駅（はやぶさ）
+Hayadōri Station	早通駅（はやどおり）
+Hayaguchi Station	早口駅（はやぐち）
+Hayahoshi Station	速星駅（はやほし）
+Hayakawa Station	早川駅（はやかわ）
+Hayakita Station	早来駅（はやきた）
+Hayase Station	早瀬駅（はやせ）
+Hayashi Station	林駅（はやし）
+Hayashima Station	早島駅（はやしま）
+Hayashimichi Station	林道駅（はやしみち）
+Hayashino Station	林野駅（はやしの）
+Hayashisaki-Matsuekaigan Station	林崎松江海岸駅（はやしさきまつえかいがん）
+Hayashizaki Station	林崎駅（はやしざき）
+Hayato Station (Fukushima)	早戸駅（はやと）
+Hayato Station (Kagoshima)	隼人駅（はやと）
+Hayatsukikazumi Station	早月加積駅（はやつきかづみ）
+Hayuka Station	羽床駅（はゆか）
+Hazakawa Station	迫川駅（はざかわ）
+Hazama Station (Kagawa)	羽間駅（はざま）
+Hazama Station (Tokyo)	狭間駅（はざま）
+Hazawa yokohama-kokudai Station	羽沢横浜国大駅（はざわよこはまこくだい）
+Haze Station	波瀬駅（はぜ）
+He[edit]
+Hebita Station	蛇田駅（へびた）
+Hegawa Station	辺川駅（へがわ）
+Heguri Station	平群駅（へぐり）
+Heiandōri Station	平安通駅（へいあんどおり）
+Heijō Station	平城駅（へいじょう）
+Heisei Station	平成駅（へいせい）
+Heita Station	平田駅 (岩手県)（へいた）
+Heiwa Station	平和駅（へいわ）
+Heiwadai Station (Chiba)	平和台駅 (千葉県)（へいわだい）
+Heiwadai Station (Tokyo)	平和台駅 (東京都)（へいわだい）
+Heiwadōri Station	平和通駅（へいわどおり）
+Heiwadōri-Itchōme Station	平和通一丁目駅（へいわどおりいっちょうめ）
+Heiwajima Station	平和島駅（へいわじま）
+Heizu Station	平津駅（へいづ）
+Hekikai-Furui Station	碧海古井駅（へきかいふるい）
+Hekinan Station	碧南駅（へきなん）
+Hekinan-Chūō Station	碧南中央駅（へきなんちゅうおう）
+Hemi Station	逸見駅（へみ）
+Henashi Station	艫作駅（へなし）
+Hesaka Station	戸坂駅（へさか）
+Heta Station	戸田駅 (山口県)（へた）
+Hi[edit]
+Hibari Station	陽羽里駅（ひばり）
+Hibarigaoka Station (Hokkaido)	ひばりが丘駅（ひばりがおか）
+Hibarigaoka Station (Tokyo)	ひばりヶ丘駅（ひばりがおか）
+Hibarigaoka-Hanayashiki Station	雲雀丘花屋敷駅（ひばりがおかはなやしき）
+Hibayama Station	比婆山駅（ひばやま）
+Hibino Station (Aisai, Aichi)	日比野駅 (愛知県愛西市)（ひびの）
+Hibino Station (Nagoya, Aichi)	日比野駅 (愛知県名古屋市)（ひびの）
+Hibiya Station	日比谷駅（ひびや）
+Hida-Furukawa Station	飛騨古川駅（ひだふるかわ）
+Hida-Hagiwara Station	飛騨萩原駅（ひだはぎわら）
+Hida-Hosoe Station	飛騨細江駅（ひだほそえ）
+Hida-Ichinomiya Station	飛騨一ノ宮駅（ひだいちのみや）
+Hidaka-Horobetsu Station	日高幌別駅（ひだかほろべつ）
+Hidaka-Mitsuishi Station	日高三石駅（ひだかみついし）
+Hidaka-Mombetsu Station	日高門別駅（ひだかもんべつ）
+Hida-Kanayama Station	飛騨金山駅（ひだかなやま）
+Hidaka-Tōbetsu Station	日高東別駅（ひだかとうべつ）
+Hida-Kokufu Station	飛騨国府駅（ひだこくふ）
+Hida-Miyada Station	飛騨宮田駅（ひだみやだ）
+Hida-Osaka Station	飛騨小坂駅（ひだおさか）
+Hidariishi Station	左石駅（ひだりいし）
+Hidariseki Station	左堰駅（ひだりせき）
+Hideshio Station	日出塩駅（ひでしお）
+Hideya Station	日出谷駅（ひでや）
+Hido Station	比土駅（ひど）
+Hie Station	比延駅（ひえ）
+Hieizan-Sakamoto Station	比叡山坂本駅（ひえいざんさかもと）
+Higashi-Abiko Station	東我孫子駅（ひがしあびこ）
+Higashi-Agano Station	東吾野駅（ひがしあがの）
+Higashi-Ainonai Station	東相内駅（ひがしあいのない）
+Higashi-Akasaka Station	東赤坂駅（ひがしあかさか）
+Higashi-Akiru Station	東秋留駅（ひがしあきる）
+Higashi-Amagi Station	東甘木駅（ひがしあまぎ）
+Higashi-Aohara Station	東青原駅（ひがしあおはら）
+Higashi-Aomori Station	東青森駅（ひがしあおもり）
+Higashi-Aoyama Station	東青山駅（ひがしあおやま）
+Higashi-Asahikawa Station	東旭川駅（ひがしあさひかわ）
+Higashi-Azuma Station	東あずま駅（ひがしあずま）
+Higashi-Beppu Station	東別府駅（ひがしべっぷ）
+Higashibetsuin Station	東別院駅（ひがしべついん）
+Higashi-Biwajima Station	東枇杷島駅（ひがしびわじま）
+Higashi-Chiba Station	東千葉駅（ひがしちば）
+Higashichō Station	東町駅（ひがしちょう）
+Higashidate Station	東館駅（ひがしだて）
+Higashi-Fuchū Station	東府中駅（ひがしふちゅう）
+Higashi-Fujishima Station	東藤島駅（ひがしふじしま）
+Higashi-Fujiwara Station	東藤原駅（ひがしふじわら）
+Higashi-Fukuma Station	東福間駅（ひがしふくま）
+Higashi-Fukushima Station	東福島駅（ひがしふくしま）
+Higashi-Fukuyama Station	東福山駅（ひがしふくやま）
+Higashi-Funabashi Station	東船橋駅（ひがしふなばし）
+Higashi-Funaoka Station	東船岡駅（ひがしふなおか）
+Higashi-Fusamoto Station	東総元駅（ひがしふさもと）
+Higashi-Fushimi Station	東伏見駅（ひがしふしみ）
+Higashi-Fussa Station	東福生駅（ひがしふっさ）
+Higashi-Futami Station	東二見駅（ひがしふたみ）
+Higashi-Fūren Station	東風連駅（ひがしふうれん）
+Higashi-Gejō Station	東下条駅（ひがしげじょう）
+Higashi-Ginza Station	東銀座駅（ひがしぎんざ）
+Higashi-Gyōda Station	東行田駅（ひがしぎょうだ）
+Higashi-Hachimori Station	東八森駅（ひがしはちもり）
+Higashi-Hatchō Station	東八町駅（ひがしはっちょう）
+Higashi-Hagi Station	東萩駅（ひがしはぎ）
+Higashi-Hagoromo Station	東羽衣駅（ひがしはごろも）
+Higashi-Hakuraku Station	東白楽駅（ひがしはくらく）
+Higashihama Station	東浜駅（ひがしはま）
+Higashi-Hanawa Station	東花輪駅（ひがしはなわ）
+Higashi-Hanazono Station	東花園駅（ひがしはなぞの）
+Higashi-Hannō Station	東飯能駅（ひがしはんのう）
+Higashi-Hashisaki Station	東觜崎駅（ひがしはしさき）
+Higashi-Hazu Station	東幡豆駅（ひがしはず）
+Higashi-Hie Station	東比恵駅（ひがしひえ）
+Higashi-Himeji Station	東姫路駅（ひがしひめじ）
+Higashi-Hiroshima Station	東広島駅（ひがしひろしま）
+Higashihonganjimae Station	東本願寺前駅（ひがしほんがんじまえ）
+Higashi-Horonuka Station	東幌糠駅（ひがしほろぬか）
+Higashi-Ichiki Station	東市来駅（ひがしいちき）
+Higashi-Ikebukuro Station	東池袋駅（ひがしいけぶくろ）
+Higashi-Ikebukuro-Yonchōme Station	東池袋四丁目駅（ひがしいけぶくろよんちょうめ）
+Higashi-Ikoma Station	東生駒駅（ひがしいこま）
+Higashi-Isahaya Station	東諌早駅（ひがしいさはや）
+Higashi-Ishiguro Station	東石黒駅（ひがしいしぐろ）
+Higashi-Ishinden Station	東一身田駅（ひがしいしんでん）
+Higashi-Iwase Station	東岩瀬駅（ひがしいわせ）
+Higashi-Iwatsuki Station	東岩槻駅（ひがしいわつき）
+Higashi-Jūjō Station	東十条駅（ひがしじゅうじょう）
+Higashi-Kaijin Station	東海神駅（ひがしかいじん）
+Higashi-Kaimon Station	東開聞駅（ひがしかいもん）
+Higashi-Kaizuka Station	東貝塚駅（ひがしかいづか）
+Higashi-Kakogawa Station	東加古川駅（ひがしかこがわ）
+Higashi-Kanagawa Station	東神奈川駅（ひがしかながわ）
+Higashi-Kanai Station	東金井駅（ひがしかない）
+Higashi-Kanazawa Station	東金沢駅（ひがしかなざわ）
+Higashi-Karatsu Station	東唐津駅（ひがしからつ）
+Higashi-Kariya Station	東刈谷駅
+Higashi-Kashiwazaki Station	東柏崎駅（ひがしかしわざき）
+Higashi-Katsura Station	東桂駅（ひがしかつら）
+Higashi-Kawaguchi Station	東川口駅（ひがしかわぐち）
+Higashi-Kishiwada Station	東岸和田駅（ひがしきしわだ）
+Higashi-Kitazawa Station	東北沢駅（ひがしきたざわ）
+Higashi-Kiyokawa Station	東清川駅（ひがしきよかわ）
+Higashi-Koganei Station	東小金井駅（ひがしこがねい）
+Higashi-Kohama Station	東粉浜駅（ひがしこはま）
+Higashi-Koizumi Station	東小泉駅（ひがしこいずみ）
+Higashi-Kokura Station	東小倉駅（ひがしこくら）
+Higashi-Komoro Station	東小諸駅（ひがしこもろ）
+Higashi-Kōge Station	東郡家駅（ひがしこおげ）
+Higashi-Kōenji Station	東高円寺駅（ひがしこうえんじ）
+Higashikōgyōmae Station	東工業前駅（ひがしこうぎょうまえ）
+Higashi-Kunebetsu Station	東久根別駅（ひがしくねべつ）
+Higashi-Kurume Station	東久留米駅
+Higashi-Kushiro Station	東釧路駅
+Higashikuyakushomae Station	東区役所前駅（ひがしくやくしょまえ）
+Higashi-Maizuru Station	東舞鶴駅（ひがしまいづる）
+Higashi-Matsubara Station	東松原駅（ひがしまつばら）
+Higashi-Matsudo Station	東松戸駅
+Higashi-Matsue Station (Shimane)	東松江駅 (島根県)
+Higashi-Matsue Station (Wakayama)	東松江駅 (和歌山県)
+Higashi-Matsusaka Station	東松阪駅
+Higashi-Matsuyama Station	東松山駅（ひがしまつやま）
+Higashi-Menda Station	東免田駅
+Higashi-Mihama Station	東美浜駅
+Higashi-Mikkaichi Station	東三日市駅
+Higashi-Mikuni Station	東三国駅
+Higashi-Minato Station	東湊駅
+Higashi-Mito Station	東水戸駅
+Higashi-Miyahara Station	東宮原駅
+Higashi-Mizumaki Station	東水巻駅
+Higashi-Monzen Station	東門前駅
+Higashi-Mori Station	東森駅
+Higashi-Moro Station	東毛呂駅
+Higashi-Mukō Station	東向日駅
+Higashi-Mukōjima Station	東向島駅
+Higashi-Murayama Station	東村山駅（ひがしむらやま）
+Higashi-Muroran Station	東室蘭駅（ひがしむろらん）
+Higashi-Nagahara Station	東長原駅（ひがしながはら）
+Higashi-Nagasaki Station	東長崎駅（ひがしながさき）
+Higashi-Nagasawa Station	東長沢駅（ひがしながさわ）
+Higashi-Nagoyakō Station	東名古屋港駅（ひがしなごやこう）
+Higashi-Nakagami Station	東中神駅（ひがしなかがみ）
+Higashi-Nakama Station	東中間駅（ひがしなかま）
+Higashi-Nakano Station	東中野駅（ひがしなかの）
+Higashi-Nakatsu Station	東中津駅（ひがしなかつ）
+Higashi-Nakayama Station	東中山駅（ひがしなかやま）
+Higashi-Namerikawa Station	東滑川駅（ひがしなめりかわ）
+Higashi-Narawa Station	東成岩駅（ひがしならわ）
+Higashi-Narita Station	東成田駅（ひがしなりた）
+Higashi-Naruo Station	東鳴尾駅（ひがしなるお）
+Higashine Station	東根駅（ひがしね）
+Higashi-Nemuro Station	東根室駅（ひがしねむろ）
+Higashi-Nihombashi Station	東日本橋駅（ひがしにほんばし）
+Higashi-Niigata Station	東新潟駅（ひがしにいがた）
+Higashi-Niitsu Station	東新津駅（ひがしにいつ）
+Higashi-Nikkawa Station	東新川駅 (群馬県)（ひがしにっかわ）
+Higashino Station (Gifu)	東野駅 (岐阜県)（ひがしの）
+Higashino Station (Kyoto)	東野駅 (京都府)（ひがしの）
+Higashinodanchi Station	ひがし野団地駅（ひがしのだんち）
+Higashi-Nojiri Station	東野尻駅（ひがしのじり）
+Higashi-Noshiro Station	東能代駅（ひがしのしろ）
+Higashi-Obama Station	東小浜駅（ひがしおばま）
+Higashi-Ōbuke Station	東大更駅（ひがしおおぶけ）
+Higashi-Ōdate Station	東大館駅（ひがしおおだて）
+Higashi-Ōgaki Station	東大垣駅（ひがしおおがき）
+Higashi-ogu-sanchōme Station	東尾久三丁目停留場（ひがしおぐさんちょうめ）
+Higashi-Oiwake Station	東追分駅（ひがしおいわけ）
+Higashi-Ōjima Station	東大島駅（ひがしおおじま）
+Higashi-Okayama Station	東岡山駅（ひがしおかやま）
+Higashi-Okazaki Station	東岡崎駅（ひがしおかざき）
+Higashi-Ōme Station	東青梅駅（ひがしおうめ）
+Higashi-Ōmiya Station	東大宮駅（ひがしおおみや）
+Higashi-Onomichi Station	東尾道駅（ひがしおのみち）
+Higashi-Ōsaki Station	東大崎駅（ひがしおおさき）
+Higashi-Ōte Station	東大手駅（ひがしおおて）
+Higashi-Rinkan Station	東林間駅（ひがしりんかん）
+Higashi-Rokusen Station	東六線駅（ひがしろくせん）
+Higashi-Saigawa-Sanshirō Station	東犀川三四郎駅（ひがしさいがわさんしろう）
+Higashi-Sakata Station	東酒田駅（ひがしさかた）
+Higashi-Sanjō Station	東三条駅（ひがしさんじょう）
+Higashi-Sano Station	東佐野駅（ひがしさの）
+Higashi-Sapporo Station	東札幌駅（ひがしさっぽろ）
+Higashi-Sendai Station	東仙台駅（ひがしせんだい）
+Higashi-Shikagoe Station	東鹿越駅（ひがししかごえ）
+Higashi-Shingi Station	東新木駅（ひがししんぎ）
+Higashi-Shinjō Station	東新庄駅（ひがししんじょう）
+Higashi-Shinjuku Station	東新宿駅（ひがししんじゅく）
+Higashi-Shinkawa Station	東新川駅 (山口県)（ひがししんかわ）
+Higashi-Shinmachi Station	東新町駅（ひがししんまち）
+Higashi-Shinminato Station	東新湊駅（ひがししんみなと）
+Higashi-Shiogama Station	東塩釜駅（ひがししおがま）
+Higashi-Shiroishi Station	東白石駅（ひがししろいし）
+Higashi-Shizunai Station	東静内駅（ひがししずない）
+Higashi-Shizuoka Station	東静岡駅（ひがししずおか）
+Higashisono Station	東園駅（ひがしその）
+Higashi-Sōja Station	東総社駅（ひがしそうじゃ）
+Higashi-Sukumo Station	東宿毛駅（ひがしすくも）
+Higashi-Suma Station	東須磨駅（ひがしすま）
+Higashi-Tabira Station	東田平駅（ひがしたびら）
+Higashi-Tagonoura Station	東田子の浦駅（ひがしたごのうら）
+Higashi-Takasaki Station	東高崎駅（ひがしたかさき）
+Higashi-Takasu Station	東高須駅（ひがしたかす）
+Higashi-Takikawa Station	東滝川駅（ひがしたきかわ）
+Higashi-Taku Station	東多久駅（ひがしたく）
+Higashi-Taragi Station	東多良木駅（ひがしたらぎ）
+Higashi-Tarumi Station	東垂水駅（ひがしたるみ）
+Higashi-Tengachaya Station	東天下茶屋駅（ひがしてんがちゃや）
+Higashi-Tokorozawa Station	東所沢駅（ひがしところざわ）
+Higashi-Tomioka Station	東富岡駅（ひがしとみおか）
+Higashi-Tondendōri Station	東屯田通駅（ひがしとんでんどおり）
+Higashi-Totsuka Station	東戸塚駅（ひがしとつか）
+Higashi-Toyama Station	東富山駅（ひがしとやま）
+Higashi-Tsuno Station	東都農駅（ひがしつの）
+Higashi-Tsuyama Station	東津山駅（ひがしつやま）
+Higashi-Tsuzuki Station	東都筑駅（ひがしつづき）
+Higashi-Umeda Station	東梅田駅（ひがしうめだ）
+Higashiura Station	東浦駅（ひがしうら）
+Higashi-Urawa Station	東浦和駅（ひがしうらわ）
+Higashi-Washinomiya Station	東鷲宮駅（ひがしわしのみや）
+Higashiyama Station (Hokkaido)	東山駅 (北海道)（ひがしやま）
+Higashiyama Station (Kyoto)	東山駅 (京都府)（ひがしやま）
+Higashiyama Station (Nara)	東山駅 (奈良県)（ひがしやま）
+Higashiyama Station (Okayama)	東山駅 (岡山県)（ひがしやま）
+Higashi-Yamata Station	東山田駅（ひがしやまた）
+Higashi-Yamakita Station	東山北駅（ひがしやまきた）
+Higashiyamakōen Station (Aichi)	東山公園駅 (愛知県)（ひがしやまこうえん）
+Higashiyamakōen Station (Tottori)	東山公園駅 (鳥取県)（ひがしやまこうえん）
+Higashi-Yamanashi Station	東山梨駅（ひがしやまなし）
+Higashi-Yamashiro Station	東山代駅（ひがしやましろ）
+Higashiyamatoshi Station	東大和市駅（ひがしやまとし）
+Higashi-Yamoto Station	東矢本駅（ひがしやもと）
+Higashi-Yatsuo Station	東八尾駅（ひがしやつお）
+Higashi-Yodogawa Station	東淀川駅（ひがしよどがわ）
+Higashi-Yokota Station	東横田駅（ひがしよこた）
+Higashi-Yūki Station	東結城駅（ひがしゆうき）
+Higashi-Zushi Station	東逗子駅（ひがしずし）
+Higata Station	干潟駅（ひがた）
+Higiri Station	日切駅（ひぎり）
+Higobashi Station	肥後橋駅（ひごばし）
+Higo-Futami Station	肥後二見駅（ひごふたみ）
+Higo-Ikura Station	肥後伊倉駅（ひごいくら）
+Higo-Kōda Station	肥後高田駅（ひごこうだ）
+Higo-Nagahama Station	肥後長浜駅（ひごながはま）
+Higo-Nishinomura Station	肥後西村駅（ひごにしのむら）
+Higo-Ōzu Station	肥後大津駅（ひごおおづ）
+Higoshi Station	樋越駅（ひごし）
+Higo-Tanoura Station	肥後田浦駅（ひごたのうら）
+Higuchi Station (Ibaraki)	ひぐち駅（ひぐち）
+Higuchi Station (Saitama)	樋口駅（ひぐち）
+Hiji Station	日出駅（ひじ）
+Hijidai Station	比地大駅（ひじだい）
+Hijirikōgen Station	聖高原駅（ひじりこうげん）
+Hijiyama-bashi Station	比治山橋駅（ひじやまばし）
+Hijiyama-shita Station	比治山下駅（ひじやました）
+Hikari Station	光駅（ひかり）
+Hikarigaoka Station	光が丘駅（ひかりがおか）
+Hikarinomori Station	光の森駅（ひかりのもり）
+Hikawadai Station	氷川台駅（ひかわだい）
+Hiketa Station	引田駅（ひけた）
+Hikifune Station	曳舟駅（ひきふね）
+Hikiji Station	引治駅（ひきじ）
+Hikime Station	蟇目駅（ひきめ）
+Hikone Station	彦根駅（ひこね）
+Hikoneguchi Station	彦根口駅（ひこねぐち）
+Hikone-Serikawa Station	ひこね芹川駅（ひこねせりかわ）
+Hikosaki Station	彦崎駅（ひこさき）
+Hikosan Station	彦山駅（ひこさん）
+Hime Station	姫駅（ひめ）
+Himeji Station	姫路駅（ひめじ）
+Himeji-Bessho Station	ひめじ別所駅（ひめじべっしょ）
+Himejikamotsu Station	姫路貨物駅（ひめじかもつ）
+Himejima Station	姫島駅（ひめじま）
+Himekawa Station (Hokkaido)	姫川駅 (北海道)（ひめかわ）
+Himekawa Station (Niigata)	姫川駅 (新潟県)（ひめかわ）
+Himematsu Station	姫松駅（ひめまつ）
+Himemiya Station	姫宮駅（ひめみや）
+Himi Station	氷見駅（ひみ）
+Hina Station	比奈駅（ひな）
+Hinaga Station (Mie)	日永駅（ひなが）
+Hinaga Station (Aichi)	日長駅（ひなが）
+Hinaguonsen Station	日奈久温泉駅（ひなぐおんせん）
+Hinase Station	日生駅（ひなせ）
+Hinata Station	日当駅（ひなた）
+Hinatawada Station	日向和田駅（ひなたわだ）
+Hinatayama Station	日当山駅（ひなたやま）
+Hineno Station	日根野駅（ひねの）
+Hino Station (Nagano)	日野駅 (長野県)（ひの）
+Hino Station (Shiga)	日野駅 (滋賀県)（ひの）
+Hino Station (Tokyo)	日野駅 (東京都)（ひの）
+Hinobori Station	日登駅（ひのぼり）
+Hinode Station	日の出駅（ひので）
+Hinodechō Station	日ノ出町駅（ひのでちょう）
+Hinoharu Station	日野春駅（ひのはる）
+Hinomiko Station	日御子駅（ひのみこ）
+Hinuma Station	涸沼駅（ひぬま）
+Hioka Station	日岡駅（ひおか）
+Hira Station (Aichi)	比良駅 (愛知県)（ひら）
+Hira Station (Shiga)	比良駅 (滋賀県)（ひら）
+Hirabayashi Station (Niigata)	平林駅 (新潟県)（ひらばやし）
+Hirabayashi Station (Osaka)	平林駅 (大阪府)（ひらばやし）
+Hiradobashi Station	平戸橋駅（ひらどばし）
+Hirafu Station	比羅夫駅（ひらふ）
+Hirafuku Station	平福駅（ひらふく）
+Hiragi Station	平木駅（ひらぎ）
+Hiragishi Station (Sapporo, Hokkaido)	平岸駅 (北海道札幌市)（ひらぎし）
+Hiragishi Station (Akabira, Hokkaido)	平岸駅 (北海道赤平市)（ひらぎし）
+Hirahara Station	平原駅（ひらはら）
+Hirahari Station	平針駅（ひらはり）
+Hirahata Station	平端駅（ひらはた）
+Hirai Station (Ehime)	平井駅 (愛媛県)（ひらい）
+Hirai Station (Tokyo)	平井駅 (東京都)（ひらい）
+Hiraishi Station	平石駅（ひらいし）
+Hiraiso Station	平磯駅（ひらいそ）
+Hiraiwa Station	平岩駅（ひらいわ）
+Hiraizumi Station	平泉駅（ひらいずみ）
+Hiraka Station	平賀駅（ひらか）
+Hirakatakōen Station	枚方公園駅（ひらかたこうえん）
+Hirakatashi Station	枚方市駅（ひらかたし）
+Hirakawa Station	平川駅（ひらかわ）
+Hiraki Station	開駅（ひらき）
+Hirakida Station	平木田駅（ひらきだ）
+Hirako Station	平子駅（ひらこ）
+Hirakura Station	平倉駅（ひらくら）
+Hirama Station	平間駅（ひらま）
+Hiramatsu Station	平松駅（ひらまつ）
+Hiranai Station	平内駅（ひらない）
+Hiranda Station	ひらんだ駅
+Hirano Station (Fukushima)	平野駅 (福島県)（ひらの）
+Hirano Station (Hyogo)	平野駅 (兵庫県)（ひらの）
+Hirano Station (JR West)	平野駅 (JR西日本)（ひらの）
+Hirano Station (Osaka Municipal Subway)	平野駅 (大阪市営地下鉄)（ひらの）
+Hiranumabashi Station	平沼橋駅（ひらぬまばし）
+Hiraoka Station (Nagano)	平岡駅（ひらおか）
+Hiraoka Station (Osaka)	枚岡駅（ひらおか）
+Hirata Station (Kochi)	平田駅 (高知県)（ひらた）
+Hirata Station (Nagano)	平田駅 (長野県)（ひらた）
+Hirata Station (Shiga)	平田駅 (滋賀県)（ひらた）
+Hiratachō Station	平田町駅（ひらたちょう）
+Hirataki Station	平滝駅（ひらたき）
+Hiratsuka Station	平塚駅（ひらつか）
+Hiratsuto Station	平津戸駅（ひらつと）
+Hirayama Station	平山駅（ひらやま）
+Hirayamajōshikōen Station	平山城址公園駅（ひらやまじょうしこうえん）
+Hiregasaki Station	鰭ヶ崎駅（ひれがさき）
+Hiro Station	広駅（ひろ）
+Hirodaifuzokugakkō-mae Station	広大附属学校前駅（ひろだいふぞくがっこうまえ）
+Hiroden-ajina Station	広電阿品駅（ひろでんあじな）
+Hiroden-hatsukaichi Station	広電廿日市駅（ひろでんはつかいち）
+Hiroden-honsha-mae Station	広電本社前駅（ひろでんほんしゃまえ）
+Hiroden-itsukaichi Station	広電五日市駅（ひろでんいつかいち）
+Hiroden-miyajima-guchi Station	広電宮島口駅（ひろでんみやじまぐち）
+Hiroden-nishi-hiroshima Station	広電西広島駅（ひろでんにしひろしま(こい)）
+Hiro-Gōdo Station	広神戸駅（ひろごうど）
+Hirohata Station	広畑駅（ひろはた）
+Hirokawa Beach Station	広川ビーチ駅（ひろかわびーち）
+Hiroki Station	広木駅（ひろき）
+Hirokōji Station (Mie)	広小路駅 (三重県)（ひろこうじ）
+Hirokōji Station (Toyama)	広小路駅 (富山県)（ひろこうじ）
+Hirokōshita Station	弘高下駅（ひろこうした）
+Hirono Station (Fukushima)	広野駅 (福島県)（ひろの）
+Hirono Station (Hyogo)	広野駅 (兵庫県)（ひろの）
+Hirono-Gorufujōmae Station	広野ゴルフ場前駅（ひろのごるふじょうまえ）
+Hiroo Station	広尾駅（ひろお）
+Hirooka Station	広丘駅（ひろおか）
+Hirosaki Station	弘前駅（ひろさき）
+Hirosaki-Gakuindai-mae Station	弘前学院大前駅（ひろさきがくいんだいまえ）
+Hirosaki-Higashikōmae Station	弘前東高前駅（ひろさきひがしこうまえ）
+Hirose-dōri Station	広瀬通駅（ひろせどおり）
+Hirose-Yachō-no-Mori Station	ひろせ野鳥の森駅（ひろせやちょうのもり）
+Hiroshima Station	広島駅（ひろしま）
+Hiroshima Station (Hiroden)	広島駅|広島電鉄本線|広島駅（ひろしま）
+Hiroshima Freight Terminal Station	広島貨物ターミナル駅（ひろしまかもつたーみなる）
+Hiroshima Port Station	広島港駅（ひろしまこう(うじな)）
+Hirota Station	広田駅（ひろた）
+Hiroto Station	広戸駅（ひろと）
+Hirowara Station	広原駅（ひろわら）
+Hirui Station	昼飯駅（ひるい）
+Hisai Station	久居駅（ひさい）
+Hisanohama Station	久ノ浜駅（ひさのはま）
+Hisaya-Ōdōri Station	久屋大通駅（ひさやおおどおり）
+Hishima Station	比島駅（ひしま）
+Hishiro Station	日代駅（ひしろ）
+Hita Station	日田駅（ひた）
+Hitachi Station	日立駅（ひたち）
+Hitachi-Aoyagi Station	常陸青柳駅（ひたちあおやぎ）
+Hitachi-Daigo Station	常陸大子駅（ひたちだいご）
+Hitachi-Kōnosu Station	常陸鴻巣駅（ひたちこうのす）
+Hitachinai Station	比立内駅（ひたちない）
+Hitachino-Ushiku Station	ひたち野うしく駅（ひたちのうしく）
+Hitachi-Ogawa Station	常陸小川駅（ひたちおがわ）
+Hitachi-Ōmiya Station	常陸大宮駅（ひたちおおみや）
+Hitachi-Ōta Station	常陸太田駅（ひたちおおた）
+Hitachi-Taga Station	常陸多賀駅（ひたちたが）
+Hitachi-Tsuda Station	常陸津田駅（ひたちつだ）
+Hitoichiba Station	一日市場駅（ひといちば）
+Hitomaru Station	人丸駅（ひとまる）
+Hitomarumae Station	人丸前駅（ひとまるまえ）
+Hitomi Station	人見駅（ひとみ）
+Hitotsubashigakuen Station	一橋学園駅（ひとつばしがくえん）
+Hitotsugi Station	一ツ木駅（ひとつぎ）
+Hitoyoshi Station	人吉駅（ひとよし）
+Hitoyoshi-Onsen Station	人吉温泉駅（ひとよしおんせん）
+Hitsu Station	比津駅（ひつ）
+Hiu Station	日宇駅（ひう）
+Hiushinai Station	緋牛内駅（ひうしない）
+Hiwa Station	日羽駅（ひわ）
+Hiwada Station	日和田駅（ひわだ）
+Hiwasa Station	日和佐駅（ひわさ）
+Hiyodorigoe Station	鵯越駅（ひよどりごえ）
+Hiyoshi Station (Kanagawa)	日吉駅 (神奈川県)（ひよし）
+Hiyoshi Station (Kyoto)	日吉駅 (京都府)（ひよし）
+Hiyoshichō Station	日吉町駅（ひよしちょう）
+Hiyoshi-Honchō Station	日吉本町駅（ひよしほんちょう）
+Hizen-Asahi Station	肥前旭駅（ひぜんあさひ）
+Hizen-Iida Station	肥前飯田駅（ひぜんいいだ）
+Hizen-Ōura Station	肥前大浦駅（ひぜんおおうら）
+Hizen-Fumoto Station	肥前麓駅（ひぜんふもと）
+Hizen-Hama Station	肥前浜駅（ひぜんはま）
+Hizen-Kashima Station	肥前鹿島駅（ひぜんかしま）
+Hizen-Koga Station	肥前古賀駅（ひぜんこが）
+Hizen-Kubo Station	肥前久保駅（ひぜんくぼ）
+Hizen-Nagano Station	肥前長野駅（ひぜんながの）
+Hizen-Nagata Station	肥前長田駅（ひぜんながた）
+Hizen-Nanaura Station	肥前七浦駅（ひぜんななうら）
+Hizen-Ryūō Station	肥前竜王駅（ひぜんりゅうおう）
+Hizen-Shiroishi Station	肥前白石駅（ひぜんしろいし）
+Hizen-Yamaguchi Station	肥前山口駅（ひぜんやまぐち）
+Hizume Station	日詰駅（ひづめ）
+Ho[edit]
+Hobara Station	保原駅（ほばら）
+Hobo Station	保々駅（ほぼ）
+Hōdatsu Station	宝達駅（ほうだつ）
+Hōden Station	宝殿駅（ほうでん）
+Hodogaya Station	保土ヶ谷駅（ほどがや）
+Hodokubo Station	程久保駅（ほどくぼ）
+Hōei Station	蓬栄駅（ほうえい）
+Hōfu Station	防府駅（ほうふ）
+Hōfu-Kamotsu Station	防府貨物駅（ほうふかもつ）
+Hōgi Station	宝木駅（ほうぎ）
+Hōjōmachi Station	北条町駅（ほうじょうまち）
+Hōkaiin Station	法界院駅（ほうかいいん）
+Hōki-Daisen Station	伯耆大山駅（ほうきだいせん）
+Hōki-Mizoguchi Station	伯耆溝口駅（ほうきみぞぐち）
+Hokkaidō-Iryōdaigaku Station	北海道医療大学駅（ほっかいどういりょうだいがく）
+Hokkeguchi Station	法華口駅（ほっけぐち）
+Hōkoku Station	方谷駅（ほうこく）
+Hokota Station	鉾田駅（ほこた）
+Hokuhoku-Ōshima Station	ほくほく大島駅（ほくほくおおしま）
+Hokunō Station	北濃駅（ほくのう）
+Hokusei Station	北星駅（ほくせい）
+Hokuseichūōkōenguchi Station	北勢中央公園口駅（ほくせいちゅうおうこうえんぐち）
+Hokutetsu-Kanazawa Station	北鉄金沢駅（ほくてつかなざわ）
+Homi Station	保見駅（ほみ）
+Hommachi Station	本町駅（ほんまち）
+Hommachi-Gochōme Station	本町五丁目駅（ほんまちごちょうめ）
+Hommachi-Rokuchōme Station	本町六丁目駅（ほんまちろくちょうめ）
+Hommachi-Sanchōme Station	本町三丁目駅（ほんまちさんちょうめ）
+Hommachi-Yonchōme Station	本町四丁目駅（ほんまちよんちょうめ）
+Hommataga Station	本俣賀駅（ほんまたが）
+Hommokufutō Station	本牧埠頭駅（ほんもくふとう）
+Hōnanchō Station	方南町駅（ほうなんちょう）
+Hon-Atsugi Station	本厚木駅（ほんあつぎ）
+Hon-Isahaya Station	本諫早駅（ほんいさはや）
+Hon-Ishikura Station	本石倉駅（ほんいしくら）
+Honai Station	保内駅（ほない）
+Hon-Chiba Station	本千葉駅（ほんちば）
+Honda Station	誉田駅（ほんだ）
+Hondōri Station (Astram Line)	本通駅 (アストラムライン)（ほんどおり）
+Hondōri Station (Hiroden)	本通駅 (広島電鉄宇品線)（ほんどおり）
+Hongō Station (Aichi)	本郷駅 (愛知県)（ほんごう）
+Hongō Station (Fukuoka)	本郷駅 (福岡県)（ほんごう）
+Hongō Station (Hiroshima)	本郷駅 (広島県)（ほんごう）
+Hongō Station (Nagano)	本郷駅 (長野県)（ほんごう）
+Hongōdai Station	本郷台駅（ほんごうだい）
+Hongō-Sanchōme Station	本郷三丁目駅（ほんごうさんちょうめ）
+Hongū Station	本宮駅 (富山県)（ほんぐう）
+Hon-Hachinohe Station	本八戸駅（ほんはちのへ）
+Honjin Station	本陣駅（ほんじん）
+Honjo-Azumabashi Station	本所吾妻橋駅（ほんじょあずまばし）
+Honjō Station (Saitama)	本庄駅（ほんじょう）
+Honjō Station (Fukuoka)	本城駅（ほんじょう）
+Honjō Station (Fukui)	本荘駅（ほんじょう）
+Honjō-Waseda Station	本庄早稲田駅（ほんじょうわせだ）
+Honkawachi Station	本川内駅（ほんかわち）
+Honkawa-cho Station	本川町駅（ほんかわちょう）
+Hon-Kawagoe Station	本川越駅（ほんかわごえ）
+Honkiri Station	本桐駅（ほんきり）
+Hon-Komagome Station	本駒込駅（ほんこまごめ）
+Hon-Kugenuma Station	本鵠沼駅（ほんくげぬま）
+Hon-Kuroda Station	本黒田駅（ほんくろだ）
+Hon-Mutabe Station	本牟田部駅（ほんむたべ）
+Honna Station	本名駅（ほんな）
+Hon-Nagashino Station	本長篠駅（ほんながしの）
+Hon-Nakano Station	本中野駅（ほんなかの）
+Honnō Station	本納駅（ほんのう）
+Hon-Shiogama Station	本塩釜駅（ほんしおがま）
+Hon-Tatsuno Station	本竜野駅（ほんたつの）
+Hon-Tsubata Station	本津幡駅（ほんつばた）
+Hon-Yoshiwara Station	本吉原駅（ほんよしわら）
+Hon-Yura Station	本由良駅（ほんゆら）
+Hōrai Station	蓬莱駅（ほうらい）
+Hōraioka Station	ほうらい丘駅（ほうらいおか）
+Horei Station	甫嶺駅（ほれい）
+Horie Station	堀江駅（ほりえ）
+Horigome Station	堀米駅（ほりごめ）
+Horikawa Station	堀川駅（ほりかわ）
+Horikawa-Koizumi Station	堀川小泉駅（ほりかわこいずみ）
+Horikiri Station	堀切駅（ほりきり）
+Horikiri-Shōbuen Station	堀切菖蒲園駅（ほりきりしょうぶえん）
+Horinai Station	堀内駅（ほりない）
+Horinouchi Station	堀ノ内駅（ほりのうち）
+Horita Station (Nagoya Municipal Subway)	堀田駅 (名古屋市営地下鉄)（ほりた）
+Horita Station (Meitetsu)	堀田駅 (名鉄)（ほりた）
+Horiuchi-Kōen Station	堀内公園駅（ほりうちこうえん）
+Horobetsu Station	幌別駅（ほろべつ）
+Horohirabashi Station	幌平橋駅（ほろひらばし）
+Horomui Station	幌向駅（ほろむい）
+Horonobe Station	幌延駅（ほろのべ）
+Horonuka Station	幌糠駅（ほろぬか）
+Hōryūji Station	法隆寺駅（ほうりゅうじ）
+Hōshakuji Station	宝積寺駅（ほうしゃくじ）
+Hoshida Station	星田駅（ほしだ）
+Hoshigaoka Station (Aichi)	星ヶ丘駅 (愛知県)（ほしがおか）
+Hoshigaoka Station (Osaka)	星ヶ丘駅 (大阪府)（ほしがおか）
+Hoshii Station	糒駅（ほしい）
+Hoshikawa Station (Kanagawa)	星川駅 (神奈川県)（ほしかわ）
+Hoshikawa Station (Mie)	星川駅 (三重県)（ほしかわ）
+Hoshimi Station	ほしみ駅（ほしみ）
+Hoshino Station	星の駅（ほしの）
+Hoshioki Station	星置駅（ほしおき）
+Hoshiya Station	布施屋駅（ほしや）
+Hōshuyama Station	宝珠山駅（ほうしゅやま）
+Hosobata Station	細畑駅（ほそばた）
+Hosokura Mine Park Mae Station	細倉マインパーク前駅（ほそくらまいんぱーくまえ）
+Hosono Station	細野駅（ほその）
+Hōsono Station	祝園駅（ほうその）
+Hosooka Station	細岡駅（ほそおか）
+Hosorogi Station	細呂木駅（ほそろぎ）
+Hosoura Station	細浦駅（ほそうら）
+Hosoya Station (Gunma)	細谷駅 (群馬県)（ほそや）
+Hosoya Station (Shizuoka)	細谷駅 (静岡県)（ほそや）
+Hossaka Station	発坂駅（ほっさか）
+Hōsui-Susukino Station	豊水すすきの駅（ほうすいすすきの）
+Hota Station (Chiba)	保田駅 (千葉県)（ほた）
+Hota Station (Fukui)	保田駅 (福井県)（ほた）
+Hotaka Station	穂高駅（ほたか）
+Hotaruda Station	螢田駅（ほたるだ）
+Hotarugaike Station	蛍池駅（ほたるがいけ）
+Hotei Station	布袋駅（ほてい）
+Hottoyuda Station	ほっとゆだ駅
+Hōya Station	保谷駅（ほうや）
+Hōzanji Station	宝山寺駅（ほうざんじ）
+Hōzenji Station	法善寺駅（ほうぜんじ）
+Hozue Station	上枝駅（ほずえ）
+Hozukyō Station	保津峡駅（ほづきょう）
+Hozumi Station	穂積駅（ほづみ）
+Hu - Hy[edit]
+Huis Ten Bosch Station	ハウステンボス駅
+Hyōgo Station	兵庫駅（ひょうご）
+Hyōkiyama Station	表木山駅（ひょうきやま）
+Hyōtanyama Station (Aichi)	瓢箪山駅 (愛知県)（ひょうたんやま）
+Hyōtanyama Station (Osaka)	瓢箪山駅 (大阪府)（ひょうたんやま）
+Hyūga Station	日向駅（ひゅうが）
+Hyūga-Kitakata Station	日向北方駅（ひゅうがきたかた）
+Hyūga-Kutsukake Station	日向沓掛駅（ひゅうがくつかけ）
+Hyūga-Maeda Station	日向前田駅（ひゅうがまえだ）
+Hyūga-Nagai Station	日向長井駅（ひゅうがながい）
+Hyūga-Ōtsuka Station	日向大束駅（ひゅうがおおつか）
+Hyūgashi Station	日向市駅（ひゅうがし）
+Hyūga-Shintomi Station	日向新富駅（ひゅうがしんとみ）
+Hyūga-Shōnai Station	日向庄内駅（ひゅうがしょうない）
+Hyūga-Sumiyoshi Station	日向住吉駅（ひゅうがすみよし）

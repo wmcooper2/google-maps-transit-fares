@@ -1,0 +1,764 @@
+Nabari Station	名張駅（なばり）
+Nabata Station	菜畑駅（なばた）
+Nabekura Station	鍋倉駅（なべくら）
+Nabera Station	鍋原駅（なべら）
+Nabeshima Station	鍋島駅（なべしま）
+Nachi Station	那智駅（なち）
+Nada Station	灘駅（なだ）
+Nadachi Station	名立駅（なだち）
+Naebo Station	苗穂駅（なえぼ）
+Nagae Station	長江駅（ながえ）
+Nagahama Station	長浜駅（ながはま）
+Nagahara Station (Shiga)	永原駅（ながはら）
+Nagahara Station (Osaka)	長原駅 (大阪府)（ながはら）
+Nagahara Station (Tokyo)	長原駅 (東京都)（ながはら）
+Nagahoribashi Station	長堀橋駅（ながほりばし）
+Nagai Station (Yamagata)	長井駅（ながい）
+Nagai Station (Osaka)	長居駅（ながい）
+Nagaike Station	長池駅（ながいけ）
+Nagaizumi-Nameri Station	長泉なめり駅（ながいずみなめり）
+Nagakute-Kosenjō Station	長久手古戦場駅（ながくてこせんじょう）
+Nagamachi Station	長町駅（ながまち）
+Nagamachi-Itchōme Station	長町一丁目駅（ながまちいっちょうめ）
+Nagamachi-Minami Station	長町南駅（ながまちみなみ）
+Nagamine Station	長峰駅（ながみね）
+Nagamori Station	長森駅（ながもり）
+Naganawashiro Station	長苗代駅（ながなわしろ）
+Nagano Station	長野駅（ながの）
+Naganohara-Kusatsuguchi Station	長野原草津口駅（ながのはらくさつぐち）
+Naganuma Station (Shizuoka)	長沼駅 (静岡県)（ながぬま）
+Naganuma Station (Tokyo)	長沼駅 (東京都)（ながぬま）
+Nagao Station (Kagawa)	長尾駅 (香川県)（ながお）
+Nagao Station (Osaka)	長尾駅 (大阪府)（ながお）
+Nagao Station (Saga)	永尾駅（ながお）
+Nagaoka Station	長岡駅（ながおか）
+Nagaokakyō Station	長岡京駅（ながおかきょう）
+Nagaoka-Tenjin Station	長岡天神駅（ながおかてんじん）
+Nagara Station	長柄駅（ながら）
+Nagareyama Station	流山駅（ながれやま）
+Nagareyamaonsen Station	流山温泉駅（ながれやまおんせん）
+Nagareyama-centralpark Station	流山セントラルパーク駅（ながれやませんとらるぱーく）
+Nagareyama Ōtakanomori Station	流山おおたかの森駅（ながれやまおおたかのもり）
+Nagasaka Station	長坂駅（ながさか）
+Nagasaki Station (Nagasaki)	長崎駅 (長崎県)（ながさき）
+Nagasaki-daigakumae Station	長崎大学前駅（ながさきだいがくまえ）
+Nagasakiekimae Station	長崎駅前駅（ながさきえきまえ）
+Nagasato Station	長里駅（ながさと）
+Nagasawa Station	長沢駅（ながさわ）
+Nagase Station	長瀬駅（ながせ）
+Nagashima Station	長島駅（ながしま）
+Nagashima Dam Station	長島ダム駅（ながしまだむ）
+Nagashinojō Station	長篠城駅（ながしのじょう）
+Nagasu Station	長洲駅（ながす）
+Nagata Station (Chiba)	永田駅 (千葉県)（ながた）
+Nagata Station (Osaka)	長田駅 (大阪府)（ながた）
+Nagata Station (Saitama)	永田駅 (埼玉県)（ながた）
+Nagata Station (Kobe Subway)	長田駅 (神戸市営地下鉄)（ながた）
+Nagata Station (Shintetsu)	長田駅 (神戸電鉄)（ながた）
+Nagatachō Station	永田町駅（ながたちょう）
+Nagataki Station	長滝駅（ながたき）
+Nagatani Station	長谷駅 (広島県)（ながたに）
+Nagatanino Station	長谷野駅（ながたにの）
+Nagato-Awano Station	長門粟野駅（ながとあわの）
+Nagato-Furuichi Station	長門古市駅（ながとふるいち）
+Nagato-Futami Station	長門二見駅（ながとふたみ）
+Nagato-Misumi Station	長門三隅駅（ながとみすみ）
+Nagato-Motoyama Station	長門本山駅（ながともとやま）
+Nagato-Nagasawa Station	長門長沢駅（ながとながさわ）
+Nagato-Ōi Station	長門大井駅（ながとおおい）
+Nagatori Station	長鳥駅（ながとり）
+Nagatoro Station	長瀞駅（ながとろ）
+Nagatoshi Station	長門市駅（ながとし）
+Nagatoyumoto Station	長門湯本駅（ながとゆもと）
+Nagatsuta Station	長津田駅（ながつた）
+Nagaura Station (Aichi)	長浦駅 (愛知県)（ながうら）
+Nagaura Station (Chiba)	長浦駅 (千葉県)（ながうら）
+Nagawa Station	長和駅（ながわ）
+Nagaya Station	長屋駅（ながや）
+Nagayama Station (Hokkaido)	永山駅（ながやま）
+Nagayama Station (Aichi)	長山駅（ながやま）
+Nagayo Station	長与駅（ながよ）
+Nagi Station	那岐駅（なぎ）
+Nagisa Station (Gifu)	渚駅 (岐阜県)（なぎさ）
+Nagisa Station (Nagano)	渚駅 (長野県)（なぎさ）
+Nagiso Station	南木曽駅（なぎそ）
+Nagitsuji Station	椥辻駅（なぎつじ）
+Nago Station	奈古駅（なご）
+Nagonoura Station	長太ノ浦駅（なごのうら）
+Nagose Station	名越駅（なごせ）
+Nagoya Dome-mae Yada Station	ナゴヤドーム前矢田駅（なごやどーむまえやだ）
+Nagoya Station	名古屋駅（なごや）
+Nagoyadaigaku Station	名古屋大学駅（なごやだいがく）
+Nagoya Kamotsu Terminal Station	名古屋貨物ターミナル駅（なごやかもつたーみなる）
+Nagoya-keibajō-mae Station	名古屋競馬場前駅（なごやけいばじょうまえ）
+Nagoyakō Station	名古屋港駅 (名古屋市営地下鉄)（なごやこう）
+Nagoya-Minato Station	名古屋港駅 (JR貨物)（なごやみなと）
+Nagusa Station	名草駅（なぐさ）
+Naguwa Station	南桑駅（なぐわ）
+Naha Airport Station	那覇空港駅（なはくうこう）
+Naha City Hospital Station	市立病院前駅（しりつびょういんまえ）
+Nahari Station	奈半利駅（なはり）
+Naie Station	奈井江駅（ないえ）
+Naijōshi Station	撫牛子駅（ないじょうし）
+Najima Station	名島駅（なじま）
+Naka Station	那加駅（なか）
+Nakaaibetsu Station	中愛別駅（なかあいべつ）
+Nakaarai Station	中荒井駅（なかあらい）
+Nakabaru Station	中原駅（なかばる）
+Nakada Station	中田駅 (神奈川県)（なかだ）
+Nakafukawa Station	中深川駅（なかふかわ）
+Nakafukura Station	中福良駅（なかふくら）
+Nakafunyū Station	中舟生駅（なかふにゅう）
+Nakafurano Station	中富良野駅（なかふらの）
+Nakafutō Station (Hyogo)	中埠頭駅（なかふとう）
+Nakafutō Station (Osaka)	中ふ頭駅（なかふとう）
+Nakagami Station	中神駅（なかがみ）
+Nakagawa Station (Kanagawa)	中川駅 (神奈川県)（なかがわ）
+Nakagawa Station (Yamagata)	中川駅 (山形県)（なかがわ）
+Nakagawara Station (Mie)	中川原駅（なかがわら）
+Nakagawara Station (Tokyo)	中河原駅（なかがわら）
+Nakagaya Station	中萱駅（なかがや）
+Nakagomi Station	中込駅（なかごみ）
+Naka-Gōra Station	中強羅駅（なかごうら）
+Nakagoya Station	中小屋駅（なかごや）
+Nakahagi Station	中萩駅（なかはぎ）
+Nakahama Station	中浜駅（なかはま）
+Nakahanda Station	中判田駅（なかはんだ）
+Nakahata Station	中畑駅 (広島県)（なかはた）
+Nakai Station	中井駅（なかい）
+Nakaiburi Station	中飯降駅（なかいぶり）
+Nakaisamurai Station	中井侍駅（なかいさむらい）
+Naka-Itabashi Station	中板橋駅（なかいたばし）
+Nakaizumi Station	中泉駅（なかいずみ）
+Nakajima Station	中島駅 (愛知県)（なかじま）
+Nakajimafutō Station	中島埠頭駅（なかじまふとう）
+Nakajimakōen Station	中島公園駅（なかじまこうえん）
+Nakajimakōen-dōri Station	中島公園通駅（なかじまこうえんどおり）
+Nakajō Station	中条駅（なかじょう）
+Nakakazumi Station	中加積駅（なかかづみ）
+Naka-Karuizawa Station	中軽井沢駅（なかかるいざわ）
+Nakakawabe Station	中川辺駅（なかかわべ）
+Nakakido Station	仲木戸駅（なかきど）
+Naka-Komono Station	中菰野駅（なかこもの）
+Nakakōen Station	中公園駅（なかこうえん）
+Nakama Station	中間駅（なかま）
+Nakamachidai Station	仲町台駅（なかまちだい）
+Nakamatsu Station	中松駅（なかまつ）
+Nakamatsue Station	中松江駅（なかまつえ）
+Naka-Meguro Station	中目黒駅（なかめぐろ）
+Nakaminato Station	那珂湊駅（なかみなと）
+Nakamita Station	中三田駅（なかみた）
+Nakamiyori-Onsen Station	中三依温泉駅（なかみよりおんせん）
+Nakamizuno Station	中水野駅（なかみずの）
+Nakamozu Station	中百舌鳥駅（なかもず）
+Nakamura Station	中村駅（なかむら）
+Nakamurabashi Station	中村橋駅（なかむらばし）
+Nakamura Kōen Station	中村公園駅（なかむらこうえん）
+Nakamura Kuyakusho Station	中村区役所駅（なかむらくやくしょ）
+Nakamura Nisseki Station	中村日赤駅（なかむらにっせき）
+Nakamyō Station	中名駅（なかみょう）
+Naka-Namerikawa Station	中滑川駅（なかなめりかわ）
+Nakane Station	中根駅（なかね）
+Nakano Station (Gunma)	中野駅 (群馬県)（なかの）
+Nakano Station (Tokyo)	中野駅 (東京都)（なかの）
+Nakanobu Station	中延駅（なかのぶ）
+Nakanochō Station	仲ノ町駅（なかのちょう）
+Nakano-Fujimicho Station	中野富士見町駅（なかのふじみちょう）
+Nakanogō Station	中之郷駅（なかのごう）
+Nakanohigashi Station	中野東駅（なかのひがし）
+Nakanojō Station	中之条駅（なかのじょう）
+Nakano-Matsukawa Station	中野松川駅（なかのまつかわ）
+Nakanosakae Station	中野栄駅（なかのさかえ）
+Nakano-Sakaue Station	中野坂上駅（なかのさかうえ）
+Nakanosawa Station	中ノ沢駅（なかのさわ）
+Nakanoshima Station (Hokkaido)	中の島駅（なかのしま）
+Nakanoshima Station (Kanagawa)	中野島駅（なかのしま）
+Nakanoshima Station (Osaka)	中之島駅（なかのしま）
+Nakanoshinbashi Station	中野新橋駅（なかのしんばし）
+Nakanoshō Station	中ノ庄駅（なかのしょう）
+Nakaoguni Station	中小国駅（なかおぐに）
+Naka-Okachimachi Station	仲御徒町駅（なかおかちまち）
+Naka-Okazaki Station	中岡崎駅（なかおかざき）
+Nakaotai Station	中小田井駅（なかおたい）
+Nakasasebo Station	中佐世保駅（なかさせぼ）
+Nakasato Station (Iwate)	中里駅 (岩手県)（なかさと）
+Nakasato Station (Nagano)	中佐都駅（なかさと）
+Nakasawa Station	中沢駅（なかさわ）
+Nakaseko Station	中瀬古駅（なかせこ）
+Nakashari Station	中斜里駅（なかしゃり）
+Nakashima Station	中島駅 (広島県)（なかしま）
+Naka-Shimminato Station	中新湊駅（なかしんみなと）
+Nakashioda Station	中塩田駅（なかしおだ）
+Nakashō Station	中庄駅（なかしょう）
+Nakasuda Station	中須田駅（なかすだ）
+Naka-Sugaya Station	中菅谷駅（なかすがや）
+Nakasuji Station	中筋駅（なかすじ）
+Nakasukawabata Station	中洲川端駅（なかすかわばた）
+Nakata Station	中田駅 (青森県)（なかた）
+Nakatabira Station	中田平駅（なかたびら）
+Nakataku Station	中多久駅（なかたく）
+Nakatoppu Station	中徳富駅（なかとっぷ）
+Nakatoyo Station	中豊駅（なかとよ）
+Nakatsu Station (Oita)	中津駅 (大分県)（なかつ）
+Nakatsu Station (Hankyu)	中津駅 (阪急)（なかつ）
+Nakatsu Station (Osaka Municipal Subway)	中津駅 (大阪市営地下鉄)（なかつ）
+Naka-Tsubata Station	中津幡駅（なかつばた）
+Nakatsuchi Station	中土駅（なかつち）
+Nakatsugawa Station	中津川駅（なかつがわ）
+Nakatsuma Station	中妻駅（なかつま）
+Nakatsuno Station	中角駅（なかつの）
+Nakaura Station	中浦駅（なかうら）
+Nakaurawa Station	中浦和駅（なかうらわ）
+Nakayagi Station	中八木駅（なかやぎ）
+Nakayama Station (Kanagawa)	中山駅 (神奈川県)（なかやま）
+Nakayamadaira-Onsen Station	中山平温泉駅（なかやまだいらおんせん）
+Nakayamadera Station	中山寺駅（なかやまでら）
+Naka-Yamaga Station	中山香駅（なかやまが）
+Nakayamaguchi Station	中山口駅（なかやまぐち）
+Nakayamajuku Station	中山宿駅（なかやまじゅく）
+Nakayama-kannon Station	中山観音駅（なかやまかんのん）
+Nakazakichō Station	中崎町駅（なかざきちょう）
+Nakazato Station	中里駅 (長崎県)（なかざと）
+Nakofunakata Station	那古船形駅（なこふなかた）
+Nakoso Station	勿来駅（なこそ）
+Namamugi Station	生麦駅（なまむぎ）
+Namaze Station	生瀬駅（なまぜ）
+Namazuta Station	鯰田駅（なまずた）
+Namba Station	難波駅（なんば）
+Nambu-shijō Station	南部市場駅（なんぶしじょう）
+Namegawa Station	滑河駅（なめがわ）
+Namegawa Island Station	行川アイランド駅（なめがわアイランド）
+Namerikawa Station	滑川駅（なめりかわ）
+Namezu Station	滑津駅（なめづ）
+Namie Station	浪江駅（なみえ）
+Namihana Station	浪花駅（なみはな）
+Namiita-Kaigan Station	浪板海岸駅（なみいたかいがん）
+Namikata Station	波方駅（なみかた）
+Namikawa Station	並河駅（なみかわ）
+Namiki-chūō Station	並木中央駅（なみきちゅうおう）
+Namikikita Station	並木北駅（なみききた）
+Namino Station	波野駅（なみの）
+Namioka Station	浪岡駅（なみおか）
+Nanae Station	七飯駅（ななえ）
+Nanaehama Station	七重浜駅（ななえはま）
+Nanai Station	七井駅（なない）
+Nanakōdai Station	七光台駅（ななこうだい）
+Nanakubo Station	七久保駅（ななくぼ）
+Nanakuma Station	七隈駅（ななくま）
+Nanao Station	七尾駅（ななお）
+Nanasato Station	七里駅（ななさと）
+Nanatsugatake-Tozanguchi Station	七ヶ岳登山口駅（ななつがたけとざんぐち）
+Nanatsuka Station	七塚駅（ななつか）
+Nanatsuya Station	七ツ屋駅（ななつや）
+Nanawa Station	七和駅（ななわ）
+Nangō Station	南郷駅（なんごう）
+Nangō Jūhatchōme Station	南郷18丁目駅（なんごうじゅうはっちょうめ）
+Nangō Jūsanchōme Station	南郷13丁目駅（なんごうじゅうさんちょうめ）
+Nangō Nanachōme Station	南郷7丁目駅（なんごうななちょうめ）
+Naniwabashi Station	なにわ橋駅（なにわばし）
+Nanjai Station	南蛇井駅（なんじゃい）
+Nanjō Station	南条駅（なんじょう）
+Nankōguchi Station	南港口駅（なんこうぐち）
+Nankōhigashi Station	南港東駅（なんこうひがし）
+Nanukamachi Station	七日町駅（なぬかまち）
+Nan'yō-Shiyakusho Station	南陽市役所駅（なんようしやくしょ）
+Naoe Station	直江駅（なおえ）
+Naoetsu Station	直江津駅（なおえつ）
+Naokawa Station	直川駅（なおかわ）
+Naomi Station	直見駅（なおみ）
+Nara Station	奈良駅（なら）
+Naraguchi Station	那良口駅（ならぐち）
+Narahara Station	楢原駅（ならはら）
+Narai Station	奈良井駅（ならい）
+Narashino Station	習志野駅（ならしの）
+Narawa Station	成岩駅（ならわ）
+Narayama Station	平城山駅（ならやま）
+Narimasu Station	成増駅（なります）
+Narita Station	成田駅（なりた）
+Narita Airport Terminal 1 Station	成田空港駅（なりたくうこう）
+Narita Airport Terminal 2·3 Station	空港第2ビル駅（くうこうだい2ビル）
+Narita Yukawa Station	成田湯川駅（なりたゆかわ）
+Naritasan Station	成田山駅（なりたさん）
+Naruishi Station	鳴石駅（なるいし）
+Naruko-Gotenyu Station	鳴子御殿湯駅（なるこごてんゆ）
+Naruko Kita Station	鳴子北駅（なるこきた）
+Naruko-Onsen Station	鳴子温泉駅（なるこおんせん）
+Narumi Station	鳴海駅（なるみ）
+Naruo - Mukogawajoshidai-Mae Station	鳴尾・武庫川女子大前駅（なるおむこがわじょしだいまえ）
+Narusawa Station	鳴沢駅（なるさわ）
+Naruse Station	成瀬駅（なるせ）
+Narushima Station (Gunma)	成島駅 (群馬県)（なるしま）
+Narushima Station (Yamagata)	成島駅 (山形県)（なるしま）
+Narutaki Station	鳴滝駅（なるたき）
+Naruto Station	鳴門駅（なると）
+Narutō Station	成東駅（なるとう）
+Nasu-Shiobara Station	那須塩原駅（なすしおばら）
+Nata Station	奈多駅（なた）
+Nate Station	名手駅（なて）
+Natori Station	名取駅（なとり）
+Natsui Station	夏井駅（なつい）
+Nawa Station (Aichi)	名和駅 (愛知県)（なわ）
+Nawa Station (Tottori)	名和駅 (鳥取県)（なわ）
+Nayoro Station	名寄駅（なよろ）
+Ne[edit]
+Nebukawa Station	根府川駅（ねぶかわ）
+Nechi Station	根知駅（ねち）
+Negasa Station	根笠駅（ねがさ）
+Negishi Station (Fukushima)	根岸駅 (福島県)（ねぎし）
+Negishi Station (Kanagawa)	根岸駅 (神奈川県)（ねぎし）
+Negoya Station	根小屋駅（ねごや）
+Nemoto Station	根本駅（ねもと）
+Nemuro Station	根室駅（ねむろ）
+Neppu Station	熱郛駅（ねっぷ）
+Nerima Station	練馬駅（ねりま）
+Nerima-Kasugachō Station	練馬春日町駅（ねりまかすがちょう）
+Nerima-Takanodai Station	練馬高野台駅（ねりまたかのだい）
+Neu Station	根雨駅（ねう）
+New Chitose Airport Station	新千歳空港駅（しんちとせくうこう）
+Neyagawakōen Station	寝屋川公園駅（ねやがわこうえん）
+Neyagawashi Station	寝屋川市駅（ねやがわし）
+Nezu Station	根津駅（ねづ）
+Nezugaseki Station	鼠ヶ関駅（ねずがせき）
+Ni[edit]
+Nibu Station	丹生駅（にぶ）
+Nibuno Station	仁豊野駅（にぶの）
+Nichihara Station	日原駅（にちはら）
+Nichinan Station	日南駅（にちなん）
+Nichizengū Station	日前宮駅（にちぜんぐう）
+Niekawa Station	贄川駅（にえかわ）
+Nigata Station	仁方駅（にがた）
+Nigatake Station	苦竹駅（にがたけ）
+Nigatsuden Station	二月田駅（にがつでん）
+Nigawa Station	仁川駅（にがわ）
+Nigishima Station	二木島駅（にぎしま）
+Nigiwaibashi Station	賑橋駅（にぎわいばし）
+Niho Station	仁保駅（にほ）
+Nihombashi Station	日本橋駅 (東京都)（にほんばし）
+Nihommatsu Station	二本松駅（にほんまつ）
+Nihongi Station	二本木駅（にほんぎ）
+Nihongiguchi Station	二本木口駅（にほんぎぐち）
+Nihon-heso-kōen Station	日本へそ公園駅（にほんへそこうえん）
+Nihon-ōdōri Station	日本大通り駅（にほんおおどおり）
+Nihonrain-Imawatari Station	日本ライン今渡駅（にほんらいんいまわたり）
+Nihozu Station	仁保津駅（にほづ）
+Nii Station (Hyogo)	新井駅 (兵庫県)（にい）
+Nii Station (Mie)	新居駅（にい）
+Niida Station (Fukushima)	二井田駅（にいだ）
+Niida Station (Kochi)	仁井田駅 (高知県)（にいだ）
+Niigata Station	新潟駅（にいがた）
+Niigata-daigaku-mae Station	新潟大学前駅（にいがただいがくまえ）
+Niihama Station	新居浜駅（にいはま）
+Niihari Station	新治駅（にいはり）
+Niikappu Station	新冠駅（にいかっぷ）
+Niimi Station	新見駅（にいみ）
+Niimura Station	新村駅（にいむら）
+Niino Station	新野駅 (兵庫県)（にいの）
+Niisato Station	新里駅 (群馬県)（にいさと）
+Niita Station	仁井田駅 (栃木県)（にいた）
+Niitsu Station	新津駅（にいつ）
+Niitsuki Station	新月駅（にいつき）
+Niitsuru Station	新鶴駅（にいつる）
+Niiya Station	新谷駅（にいや）
+Niiza Station	新座駅（にいざ）
+Niiza Kamotsu Terminal Station	新座貨物ターミナル駅（にいざかもつたーみなる）
+Niizaki Station	新崎駅（にいざき）
+Niizato Station	新郷駅 (岡山県)（にいざと）
+Nijikken Station	二十軒駅（にじっけん）
+Nijino Station	虹の駅（にじの）
+Nijinomatsubara Station	虹ノ松原駅（にじのまつばら）
+Nijō Station (Kyoto)	二条駅（にじょう）
+Nijō Station (Nara)	二上駅（にじょう）
+Nijō-jinjaguchi Station	二上神社口駅（にじょうじんじゃぐち）
+Nijōjōmae Station	二条城前駅（にじょうじょうまえ）
+Nijōzan Station	二上山駅（にじょうざん）
+Nijūbashimae Station	二重橋前駅（にじゅうばしまえ）
+Nijūyonken Station	二十四軒駅（にじゅうよんけん）
+Nikaho Station	仁賀保駅（にかほ）
+Nikaidō Station	二階堂駅（にかいどう）
+Nikenchaya Station	二軒茶屋駅 (京都府)（にけんちゃや）
+Nikenjaya Station	二軒茶屋駅 (鹿児島県)（にけんぢゃや）
+Nikenya Station	二軒屋駅（にけんや）
+Niki Station	仁木駅（にき）
+Nikkakagakumae Station	日華化学前駅（にっかかがくまえ）
+Nikkawa Station	新川駅 (群馬県)（にっかわ）
+Nikkō Station	日光駅（にっこう）
+Nima Station	仁万駅（にま）
+Ningyōchō Station	人形町駅（にんぎょうちょう）
+Ninohe Station	二戸駅（にのへ）
+Ninokuchi Station	新ノ口駅（にのくち）
+Ninomiya Station	二宮駅（にのみや）
+Ninose Station	二ノ瀬駅（にのせ）
+Nippa Station	新羽駅（にっぱ）
+Nippombashi Station	日本橋駅 (大阪府)（にっぽんばし）
+Nippori Station	日暮里駅（にっぽり）
+Niragawa Station	韮川駅（にらがわ）
+Nirasaki Station	韮崎駅（にらさき）
+Nirayama Station	韮山駅（にらやま）
+Niregi Station	楡木駅（にれぎ）
+Nirehara Station	楡原駅（にれはら）
+Nirigahama Station	二里ヶ浜駅（にりがはま）
+Nirō Station	二郎駅（にろう）
+Nisato Station	新里駅 (青森県)（にさと）
+Niseko Station	ニセコ駅
+Nishi-Achi Station	西阿知駅（にしあち）
+Nishi-Agano Station	西吾野駅（にしあがの）
+Nishi-Aioi Station	西相生駅（にしあいおい）
+Nishi-Akashi Station	西明石駅（にしあかし）
+Nishi-Aoyama Station	西青山駅（にしあおやま）
+Nishiarai Station	西新井駅（にしあらい）
+Nishiaraidaishi-nishi Station	西新井大師西駅（にしあらいだいしにし）
+Nishi-Arita Station	西有田駅（にしありた）
+Nishi-Ashikajima Station	西海鹿島駅（にしあしかじま）
+Nishi-Awakura Station	西粟倉駅（にしあわくら）
+Nishibara Station	西原駅 (徳島県)（にしばら）
+Nishibessho Station	西別所駅（にしべっしょ）
+Nishi-Betsuin Station	西別院駅（にしべついん）
+Nishi-Biwajima Station	西枇杷島駅（にしびわじま）
+Nishibukuro Station	西袋駅（にしぶくろ）
+Nishibun Station	西分駅（にしぶん）
+Nishi-Chiba Station	西千葉駅（にしちば）
+Nishichō Station	西町駅（にしちょう）
+Nishi-Chōfu Station	西調布駅（にしちょうふ）
+Nishidai Station (Hyogo)	西代駅（にしだい）
+Nishidai Station (Tochigi)	西田井駅（にしだい）
+Nishidai Station (Tokyo)	西台駅（にしだい）
+Nishi-Ei Station	西頴娃駅（にしえい）
+Nishi-Eifuku Station	西永福駅（にしえいふく）
+Nishi-Eigashima Station	西江井ヶ島駅（にしえいがしま）
+Nishifu Station	西府駅（にしふ）
+Nishi-Fujinomiya Station	西富士宮駅（にしふじのみや）
+Nishi-Fujiwara Station	西藤原駅（にしふじわら）
+Nishi-Funabashi Station	西船橋駅（にしふなばし）
+Nishi-Furukawa Station	西古川駅（にしふるかわ）
+Nishi-Futami Station	西二見駅（にしふたみ）
+Nishigahara Station	西ヶ原駅（にしがはら）
+Nishigahara-yonchōme Station	西ヶ原四丁目駅（にしがはらよんちょうめ）
+Nishigahō Station	西ヶ方駅（にしがほう）
+Nishigawa Ryokudōkōen Station	西川緑道公園駅（にしがわりょくどうこうえん）
+Nishigawara Station	西川原駅（にしがわら）
+Nishi-Gifu Station	西岐阜駅（にしぎふ）
+Nishigishi Station	西岸駅（にしぎし）
+Nishi-Gobō Station	西御坊駅（にしごぼう）
+Nishi-Goryō Station	西御料駅（にしごりょう）
+Nishi Hatchōme Station	西8丁目駅（にしはっちょうめ）
+Nishi-Hachiōji Station	西八王子駅（にしはちおうじ）
+Nishi-Hamada Station	西浜田駅（にしはまだ）
+Nishi-Hamanomachi Station	西浜町駅（にしはまのまち）
+Nishi-Hanyū Station	西羽生駅（にしはにゅう）
+Nishihara Station	西原駅 (広島県)（にしはら）
+Nishiharu Station	西春駅（にしはる）
+Nishiharue Heartpia Station	西春江ハートピア駅（にしはるえはーとぴあ）
+Nishihata Station	西畑駅（にしはた）
+Nishi-Hazu Station	西幡豆駅（にしはず）
+Nishihino Station	西日野駅（にしひの）
+Nishi-Hiranai Station	西平内駅（にしひらない）
+Nishi-Hiroshima Station	西広島駅（にしひろしま）
+Nishi-Hitoyoshi Station	西人吉駅（にしひとよし）
+Nishi-Hōda Station	西這田駅（にしほうだ）
+Nishi-Horibata Station	西堀端駅（にしほりばた）
+Nishi-Ichinomiya Station	西一宮駅（にしいちのみや）
+Nishi-Isahaya Station	西諫早駅（にしいさはや）
+Nishi-Iwakuni Station	西岩国駅（にしいわくに）
+Nishi-Izumi Station (Kagoshima)	西出水駅（にしいずみ）
+Nishiizumi Station (Ishikawa)	西泉駅（にしいずみ）
+Nishi-Izumo Station	西出雲駅（にしいずも）
+Nishijin Station	西新駅（にしじん）
+Nishijō Station	西条駅 (長野県)（にしじょう）
+Nishi Jūgochōme Station	西15丁目駅（にしじゅうごちょうめ）
+Nishi Jūhatchōme Station	西18丁目駅（にしじゅうはっちょうめ）
+Nishi Jūitchōme Station	西11丁目駅（にしじゅういっちょうめ）
+Nishi-Kagura Station	西神楽駅（にしかぐら）
+Nishi-Kajima Station	西鹿島駅（にしかじま）
+Nishi-Kakegawa Station	西掛川駅（にしかけがわ）
+Nishi-Kamakura Station	西鎌倉駅（にしかまくら）
+Nishi-Kanazawa Station	西金沢駅（にしかなざわ）
+Nishi-Kani Station	西可児駅（にしかに）
+Nishi-Kannonmachi Station	西観音町駅（にしかんのんまち）
+Nishi-Karashimachō Station	西辛島町駅（にしからしまちょう）
+Nishi-Karatsu Station	西唐津駅（にしからつ）
+Nishi-Kasai Station	西葛西駅（にしかさい）
+Nishi-Kasamatsu Station	西笠松駅（にしかさまつ）
+Nishi-Kaseda Station	西笠田駅（にしかせだ）
+Nishikata Station	西方駅（にしかた）
+Nishi-Katakami Station	西片上駅（にしかたかみ）
+Nishi-Katsumada Station	西勝間田駅（にしかつまだ）
+Nishi-Kawada Station	西川田駅（にしかわだ）
+Nishi-Kawagoe Station	西川越駅（にしかわごえ）
+Nishi-Kawaguchi Station	西川口駅（にしかわぐち）
+Nishi-Kazumi Station	西加積駅（にしかづみ）
+Nishiki Station	錦駅（にしき）
+Nishikichō Station	錦町駅（にしきちょう）
+Nishi-Kizu Station	西木津駅（にしきづ）
+Nishi-Kiga Station	西気賀駅（にしきが）
+Nishikinohama Station	二色浜駅（にしきのはま）
+Nishi-Kinuyama Station	西衣山駅（にしきぬやま）
+Nishikioka Station	錦岡駅（にしきおか）
+Nishi-Kiryū Station	西桐生駅（にしきりゅう）
+Nishi-Kitami Station	西北見駅（にしきたみ）
+Nishi-Koba Station	西木場駅（にしこば）
+Nishi-Kobayashi Station	西小林駅（にしこばやし）
+Nishi-Koizumi Station	西小泉駅（にしこいずみ）
+Nishi-Kokubunji Station	西国分寺駅（にしこくぶんじ）
+Nishi-Kokura Station	西小倉駅（にしこくら）
+Nishi-Koyama Station	西小山駅（にしこやま）
+Nishi-Kozakai Station	西小坂井駅（にしこざかい）
+Nishikujō Station	西九条駅（にしくじょう）
+Nishi-Kumamoto Station	西熊本駅（にしくまもと）
+Nishi-Kunitachi Station	西国立駅（にしくにたち）
+Nishi-Kurisu Station	西栗栖駅（にしくりす）
+Nishi-Kurosaki Station	西黒崎駅（にしくろさき）
+Nishi-Kuwana Station	西桑名駅（にしくわな）
+Nishikyōgoku Station	西京極駅（にしきょうごく）
+Nishi-Maeda Station	西前田駅（にしまえだ）
+Nishi-Magome Station	西馬込駅（にしまごめ）
+Nishi-Maiko Station	西舞子駅（にしまいこ）
+Nishi-Maizuru Station	西舞鶴駅（にしまいづる）
+Nishi-Matsuida Station	西松井田駅（にしまついだ）
+Nishi-Matsumoto Station	西松本駅（にしまつもと）
+Nishime Station	西目駅（にしめ）
+Nishi-Memambetsu Station	西女満別駅（にしめまんべつ）
+Nishi-Miyakonojō Station	西都城駅（にしみやこのじょう）
+Nishi-Miyoshi Station	西三次駅（にしみよし）
+Nishi-Mizuho Station	西瑞穂駅（にしみずほ）
+Nishi-Motomachi Station	西元町駅（にしもとまち）
+Nishi-Mukō Station	西向日駅（にしむこう）
+Nishimuta Station	西牟田駅（にしむた）
+Nishinada Station	西灘駅（にしなだ）
+Nishi-Nagahori Station	西長堀駅（にしながほり）
+Nishinagata Yurinosato Station	西長田ゆりの里駅（にしながたゆりのさと）
+Nishinaka Station	西中駅（にしなか）
+Nishinakadōri Station	西中通駅（にしなかどおり）
+Nishinakajima-Minamigata Station	西中島南方駅（にしなかじまみなみがた）
+Nishi-Nakano Station	西中野駅（にしなかの）
+Nishi-Namerikawa Station	西滑川駅（にしなめりかわ）
+Nishi-Nasuno Station	西那須野駅（にしなすの）
+Nishi Nijūhatchōme Station	西28丁目駅（にしにじゅうはっちょうめ）
+Nishi-Nippori Station	西日暮里駅（にしにっぽり）
+Nishi-Nobuto Station	西登戸駅（にしのぶと）
+Nishi-Nojiri Station	西野尻駅（にしのじり）
+Nishinokuchi Station	西ノ口駅（にしのくち）
+Nishinokyō Station	西ノ京駅（にしのきょう）
+Nishinomiya Station (JR West)	西宮駅 (JR西日本)（にしのみや）
+Nishinomiya Station (Hanshin)	西宮駅 (阪神)（にしのみや）
+Nishinomiya-kitaguchi Station	西宮北口駅（にしのみやきたぐち）
+Nishinomiya-Najio Station	西宮名塩駅（にしのみやなじお）
+Nishinoshō Station	西ノ庄駅（にしのしょう）
+Nishi-Nyūzen Station	西入善駅（にしにゅうぜん）
+Nishio Station	西尾駅（にしお）
+Nishi-Obihiro Station	西帯広駅（にしおびひろ）
+Nishioe Station	西麻植駅（にしおえ）
+Nishi-Ogikubo Station	西荻窪駅（にしおぎくぼ）
+Nishioguchi Station	西尾口駅（にしおぐち）
+Nishi-Okayama Station	西岡山駅（にしおかやま）
+Nishi-Okazaki Station	西岡崎駅（にしおかざき）
+Nishi-Ōchi Station	西相知駅（にしおうち）
+Nishi-Ōgaki Station	西大垣駅（にしおおがき）
+Nishi-Ōgata Station	西大方駅（にしおおがた）
+Nishi-Ōhara Station	西大原駅（にしおおはら）
+Nishiōhashi Station	西大橋駅（にしおおはし）
+Nishi-Ōi Station	西大井駅（にしおおい）
+Nishi-Ōita Station	西大分駅（にしおおいた）
+Nishiōji Station	西大路駅（にしおおじ）
+Nishiōji Oike Station	西大路御池駅（にしおおじおいけ）
+Nishiōji-Sanjō Station	西大路三条駅（にしおおじさんじょう）
+Nishi-Ōjima Station	西大島駅（にしおおじま）
+Nishi-Ōmiya Station	西大宮駅（にしおおみや）
+Nishi-Ōsaki Station	西大崎駅（にしおおさき）
+Nishi-Ōtaki Station	西大滝駅（にしおおたき）
+Nishi-Ōte Station	西大手駅（にしおおて）
+Nishi-Ōtsuka Station	西大塚駅（にしおおつか）
+Nishi-Ōya Station	西大家駅（にしおおや）
+Nishi-Ōyama Station	西大山駅（にしおおやま）
+Nishi-Ōzu Station	西大洲駅（にしおおず）
+Nishi-Rubeshibe Station	西留辺蘂駅（にしるべしべ）
+Nishi-Sabae Station	西鯖江駅（にしさばえ）
+Nishi-Sagae Station	西寒河江駅（にしさがえ）
+Nishi-Sakawa Station	西佐川駅（にしさかわ）
+Nishi-Samani Station	西様似駅（にしさまに）
+Nishi-Sanso Station	西三荘駅（にしさんそう）
+Nishisato Station	西里駅（にしさと）
+Nishi-Seiwa Station	西聖和駅（にしせいわ）
+Nishisendai-Hairand Station	西仙台ハイランド駅（にしせんだいはいらんど）
+Nishisen Jūichijō Station	西線11条駅（にしせんじゅういちじょう）
+Nishisen Jūrokujō Station	西線16条駅（にしせんじゅうろくじょう）
+Nishisen Jūyojō Station	西線14条駅（にしせんじゅうよじょう）
+Nishisen Kujō Asahiyama-kōen-dōri Station	西線9条旭山公園通駅（にしせんくじょうあさひやまこうえんどおり）
+Nishisen Rokujō Station	西線6条駅（にしせんろくじょう）
+Nishi-Shibata Station	西新発田駅（にししばた）
+Nishi-Shikama Station	西飾磨駅（にししかま）
+Nishi-Shimmachi Station	西新町駅（にししんまち）
+Nishi-Shinjuku Station	西新宿駅（にししんじゅく）
+Nishi-Shinjuku Gochōme Station	西新宿五丁目駅（にししんじゅくごちょうめ）
+Nishi Shinminato Station	西新湊駅（にししんみなと）
+Nishi-Shiogama Station	西塩釜駅（にししおがま）
+Nishi-Shiroi Station	西白井駅（にししろい）
+Nishi-Shoro Station	西庶路駅（にししょろ）
+Nishi-Soeda Station	西添田駅（にしそえだ）
+Nishi-Sugamo Station	西巣鴨駅（にしすがも）
+Nishi-Suzurandai Station	西鈴蘭台駅（にしすずらんだい）
+Nishi-Tabira Station	西田平駅（にしたびら）
+Nishi-Tachiarai Station	西太刀洗駅（にしたちあらい）
+Nishi-Tachikawa Station	西立川駅（にしたちかわ）
+Nishi-Taishidō Station	西太子堂駅（にしたいしどう）
+Nishi-Takakura Station	西高蔵駅（にしたかくら）
+Nishi-Takanosu Station	西鷹巣駅（にしたかのす）
+Nishi-Takaoka Station	西高岡駅（にしたかおか）
+Nishi-Takashimadaira Station	西高島平駅（にしたかしまだいら）
+Nishi-Takasu Station	西高須駅（にしたかす）
+Nishi-Takaya Station	西高屋駅（にしたかや）
+Nishitakisawa Station	西滝沢駅（にしたきさわ）
+Nishitanabe Station	西田辺駅（にしたなべ）
+Nishi-Tawaramoto Station	西田原本駅（にしたわらもと）
+Nishi-Tengachaya Station	西天下茶屋駅（にしてんがちゃや）
+Nishitetsu Chihaya Station	西鉄千早駅（にしてつちはや）
+Nishitetsu Fukuma Station	西鉄福間駅（にしてつふくま）
+Nishitetsu Futsukaichi Station	西鉄二日市駅（にしてつふつかいち）
+Nishitetsu Ginsui Station	西鉄銀水駅（にしてつぎんすい）
+Nishitetsu Gojō Station	西鉄五条駅（にしてつごじょう）
+Nishitetsu Hirao Station	西鉄平尾駅（にしてつひらお）
+Nishitetsu Kashii Station	西鉄香椎駅（にしてつかしい）
+Nishitetsu Koga Station	西鉄古賀駅（にしてつこが）
+Nishitetsu Kurume Station	西鉄久留米駅（にしてつくるめ）
+Nishitetsu Nakashima Station	西鉄中島駅（にしてつなかしま）
+Nishitetsu Ogōri Station	西鉄小郡駅（にしてつおごおり）
+Nishitetsu Shingū Station	西鉄新宮駅（にしてつしんぐう）
+Nishitetsu Wataze Station	西鉄渡瀬駅（にしてつわたぜ）
+Nishitetsu Yanagawa Station	西鉄柳川駅（にしてつやながわ）
+Nishi-Tokorozawa Station	西所沢駅（にしところざわ）
+Nishi-Tomii Station	西富井駅（にしとみい）
+Nishi-Tomioka Station	西富岡駅（にしとみおか）
+Nishi-Toride Station	西取手駅（にしとりで）
+Nishi-Toyama Station	西富山駅（にしとやま）
+Nishi-Tsubame Station	西燕駅（にしつばめ）
+Nishi-Tsuruga Station	西敦賀駅（にしつるが）
+Nishi-Ueda Station	西上田駅（にしうえだ）
+Nishi-Umeda Station	西梅田駅（にしうめだ）
+Nishi-Uozu Station	西魚津駅（にしうおづ）
+Nishiura Station	西浦駅（にしうら）
+Nishi-Urakami Station	西浦上駅（にしうらかみ）
+Nishi-Urawa Station	西浦和駅（にしうらわ）
+Nishi-Wada Station	西和田駅（にしわだ）
+Nishi-Wakamatsu Station	西若松駅（にしわかまつ）
+Nishiwakishi Station	西脇市駅（にしわきし）
+Nishi-Waseda Station	西早稲田駅（にしわせだ）
+Nishiya Station	西谷駅（にしや）
+Nishi-Yaizu Station	西焼津駅（にしやいづ）
+Nishiyama Station (Fukuoka)	西山駅 (福岡県)（にしやま）
+Nishiyama Station (Niigata)	西山駅 (新潟県)（にしやま）
+Nishiyamaguchi Station	西山口駅（にしやまぐち）
+Nishiyamakōen Station	西山公園駅（にしやまこうえん）
+Nishiyama Tennozan Station	西山天王山駅（にしやまてんのうざん）
+Nishi-Yamana Station	西山名駅（にしやまな）
+Nishiyashiki Station	西屋敷駅（にしやしき）
+Nishi-Yokohama Station	西横浜駅（にしよこはま）
+Nishi Yonchōme Station	西4丁目駅（にしよんちょうめ）
+Nishi-Yonezawa Station	西米沢駅（にしよねざわ）
+Nishi-Yoshii Station	西吉井駅（にしよしい）
+Nishōishi Station	二升石駅（にしょういし）
+Nissei-Chūō Station	日生中央駅（にっせいちゅうおう）
+Nisseki-byōinmae Station	日赤病院前駅（にっせきびょういんまえ）
+Nisshin Station (Aichi)	日進駅 (愛知県)（にっしん）
+Nisshin Station (Hokkaido)	日進駅 (北海道)（にっしん）
+Nisshin Station (Saitama)	日進駅 (埼玉県)（にっしん）
+Nitanai Station	似内駅（にたない）
+Nitta Station (Fukushima)	新田駅 (福島県)（にった）
+Nitta Station (Miyagi)	新田駅 (宮城県)（にった）
+Nittaki Station	日立木駅（にったき）
+Nittano Station	新田野駅（にったの）
+Nittazuka Station	新田塚駅（にったづか）
+Niwasaka Station	庭坂駅（にわさか）
+Niwase Station	庭瀬駅（にわせ）
+Niyama Station	仁山駅（にやま）
+No[edit]
+Nō Station	能生駅（のう）
+Nobeoka Station	延岡駅（のべおか）
+Nobeyama Station	野辺山駅（のべやま）
+Nobiru Station	野蒜駅（のびる）
+Noboribetsu Station	登別駅（のぼりべつ）
+Noborito Station	登戸駅（のぼりと）
+Nobukata Station	延方駅（のぶかた）
+Nobuki Station	信木駅（のぶき）
+Nobusha Station	信砂駅（のぶしゃ）
+Nochi Station	野馳駅（のち）
+Noda Station (JR West)	野田駅 (JR西日本)（のだ）
+Noda Station (Hanshin)	野田駅 (阪神)（のだ）
+Nodagō Station	野田郷駅（のだごう）
+Nodahanshin Station	野田阪神駅（のだはんしん）
+Nodajō Station	野田城駅（のだじょう）
+Nodaoi Station	野田生駅（のだおい）
+Nodashi Station	野田市駅（のだし）
+Noda-Shimmachi Station	野田新町駅（のだしんまち）
+Noda-Tamagawa Station	野田玉川駅（のだたまがわ）
+Noe Station	野江駅（のえ）
+Noe-Uchindai Station	野江内代駅（のえうちんだい）
+Nōgakubumae Station	農学部前駅（のうがくぶまえ）
+Nogami Station	野上駅（のがみ）
+Nogamihara Station	野上原駅（のがみはら）
+Nogata Station	野方駅（のがた）
+Nōgata Station	直方駅（のおがた）
+Nogi Station (Shimane)	乃木駅（のぎ）
+Nogi Station (Tochigi)	野木駅（のぎ）
+Nogisawa Station	野木沢駅（のぎさわ）
+Nogizaka Station	乃木坂駅（のぎざか）
+Noheji Station	野辺地駅（のへじ）
+Noichi Station	のいち駅
+Nojimakōen Station	野島公園駅（のじまこうえん）
+Nojiri Station	野尻駅（のじり）
+Nokanan Station	野花南駅（のかなん）
+Noke Station	野芥駅（のけ）
+Nōkendai Station	能見台駅（のうけんだい）
+Noma Station	野間駅（のま）
+Nomachi Station	野町駅（のまち）
+Nōmachi Station	能町駅（のうまち）
+Nomineagari Station	能美根上駅（のみねあがり）
+Nonai Station	野内駅（のない）
+Nonaka Station	野中駅（のなか）
+Nonami Station	野並駅（のなみ）
+Nonodake Station	のの岳駅（ののだけ）
+Nonoichi Station (JR West)	野々市駅 (JR西日本)（ののいち）
+Nonoichi Station (Hokuriku Railway)	野々市駅 (北陸鉄道)（ののいち）
+Nonoichi-Kōdaimae Station	野々市工大前駅（ののいちこうだいまえ）
+Nonokuchi Station	野々口駅（ののくち）
+Norfork Hiroba Station	ノーフォーク広場駅（のーふぉーくひろば）
+Nopporo Station	野幌駅（のっぽろ）
+Nose Station	能瀬駅（のせ）
+Noseki Station	野跡駅（のせき）
+Noshi Station	野志駅（のし）
+Noshiro Station	能代駅（のしろ）
+Notobe Station	能登部駅（のとべ）
+Notogawa Station	能登川駅（のとがわ）
+Noto-Kashima Station	能登鹿島駅（のとかしま）
+Noto-Nakajima Station	能登中島駅（のとなかじま）
+Noto-Ninomiya Station	能登二宮駅（のとにのみや）
+Noya Station	野矢駅（のや）
+Nozaki Station (Osaka)	野崎駅 (大阪府)（のざき）
+Nozaki Station (Tochigi)	野崎駅 (栃木県)（のざき）
+Nozato Station	野里駅（のざと）
+Nozawa Station	野沢駅（のざわ）
+Nozoki Station	及位駅（のぞき）
+Nukada Station	額田駅 (茨城県)（ぬかだ）
+Nu[edit]
+Nuka-Jūtakumae Station	額住宅前駅（ぬかじゅうたくまえ）
+Nukanan Station	糠南駅（ぬかなん）
+Nukata Station	額田駅 (大阪府)（ぬかた）
+Nukazawa Station	糠沢駅（ぬかざわ）
+Nukumi Station	生見駅（ぬくみ）
+Nukuta Station	温田駅（ぬくた）
+Numabe Station	沼部駅（ぬまべ）
+Numabukuro Station	沼袋駅（ぬまぶくろ）
+Numakubo Station	沼久保駅（ぬまくぼ）
+Numanohata Station	沼ノ端駅（ぬまのはた）
+Numanosawa Station	沼ノ沢駅（ぬまのさわ）
+Numata Station	沼田駅（ぬまた）
+Numazu Station	沼津駅（ぬまづ）
+Nunobe Station	布部駅（ぬのべ）
+Nunohara Station	布原駅（ぬのはら）
+Nunoichi Station	布市駅（ぬのいち）
+Nunose Station	布忍駅（ぬのせ）
+Nunoshida Station	布師田駅（ぬのしだ）
+Nunozaki Station	布崎駅（ぬのざき）
+Nuttari Station	沼垂駅（ぬったり）
+Nyūgawa Station (Ehime)	壬生川駅（にゅうがわ）
+Nyūgawa Station (Mie)	丹生川駅（にゅうがわ）
+Nyūno Station	入野駅 (広島県)（にゅうの）
+Nyūzen Station	入善駅（にゅうぜん）

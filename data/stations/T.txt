@@ -1,0 +1,817 @@
+Tabaruzaka Station	田原坂駅（たばるざか）
+Tabata Station (Nagano)	田畑駅（たばた）
+Tabata Station (Tokyo)	田端駅（たばた）
+Tabira-Hiradoguchi Station	たびら平戸口駅（たびらひらどぐち）
+Tabuse Station	田布施駅（たぶせ）
+Tabushi Station	旅伏駅（たぶし）
+Tachiaigawa Station	立会川駅（たちあいがわ）
+Tachiarai Station	太刀洗駅（たちあらい）
+Tachibana Station	立花駅（たちばな）
+Tachihi Station	立飛駅（たちひ）
+Tachikawa Station	立川駅（たちかわ）
+Tachikawa-Kita Station	立川北駅（たちかわきた）
+Tachikawa-Minami Station	立川南駅（たちかわみなみ）
+Tachiki Station	立木駅（たちき）
+Tachikōji Station	立小路駅（たちこうじ）
+Tachima Station	立間駅（たちま）
+Tachita Station	館田駅（たちた）
+Tada Station (Hyogo)	多田駅 (兵庫県)（ただ）
+Tada Station (Tochigi)	多田駅 (栃木県)（ただ）
+Tadachi Station	田立駅（ただち）
+Tadami Station	只見駅（ただみ）
+Tadanoumi Station	忠海駅（ただのうみ）
+Tadaoka Station	忠岡駅（ただおか）
+Tado Station	多度駅（たど）
+Tadotsu Station	多度津駅（たどつ）
+Tagajō Station	多賀城駅（たがじょう）
+Tagami Station (Gifu)	田神駅（たがみ）
+Tagami Station (Niigata)	田上駅（たがみ）
+Tagataishamae Station	多賀大社前駅（たがたいしゃまえ）
+Tagatajinjamae Station	田県神社前駅（たがたじんじゃまえ）
+Tagawa-Gotōji Station	田川後藤寺駅（たがわごとうじ）
+Tagawa-Ita Station	田川伊田駅（たがわいた）
+Tagawa-Shiritsubyōin Station	田川市立病院駅（たがわしりつびょういん）
+Tagi Station	田儀駅（たぎ）
+Tagiri Station	田切駅（たぎり）
+Tagokura Station	田子倉駅（たごくら）
+Tahara Station	田原駅（たはら）
+Tahōtō Station	多宝塔駅（たほうとう）
+Taichō no Sato Station	泰澄の里駅（たいちょうのさと）
+Taihei Station	太平駅（たいへい）
+Taiji Station	太地駅（たいじ）
+Taikenkōdō Station	体験坑道駅（たいけんこうどう）
+Taimadera Station	当麻寺駅（たいまでら）
+Tainohama Station	田井ノ浜駅（たいのはま）
+Tainose Station	田井ノ瀬駅（たいのせ）
+Tairadate Station	平館駅（たいらだて）
+Tairamachi Station	多比良町駅（たいらまち）
+Taisanji Station	大山寺駅（たいさんじ）
+Taisei Station	大成駅（たいせい）
+Taishibashi-Imaichi Station	太子橋今市駅（たいしばしいまいち）
+Taishidō Station	太子堂駅（たいしどう）
+Taishō Station (Nagasaki)	大正駅 (長崎県)（たいしょう）
+Taishō Station (Osaka)	大正駅 (大阪府)（たいしょう）
+Taitō Station	太東駅（たいとう）
+Taiyō Station	大洋駅（たいよう）
+Tajibe Station	丹治部駅（たじべ）
+Tajima Station (Nara)	但馬駅（たじま）
+Tajima Station (Tochigi)	田島駅（たじま）
+Tajimakōkōmae Station	田島高校前駅（たじまこうこうまえ）
+Tajimi Station	多治見駅（たじみ）
+Tajiri Station	田尻駅（たじり）
+Taka Station	高駅（たか）
+Takabata Station	高畑駅（たかばた）
+Takachaya Station	高茶屋駅（たかちゃや）
+Takada Station (Nara)	高田駅 (奈良県)（たかだ）
+Takada Station (Niigata)	高田駅 (新潟県)（たかだ）
+Takadabashi Station	高田橋駅（たかだばし）
+Takadahonzan Station	高田本山駅（たかだほんざん）
+Takadanobaba Station	高田馬場駅（たかだのばば）
+Takadano-tekkyō Station	高田の鉄橋駅（たかだのてっきょう）
+Takadashi Station	高田市駅（たかだし）
+Takagari Station	鷹狩駅（たかがり）
+Takagi Station (Hiroshima)	高木駅 (広島県)（たかぎ）
+Takagi Station (Toyama)	高儀駅（たかぎ）
+Takagimachi Station	高城町駅（たかぎまち）
+Takahagi Station	高萩駅（たかはぎ）
+Takahama Station (Ehime)	高浜駅 (愛媛県)（たかはま）
+Takahama Station (Ibaraki)	高浜駅 (茨城県)（たかはま）
+Takahama Station (Shimane)	高浜駅 (島根県)（たかはま）
+Takahamaminato Station	高浜港駅（たかはまみなと）
+Takaharu Station	高原駅（たかはる）
+Takahashi Station	高橋駅（たかはし）
+Takahata Station	高畠駅（たかはた）
+Takahata-Fudō Station	高幡不動駅（たかはたふどう）
+Takaida Station (Higashiosaka, Osaka)	高井田駅 (大阪府東大阪市)（たかいだ）
+Takaida Station (Kashiwara, Osaka)	高井田駅 (大阪府柏原市)（たかいだ）
+Takaida-Chūō Station	高井田中央駅（たかいだちゅうおう）
+Takaido Station	高井戸駅（たかいど）
+Takaishi Station	高石駅（たかいし）
+Takaiwa Station (Nagano)	高岩駅 (長野県)（たかいわ）
+Takaiwa Station (Nagasaki)	高岩駅 (長崎県)（たかいわ）
+Takajō Station	高城駅（たかじょう）
+Takako Station	高子駅（たかこ）
+Takaku Station	高久駅（たかく）
+Takamatsu Station (Ishikawa)	高松駅 (石川県)（たかまつ）
+Takamatsu Station (Kagawa)	高松駅 (香川県)（たかまつ）
+Takamatsu Station (Tokyo)	高松駅 (東京都)（たかまつ）
+Takamatsu-Chikkō Station	高松築港駅（たかまつちっこう）
+Takamatsuchō Station	高松町駅（たかまつちょう）
+Takamatsu Freight Terminal Station	高松貨物ターミナル駅（たかまつかもつたーみなる）
+Takaminosato Station	高見ノ里駅（たかみのさと）
+Takamitsu Station	高光駅（たかみつ）
+Takamiya Station (Fukuoka)	高宮駅 (福岡県)（たかみや）
+Takamiya Station (Shiga)	高宮駅 (滋賀県)（たかみや）
+Takamizu Station	高水駅（たかみず）
+Takamori Station	高森駅（たかもり）
+Takanabe Station	高鍋駅（たかなべ）
+Takanawadai Station	高輪台駅（たかなわだい）
+Takanekido Station	高根木戸駅（たかねきど）
+Takanekōdan Station	高根公団駅（たかねこうだん）
+Takano Station	高野駅 (岡山県)（たかの）
+Takanodai Station	鷹の台駅（たかのだい）
+Takanohara Station	高の原駅（たかのはら）
+Takanoko Station	鷹ノ子駅（たかのこ）
+Takanomiya Station	高ノ宮駅（たかのみや）
+Takanosu Station	鷹巣駅（たかのす）
+Takao Station (Gifu)	高尾駅 (岐阜県)（たかお）
+Takao Station (Tokyo)	高尾駅 (東京都)（たかお）
+Takaoka Station (Aichi)	高岳駅（たかおか）
+Takaoka Station (Manyosen)	高岡駅停留場（たかおかえき）
+Takaoka Station (Toyama)	高岡駅（たかおか）
+Takaoka-Yabunami Station	高岡やぶなみ駅（たかおかやぶなみ）
+Takaono Station	高尾野駅（たかおの）
+Takaosan Station	高尾山駅（たかおさん）
+Takaosanguchi Station	高尾山口駅（たかおさんぐち）
+Takarabe Station	財部駅（たからべ）
+Takarachō Station	宝町駅 (東京都)（たからちょう）
+Takaragaike Station	宝ヶ池駅（たからがいけ）
+Takarazuka Station (JR West)	宝塚駅（たからづか）
+Takarazuka Station (Hankyu)	宝塚駅（たからづか）
+Takarazuka-Minamiguchi Station	宝塚南口駅（たからづかみなみぐち）
+Takasago Station (Hokkaidō)	高砂駅 (北海道)（たかさご）
+Takasago Station (Hyogo)	高砂駅 (兵庫県)（たかさご）
+Takasagochō Station	高砂町駅（たかさごちょう）
+Takasaka Station	高坂駅（たかさか）
+Takasaki Station	高崎駅（たかさき）
+Takasaki-Shinden Station	高崎新田駅（たかさきしんでん）
+Takasaki-Shōka-Daigakumae Station	高崎商科大学前駅（たかさきしょうかだいがくまえ）
+Takasaki-Tonyamachi Station	高崎問屋町駅（たかさきとんやまち）
+Takase Station (Kagawa)	高瀬駅 (香川県)（たかせ）
+Takase Station (Yamagata)	高瀬駅 (山形県)（たかせ）
+Takashi Station	高師駅（たかし）
+Takashima Station	高島駅 (岡山県)（たかしま）
+Takashimachō Station	高島町駅（たかしまちょう）
+Takashimadaira Station	高島平駅（たかしまだいら）
+Takashimaguchi Station	鷹島口駅（たかしまぐち）
+Takashina Station	高科駅（たかしな）
+Takashinohama Station	高師浜駅（たかしのはま）
+Takasu Station (Hiroshima)	高須駅 (広島県)（たかす）
+Takasu Station (Kōchi)	高須駅 (高知県)（たかす）
+Takasujinja Station	高須神社駅（たかすじんじゃ）
+Takata Station (Fukuoka)	高田駅 (福岡県)（たかた）
+Takata Station (Kagawa)	高田駅 (香川県)（たかた）
+Takata Station (Kanagawa)	高田駅 (神奈川県)（たかた）
+Takataki Station	高滝駅（たかたき）
+Takatama Station	高擶駅（たかたま）
+Takatōbara Station	高遠原駅（たかとおばら）
+Takatori Station (Hiroshima)	高取駅（たかとり）
+Takatori Station (Hyogo)	鷹取駅（たかとり）
+Takatsu Station (Kanagawa)	高津駅 (神奈川県)（たかつ）
+Takatsu Station (Kyoto)	高津駅 (京都府)（たかつ）
+Takatsuka Station	高塚駅（たかつか）
+Takatsuki Station (Shiga)	高月駅（たかつき）
+Takatsuki Station (Osaka)	高槻駅（たかつき）
+Takatsuki-shi Station	高槻市駅（たかつきし）
+Takatsuno Station	高角駅（たかつの）
+Takawashi Station	高鷲駅（たかわし）
+Takaya Station	高屋駅（たかや）
+Takayama Station	高山駅（たかやま）
+Takayanagi Station	高柳駅（たかやなぎ）
+Takayasu Station	高安駅（たかやす）
+Takayasuyama Station	高安山駅 （たかやすやま）
+Takayokosuka Station	高横須賀駅（たかよこすか）
+Take Station	竹駅（たけ）
+Takebashi Station	竹橋駅（たけばし）
+Takebe Station	建部駅（たけべ）
+Takeda Station (Hyogo)	竹田駅 (兵庫県)（たけだ）
+Takeda Station (Kyoto)	竹田駅 (京都府)（たけだ）
+Takedao Station	武田尾駅（たけだお）
+Takefu Station	武生駅（たけふ）
+Takehana Station	竹鼻駅（たけはな）
+Takehara Station	竹原駅（たけはら）
+Takekawa Station	武川駅（たけかわ）
+Takekoma Station	竹駒駅（たけこま）
+Takematsu Station	竹松駅（たけまつ）
+Takemura Station	竹村駅（たけむら）
+Takenaka Station	竹中駅（たけなか）
+Takenami Station	武並駅（たけなみ）
+Takeno Station	竹野駅（たけの）
+Takenotsuka Station	竹ノ塚駅（たけのつか）
+Takeoka Station	竹岡駅（たけおか）
+Takeo-Onsen Station	武雄温泉駅（たけおおんせん）
+Takesato Station	武里駅（たけさと）
+Takeshi Station	武志駅（たけし）
+Takeshiba Station	竹芝駅（たけしば）
+Takeshita Station	竹下駅（たけした）
+Taketoyo Station	武豊駅（たけとよ）
+Takeura Station	竹浦駅（たけうら）
+Takezawa Station	竹沢駅（たけざわ）
+Taki Station (Mie)	多気駅（たき）
+Taki Station (Hyogo)	滝駅 (兵庫県)（たき）
+Taki Station (Tochigi)	滝駅 (栃木県)（たき）
+Takibe Station	滝部駅（たきべ）
+Takidani Station	滝谷駅 (大阪府)（たきだに）
+Takidani-Fudō Station	滝谷不動駅（たきだにふどう）
+Takifudō Station	滝不動駅 （たきふどう）
+Takihama Station	多喜浜駅（たきはま）
+Takihara Station	滝原駅（たきはら）
+Takii Station	滝井駅（たきい）
+Takikawa Station	滝川駅（たきかわ）
+Takimizu Station	滝水駅（たきみず）
+Takimoto Station	滝本駅（たきもと）
+Takino Station	滝野駅（たきの）
+Takinochaya Station	滝の茶屋駅（たきのちゃや）
+Takinogawa-itchōme Station	滝野川一丁目停留場（たきのがわいっちょうめ）
+Takinoma Station	滝ノ間駅（たきのま）
+Takinomiya Station	滝宮駅（たきのみや）
+Takinoue Station	滝ノ上駅（たきのうえ）
+Takio Station	滝尾駅（たきお）
+Takiya Station	滝谷駅 (福島県)（たきや）
+Takiyama Station	滝山駅（たきやま）
+Takizawa Station	滝沢駅（たきざわ）
+Tako Station	田子駅（たこ）
+Takojizō Station	蛸地蔵駅（たこじぞう）
+Taku Station	多久駅（たく）
+Takuhoku Station	拓北駅（たくほく）
+Takuma Station	詫間駅（たくま）
+Takyō Station	田京駅（たきょう）
+Tama Center Station	多摩センター駅（たませんたー）
+Tama Plaza Station	たまプラーザ駅（たまぷらーざ）
+Tama Station	多磨駅（たま）
+Tamachi Station (Okayama)	田町停留場（たまち）
+Tamachi Station (Tokyo)	田町駅 (東京都)（たまち）
+Tamade Station (Nara)	玉手駅（たまで）
+Tamade Station (Osaka)	玉出駅（たまで）
+Tamado Station	玉戸駅（たまど）
+Tama-Dōbutsukōen Station	多摩動物公園駅（たまどうぶつこうえん）
+Tamae Station	玉江駅（たまえ）
+Tamagaki Station	玉垣駅（たまがき）
+Tamagashi Station	玉柏駅（たまがし）
+Tamagawa Station (Iwate)	玉川駅 (岩手県)（たまがわ）
+Tamagawa Station (Osaka)	玉川駅 (大阪府)（たまがわ）
+Tamagawa Station (Tokyo)	多摩川駅（たまがわ）
+Tamagawagakuen-mae Station	玉川学園前駅（たまがわがくえんまえ）
+Tamagawajōsui Station	玉川上水駅（たまがわじょうすい）
+Tamagawamura Station	玉川村駅（たまがわむら）
+Tamamizu Station	玉水駅（たまみず）
+Tamamura Station	玉村駅（たまむら）
+Tamana Station	玉名駅（たまな）
+Tamano Station	玉野駅（たまの）
+Tamanoe Station	玉之江駅（たまのえ）
+Tamanoi Station	玉ノ井駅（たまのい）
+Tamarai Station	玉来駅（たまらい）
+Tama-Reien Station	多磨霊園駅（たまれいえん）
+Tamari Station	玉里駅（たまり）
+Tamaru Station	田丸駅（たまる）
+Tamasakai Station	多摩境駅（たまさかい）
+Tamatsukuri Station	玉造駅（たまつくり）
+Tamatsukurimachi Station	玉造町駅（たまつくりまち）
+Tamatsukuri-Onsen Station	玉造温泉駅（たまつくりおんせん）
+Tamayodo Station	玉淀駅（たまよど）
+Tambabashi Station	丹波橋駅（たんばばし）
+Tambaguchi Station	丹波口駅（たんばぐち）
+Tamba-Ōyama Station	丹波大山駅（たんばおおやま）
+Tamba-Takeda Station	丹波竹田駅（たんばたけだ）
+Tameike-Sannō Station	溜池山王駅（ためいけさんのう）
+Tammachi Station	反町駅（たんまち）
+Tamoto Station	田本駅（たもと）
+Tampi Station	丹比駅（たんぴ）
+Tamura Station	田村駅（たむら）
+Tana Station	田奈駅（たな）
+Tanabe Station	田辺駅（たなべ）
+Tanagata Station	棚方駅（たながた）
+Tanagawa Station	多奈川駅（たながわ）
+Tanaka Station	田中駅（たなか）
+Tanakaguchi Station	田中口駅（たなかぐち）
+Tanakura Station	棚倉駅（たなくら）
+Tanami Station	田並駅（たなみ）
+Tanashi Station	田無駅（たなし）
+Taneichi Station	種市駅（たねいち）
+Tanesashi-kaigan Station	種差海岸駅（たねさしかいがん）
+Tanga Station	旦過駅（たんが）
+Tango-Kanzaki Station	丹後神崎駅（たんごかんざき）
+Tango-Yura Station	丹後由良駅（たんごゆら）
+Tanigami Station	谷上駅（たにがみ）
+Tanigashira Station	谷頭駅（たにがしら）
+Tanigumiguchi Station	谷汲口駅（たにぐみぐち）
+Tanihama Station	谷浜駅（たにはま）
+Tanikawa Station	谷川駅（たにかわ）
+Tanimachi Kyūchōme Station	谷町九丁目駅（たにまちきゅうちょうめ）
+Tanimachi Rokuchōme Station	谷町六丁目駅（たにまちろくちょうめ）
+Tanimachi Yonchōme Station	谷町四丁目駅（たにまちよんちょうめ）
+Taninokuchi Station	谷之口駅（たにのくち）
+Taniyama Station (JR Kyushu)	谷山駅 (鹿児島県)（たにやま）
+Taniyama Station (Kagoshima Municipal Tramway)	谷山停留場（たにやま）
+Tanjōji Station	誕生寺駅（たんじょうじ）
+Tanno Station	端野駅（たんの）
+Tannowa Station	淡輪駅（たんのわ）
+Tano Station (Kōchi)	田野駅 (高知県)（たの）
+Tano Station (Miyazaki)	田野駅 (宮崎県)（たの）
+Tanohata Station	田野畑駅（たのはた）
+Tanokubo Station	田窪駅（たのくぼ）
+Tanokuchi Station	田野口駅（たのくち）
+Tanokura Station	田野倉駅（たのくら）
+Tanoura-Otachimisaki-kōen Station	たのうら御立岬公園駅（たのうらおたちみさきこうえん）
+Tanshō Station	丹荘駅（たんしょう）
+Tanuma Station	田沼駅（たぬま）
+Tanushimaru Station	田主丸駅（たぬしまる）
+Taoji Station	田尾寺駅（たおじ）
+Tappi-Kaitei Station	竜飛海底駅（たっぴかいてい）
+Tara Station	多良駅（たら）
+Taragi Station	多良木駅（たらぎ）
+Tarō Station	田老駅（たろう）
+Tarōbōgū-mae Station	太郎坊宮前駅（たろうぼうぐうまえ）
+Taromaru Angelland Station	太郎丸エンゼルランド駅（たろうまるえんぜるらんど）
+Tarui Station (Gifu)	垂井駅（たるい）
+Tarui Station (Osaka)	樽井駅（たるい）
+Tarumi Station (Gifu)	樽見駅（たるみ）
+Tarumi Station (Hyogo)	垂水駅（たるみ）
+Tashiro Station	田代駅（たしろ）
+Tatara Station (Gunma)	多々良駅（たたら）
+Tatara Station (Tochigi)	多田羅駅（たたら）
+Tateba Station	立場駅（たてば）
+Tatebayashi Station	館林駅（たてばやし）
+Tatebori Station	竪堀駅（たてぼり）
+Tateda Station	立田駅（たてだ）
+Tategahana Station	立ヶ花駅（たてがはな）
+Tateishi Station	立石駅（たていし）
+Tatekawame Station	立川目駅（たてかわめ）
+Tatekoshi Station	館腰駅（たてこし）
+Tatemachi Station	立町駅（たてまち）
+Tateno Station (Kumamoto)	立野駅 (熊本県)（たての）
+Tateno Station (Saga)	立野駅 (佐賀県)（たての）
+Tateyama Station (Chiba)	館山駅（たてやま）
+Tateyama Station (Toyama)	立山駅（たてやま）
+Tateyama Station (Yamagata)	楯山駅（たてやま）
+Tatsue Station	立江駅（たつえ）
+Tatsumi Station	辰巳駅（たつみ）
+Tatsumichi Station	立道駅（たつみち）
+Tatsumigaoka Station	巽ヶ丘駅（たつみがおか）
+Tatsuno Station (Nagano)	辰野駅（たつの）
+Tatsuno Station (Hyōgo)	竜野駅（たつの）
+Tatsuokajō Station	龍岡城駅（たつおかじょう）
+Tatsuruhama Station	田鶴浜駅（たつるはま）
+Tatsuta Station	竜田駅（たつた）
+Tatsutagawa Station	竜田川駅（たつたがわ）
+Tatsutaguchi Station	竜田口駅（たつたぐち）
+Taura Station	田浦駅（たうら）
+Tawarada Station	俵田駅（たわらだ）
+Tawaramachi Station (Fukui)	田原町駅 (福井県)（たわらまち）
+Tawaramachi Station (Tokyo)	田原町駅 (東京都)（たわらまち）
+Tawaramoto Station	田原本駅（たわらもと）
+Taya Station	多屋駅（たや）
+Tayama Station	田山駅（たやま）
+Tayoro Station	多寄駅（たよろ）
+Tayoshi Station	田吉駅（たよし）
+Tazawa Station	田沢駅（たざわ）
+Tazawako Station	田沢湖駅（たざわこ）
+Tazoe Station	田添駅（たぞえ）
+Tazu Station	田津駅（たづ）
+Te[edit]
+Tedako-Uranishi Station	てだこ浦西駅（てだこうらにし）
+Tegara Station	手柄駅（てがら）
+Tehara Station	手原駅（てはら）
+Teine Station	手稲駅（ていね）
+Tejikara Station	手力駅（てぢから）
+Tekuno-Sakaki Station	テクノさかき駅（てくのさかき）
+Telecom Center Station	テレコムセンター駅
+Temma Station	天満駅（てんま）
+Temmabashi Station	天満橋駅（てんまばし）
+Temmachō Station	伝馬町駅（てんまちょう）
+Tempaizan Station	天拝山駅（てんぱいざん）
+Tendai Station	天台駅（てんだい）
+Tendō Station	天童駅（てんどう）
+Tendō-Minami Station	天童南駅（てんどうみなみ）
+Tengachaya Station	天下茶屋駅（てんがちゃや）
+Tenjin Station	天神駅（てんじん）
+Nishitetsu Fukuoka (Tenjin) Station	西鉄福岡（天神）駅（にしてつふくおか（てんじん））
+Tenjimbashisuji Rokuchōme Station	天神橋筋六丁目駅（てんじんばしすじろくちょうめ）
+Tenjingawa Station	天神川駅（てんじんがわ）
+Tenjin-minami Station	天神南駅（てんじんみなみ）
+Tenjin-yama Station	天神山駅（てんじんやま）
+Tenkūbashi Station	天空橋駅（てんくうばし）
+Tenma-cho Station	天満町駅（てんまちょう）
+Tennō Station (Akita)	天王駅（てんのう）
+Tennō Station (Hiroshima)	天応駅（てんのう）
+Tennōchō Station	天王町駅（てんのうちょう）
+Tennōdai Station	天王台駅（てんのうだい）
+Tennōji Station	天王寺駅（てんのうじ）
+Tennōji-eki-mae Station	天王寺駅前駅（てんのうじえきまえ）
+Tennōjuku Station	天王宿駅（てんのうじゅく）
+Tennōzu Isle Station	天王洲アイル駅（てんのうずアイル）
+Tenoko Station	手ノ子駅（てのこ）
+Tenri Station	天理駅（てんり）
+Tenryū-Futamata Station	天竜二俣駅（てんりゅうふたまた）
+Tenryūgawa Station	天竜川駅（てんりゅうがわ）
+Tenryūkyō Station	天竜峡駅（てんりゅうきょう）
+Tentō Station	天道駅（てんとう）
+Tenwa Station	天和駅（てんわ）
+Ten-yaba Station	天矢場駅（てんやば）
+Teppōchō Station	鉄砲町駅（てっぽうちょう）
+Terada Station (Kyoto)	寺田駅 (京都府)（てらだ）
+Terada Station (Toyama)	寺田駅 (富山県)（てらだ）
+Teradachō Station	寺田町駅（てらだちょう）
+Terajichō Station	寺地町駅（てらぢちょう）
+Teradomari Station	寺泊駅（てらどまり）
+Terahara Station	寺原駅（てらはら）
+Teramae Station	寺前駅（てらまえ）
+Teramoto Station	寺本駅（てらもと）
+Terao Station	寺尾駅（てらお）
+Terashita Station	寺下駅（てらした）
+Terashō Station	寺庄駅（てらしょう）
+Terauchi Station	寺内駅（てらうち）
+Teruoka Station	光岡駅（てるおか）
+Teshiogawa-Onsen Station	天塩川温泉駅（てしおがわおんせん）
+Teshio-Nakagawa Station	天塩中川駅（てしおなかがわ）
+Tetaru Station	手樽駅（てたる）
+Tetsudō-Hakubutsukan Station	鉄道博物館駅（てつどうはくぶつかん）
+Tezukayama Station	帝塚山駅（てづかやま）
+To[edit]
+Toasa Station	遠浅駅（とあさ）
+Toba Station	鳥羽駅（とば）
+Tobakaidō Station	鳥羽街道駅（とばかいどう）
+Tobanaka Station	鳥羽中駅（とばなか）
+Tobanoe Station	騰波ノ江駅（とばのえ）
+Tobata Station	戸畑駅（とばた）
+Tobe Station	戸部駅（とべ）
+Tobitakyū Station	飛田給駅（とびたきゅう）
+Tōbu Dōbutsu Kōen Station	東武動物公園駅（とうぶどうぶつこうえんまえ）
+Tōbu Izumi Station	東武和泉駅（とうぶいずみ）
+Tōbu Kanasaki Station	東武金崎駅（とうぶかなさき）
+Tōbu Nerima Station	東武練馬駅（とうぶねりま）
+Tōbu Nikkō Station	東武日光駅（とうぶにっこう）
+Tōbushijō-mae Station	東部市場前駅（とうぶしじょうまえ）
+Tōbu Takezawa Station	東武竹沢駅（とうぶたけざわ）
+Tōbu Utsunomiya Station	東武宇都宮駅（とうぶうつのみや）
+Tobu World Square Station	東武ワールドスクウェア駅（とうぶわーるどすくうぇあ）
+Tochigi Station	栃木駅（とちぎ）
+Tochihara Station	栃原駅（とちはら）
+Tochiya Station	栃屋駅（とちや）
+Tochōmae Station	都庁前駅（とちょうまえ）
+Toda Station (Aichi)	戸田駅 (愛知県)（とだ）
+Toda Station (Saitama)	戸田駅 (埼玉県)（とだ）
+Tōdaimae Station	東大前駅（とうだいまえ）
+Todakohama Station	戸田小浜駅（とだこはま）
+Todakōen Station	戸田公園駅（とだこうえん）
+Tode Station	戸手駅（とで）
+Toden-Zōshigaya Station	都電雑司ヶ谷駅（とでんぞうしがや）
+Tōdera Station	塔寺駅（とうでら）
+Todoroki Station (Aomori)	驫木駅（とどろき）
+Todoroki Station (Tokyo)	等々力駅（とどろき）
+Tōei Station	東栄駅（とうえい）
+Tōfukuji Station	東福寺駅（とうふくじ）
+Tofurō-mae Station	都府楼前駅（とふろうまえ）
+Tofurō-minami Station	都府楼南駅（とふろうみなみ）
+Tōfutsu Station	十弗駅（とおふつ）
+Toga-Mikita Station	栂・美木多駅（とが・みきた）
+Tōgane Station	東金駅（とうがね）
+Togano Station	斗賀野駅（とがの）
+Togari-Nozawa-onsen Station	戸狩野沢温泉駅（とがりのざわおんせん）
+Togashira Station	戸頭駅（とがしら）
+Togawa Station	十川駅 (青森県)（とがわ）
+Tōge Station	峠駅（とうげ）
+Tōgendai Station	桃源台駅（とうげんだい）
+Tōgeshita Station	峠下駅（とうげした）
+Tōgō Station	東郷駅（とうごう）
+Togoshi Station	戸越駅（とごし）
+Togoshi-Ginza Station	戸越銀座駅（とごしぎんざ）
+Togoshi-kōen Station	戸越公園駅（とごしこうえん）
+Togura Station	戸倉駅（とぐら）
+Tōhoku Fukushi-dai-mae Station	東北福祉大前駅（とうほくふくしだいまえ）
+Tohori Station	砥堀駅（とほり）
+Toide Station	戸出駅（といで）
+Toikambetsu Station	問寒別駅（といかんべつ）
+Tōin Station	東員駅（とういん）
+Tōji Station	東寺駅（とうじ）
+Tōjiin Station	等持院駅（とうじいん）
+Tōjimmachi Station	唐人町駅（とうじんまち）
+Tōji-shiryōkan-minami Station	陶磁資料館南駅（とうじしりょうかんみなみ）
+Tōjō Station (Aichi)	東上駅（とうじょう）
+Tōjō Station (Hiroshima)	東城駅（とうじょう）
+Tokachi-Shimizu Station	十勝清水駅（とかちしみず）
+Tōkai Station	東海駅（とうかい）
+Tōkaichiba Station (Kanagawa)	十日市場駅 (神奈川県)（とおかいちば）
+Tōkaichiba Station (Yamanashi)	十日市場駅 (山梨県)（とおかいちば）
+Tōkaichi-machi Station	十日市町駅（とおかいちまち）
+Tōkai-daigaku-mae Station	東海大学前駅（とうかいだいがくまえ）
+Tōkaidōri Station	東海通駅（とうかいどおり）
+Tōkaigakuenmae Station	東海学園前駅（とうかいがくえんまえ）
+Tōkamachi Station	十日町駅（とおかまち）
+Tokawa Station	外川駅（とかわ）
+Tōkawa Station	十川駅 (高知県)（とおかわ）
+Toke Station	土気駅（とけ）
+Tokida Station	外城田駅（ときだ）
+Tokimata Station	時又駅（ときまた）
+Tokiniwa Station	時庭駅（ときにわ）
+Tokishi Station	土岐市駅（ときし）
+Tokiwa Station (Kyoto)	常盤駅 (京都府)（ときわ）
+Tokiwa Station (Okayama)	常盤駅 (岡山県)（ときわ）
+Tokiwa Station (Yamaguchi)	常盤駅 (山口県)（ときわ）
+Tokiwadai Station (Osaka)	ときわ台駅 (大阪府)（ときわだい）
+Tokiwadai Station (Tokyo)	ときわ台駅 (東京都)（ときわだい）
+Tokiwadaira Station	常盤平駅（ときわだいら）
+Tōkōji Station	東光寺駅（とうこうじ）
+Tokoname Station	常滑駅（とこなめ）
+Tokonami Station	床波駅（とこなみ）
+Tokorogi Station	所木駅（ところぎ）
+Tokorozawa Station	所沢駅（ところざわ）
+Tokuan Station	徳庵駅（とくあん）
+Tokuda Station (Ishikawa)	徳田駅 (石川県)（とくだ）
+Tokuda Station (Mie)	徳田駅 (三重県)（とくだ）
+Tokumaru Station	徳丸駅（とくまる）
+Tokumasu Station	徳益駅（とくます）
+Tokumitsu Station	徳満駅（とくみつ）
+Tokunaga Station	徳永駅（とくなが）
+Tokuriki-Arashiyamaguchi Station	徳力嵐山口駅（とくりきあらしやまぐち）
+Tokuriki-Kōdan-mae Station	徳力公団前駅（とくりきこうだんまえ）
+Tokusa Station	徳佐駅（とくさ）
+Tokusawa Station	徳沢駅（とくさわ）
+Tokushige Station	徳重駅（とくしげ）
+Tokushige-Nagoyageidai Station	徳重・名古屋芸大駅（とくしげ・なごやげいだい）
+Tokushima Station	徳島駅（とくしま）
+Tokushuku Station	徳宿駅（とくしゅく）
+Tokuwa Station	徳和駅（とくわ）
+Tokuyama Station	徳山駅（とくやま）
+Tokyo Station	東京駅（とうきょう）
+Tokyo Big Sight Station	東京ビッグサイト駅（とうきょうビッグサイト）
+Tokyo Disney Sea Station	東京ディズニーシー・ステーション駅（とうきょうディズニーシーステーション）
+Tokyo Disneyland Station	東京ディズニーランド・ステーション駅（とうきょうディズニーランドステーション）
+Tokyo International Cruise Terminal Station	東京国際クルーズターミナル駅（とうきょうこくさいクルーズターミナル）
+Tokyo Skytree Station	とうきょうスカイツリー駅（とうきょうスカイツリー）
+Tokyo Teleport Station	東京テレポート駅（とうきょうテレポート）
+Tōma Station	当麻駅（とうま）
+Tomabechi Station	苫米地駅（とまべち）
+Tomai Station	斗米駅（とまい）
+Tomakomai Station	苫小牧駅（とまこまい）
+Tomamu Station	トマム駅
+Tomari Station (Mie)	泊駅 (三重県)（とまり）
+Tomari Station (Toyama)	泊駅 (富山県)（とまり）
+Tomari Station (Tottori)	泊駅 (鳥取県)（とまり）
+Tomiai Station	富合駅（とみあい）
+Tomida Station	富田駅 (三重県)（とみだ）
+Tomidahama Station	富田浜駅（とみだはま）
+Tomihara Station	富原駅（とみはら）
+Tomika Station	富加駅（とみか）
+Tomikawa Station	富川駅（とみかわ）
+Tomine Station	富根駅（とみね）
+Tomino Station	富野駅（とみの）
+Tomio Station	富雄駅（とみお）
+Tomioka Station	富岡駅（とみおか）
+Tomiokamae Station	富岡前駅（とみおかまえ）
+Tomisato Station	十三里駅（とみさと）
+Tomita Station	富田駅 (栃木県)（とみた）
+Tomiura Station (Chiba)	富浦駅 (千葉県)（とみうら）
+Tomiura Station (Hokkaidō)	富浦駅 (北海道)（とみうら）
+Tomiyoshi Station	富吉駅（とみよし）
+Tomizawa Station	富沢駅（とみざわ）
+Tomizu Station	富水駅（とみず）
+Tomo Station	伴駅（とも）
+Tomobe Station	友部駅（ともべ）
+Tomo-chūō Station	伴中央駅（ともちゅうおう）
+Tomoe Station	友江駅（ともえ）
+Tomoegawa Station	巴川駅（ともえがわ）
+Tomura Station	十村駅（とむら）
+Tōna Station	東名駅（とうな）
+Tonami Station	砺波駅（となみ）
+Tonda Station	富田駅 (大阪府)（とんだ）
+Tondabayashi Station	富田林駅（とんだばやし）
+Tondabayashi-nishiguchi Station	富田林西口駅（とんだばやしにしぐち）
+Toneri Station	舎人駅（とねり）
+Toneri-kōen Station	舎人公園駅（とねりこうえん）
+Tōni Station	唐丹駅（とうに）
+Tōno Station	遠野駅（とおの）
+Tōnohama Station	唐浜駅（とうのはま）
+Tōnoharu Station	唐の原駅（とうのはる）
+Tōnohetsuri Station	塔のへつり駅（とうのへつり）
+Tonoki Station	富木駅（とのき）
+Tonomi Station	富海駅（とのみ）
+Tōnosawa Station	塔ノ沢駅（とうのさわ）
+Tonoshō Station	富野荘駅（とのしょう）
+Tonoyama Station	殿山駅（とのやま）
+Tōrichōsuji Station	通町筋駅（とおりちょうすじ）
+Tōritani Station	通谷駅（とおりたに）
+Torahime Station	虎姫駅（とらひめ）
+Torami Station	東浪見駅（とらみ）
+Toranomon Station	虎ノ門駅（とらのもん）
+Toride Station	取手駅（とりで）
+Torigata Station	鳥形駅（とりがた）
+Torihama Station	鳥浜駅（とりはま）
+Torii Station (Aichi)	鳥居駅（とりい）
+Toriimae Station	鳥居前駅（とりいまえ）
+Toriimoto Station	鳥居本駅（とりいもと）
+Torinoki Station	鳥ノ木駅（とりのき）
+Torisawa Station	鳥沢駅（とりさわ）
+Toritsudaigaku Station	都立大学駅（とりつだいがく）
+Toritsu-Kasei Station	都立家政駅（とりつかせい）
+Toro Station	土呂駅（とろ）
+Tōro Station	塘路駅（とうろ）
+Torokko Arashiyama Station	トロッコ嵐山駅（トロッコあらしやま）
+Torokko Hozukyō Station	トロッコ保津峡駅（トロッコほづきょう）
+Torokko Kameoka Station	トロッコ亀岡駅（トロッコかめおか）
+Torokko Saga Station	トロッコ嵯峨駅（トロッコさが）
+Tosa-Ananai Station	土佐穴内駅（とさあなない）
+Tosa-Ikku Station	土佐一宮駅（とさいっく）
+Tosa-Irino Station	土佐入野駅（とさいりの）
+Tosa-Iwahara Station	土佐岩原駅（とさいわはら）
+Tosa-Kamikawaguchi Station	土佐上川口駅（とさかみかわぐち）
+Tosa-Kamo Station	土佐加茂駅（とさかも）
+Tosa-Kitagawa Station	土佐北川駅（とさきたがわ）
+Tosa-Kure Station	土佐久礼駅（とさくれ）
+Tosa-Nagaoka Station	土佐長岡駅（とさながおか）
+Tosa-Ōtsu Station	土佐大津駅（とさおおつ）
+Tosa-Saga Station	土佐佐賀駅（とささが）
+Tosa-Shinjō Station	土佐新荘駅（とさしんじょう）
+Tosa-Shirahama Station	土佐白浜駅（とさしらはま）
+Tosa-Shōwa Station	土佐昭和駅（とさしょうわ）
+Tosa-Taishō Station	土佐大正駅（とさたいしょう）
+Tosa-Yamada Station	土佐山田駅（とさやまだ）
+Toshibetsu Station	利別駅（としべつ）
+Toshima Station	豊島駅（としま）
+Tōshima Station	十島駅（とおしま）
+Toshimaen Station	豊島園駅（としまえん）
+Tōshōgū Station	東照宮駅（とうしょうぐう）
+Toso Station	唐湊駅（とそ）
+Tosu Station	鳥栖駅（とす）
+Tōtōmi-Ichinomiya Station	遠江一宮駅（とおとうみいちのみや）
+Totoro Station	土々呂駅（ととろ）
+Totsuka Station	戸塚駅（とつか）
+Tottori Station	鳥取駅（とっとり）
+Tottoridaigaku-mae Station	鳥取大学前駅（とっとりだいがくまえ）
+Tottorinoshō Station	鳥取ノ荘駅（とっとりのしょう）
+Tōun Station	東雲駅 (北海道)（とううん）
+Towada-Minami Station	十和田南駅（とわだみなみ）
+Towadashi Station	十和田市駅（とわだし）
+Towata Station	戸綿駅（とわた）
+Tōya Station (Kushiro, Hokkaidō)	遠矢駅（とおや）
+Tōya Station (Tōyako, Hokkaidō)	洞爺駅（とうや）
+Toyama Station	富山駅（とやま）
+Toyamaekimae Station	富山駅前駅（とやまえきまえ）
+Toyamaguchi Station	富山口駅（とやまぐち）
+Toyasaki Station	鳥矢崎駅（とやさき）
+Tōyō Katsutadai Station	東葉勝田台駅（とうようかつただい）
+Toyoake Station	豊明駅（とよあけ）
+Tōyōchō Station	東陽町駅（とうようちょう）
+Toyoda Station	豊田駅（とよだ）
+Toyodachō Station	豊田町駅（とよだちょう）
+Toyodahommachi Station	豊田本町駅（とよだほんまち）
+Toyogaoka Station	豊ヶ岡駅（とよがおか）
+Toyohama Station	豊浜駅（とよはま）
+Toyohara Station	豊原駅（とよはら）
+Toyoharu Station	豊春駅（とよはる）
+Toyohashi Station	豊橋駅（とよはし）
+Toyohashikōemmae Station	豊橋公園前駅（とよはしこうえんまえ）
+Toyohirakōen Station	豊平公園駅（とよひらこうえん）
+Toyohoro Station	豊幌駅（とよほろ）
+Toyokawa Station (Aichi)	豊川駅 (愛知県)（とよかわ）
+Toyokawa Station (Osaka)	豊川駅 (大阪府)（とよかわ）
+Toyokawainari Station	豊川稲荷駅（とよかわいなり）
+Toyokoro Station	豊頃駅（とよころ）
+Toyomane Station	豊間根駅（とよまね）
+Toyomi Station	豊実駅（とよみ）
+Toyonaga Station	豊永駅（とよなが）
+Toyonaka Station	豊中駅（とよなか）
+Toyono Station	豊野駅（とよの）
+Toyonuma Station	豊沼駅（とよぬま）
+Toyooka Station (Hyogo)	豊岡駅 (兵庫県)（とよおか）
+Toyooka Station (Shizuoka)	豊岡駅 (静岡県)（とよおか）
+Toyosaka Station	豊栄駅（とよさか）
+Toyosato Station (Hokkaidō)	豊郷駅 (北海道)（とよさと）
+Toyosato Station (Shiga)	豊郷駅 (滋賀県)（とよさと）
+Toyoshiki Station	豊四季駅（とよしき）
+Toyoshimizu Station	豊清水駅（とよしみず）
+Toyoshina Station	豊科駅（とよしな）
+Toyosu Station	豊洲駅（とよす）
+Toyotashi Station	豊田市駅（とよたし）
+Toyotomi Station	豊富駅（とよとみ）
+Toyotsu Station (Fukuoka)	豊津駅 (福岡県)（とよつ）
+Toyotsu Station (Osaka)	豊津駅 (大阪府)（とよつ）
+Toyotsuueno Station	豊津上野駅（とよつうえの）
+Toyoura Station	豊浦駅（とようら）
+Tozawa Station	戸沢駅（とざわ）
+Tozuka-Angyō Station	戸塚安行駅（とづかあんぎょう）
+Tr[edit]
+Trade Center-mae Station	トレードセンター前駅（とれーどせんたーまえ）
+Tsu[edit]
+Tsu Station	津駅（つ）
+Tsubaki Station	椿駅（つばき）
+Tsubame Station	燕駅（つばめ）
+Tsubame-Sanjō Station	燕三条駅（つばめさんじょう）
+Tsubata Station	津幡駅（つばた）
+Tsubogawa Station	壺川駅（つぼがわ）
+Tsuboi Station	坪井駅（つぼい）
+Tsuboigawakōen Station	坪井川公園駅（つぼいがわこうえん）
+Tsubojiri Station	坪尻駅（つぼじり）
+Tsubuku Station	津福駅（つぶく）
+Tsuchihashi Station	土橋駅 (愛知県)（つちはし）
+Tsuchitaru Station	土樽駅（つちたる）
+Tsuchiura Station	土浦駅（つちうら）
+Tsuchiyama Station	土山駅（つちやま）
+Tsuchizaki Station	土崎駅（つちざき）
+Tsuchizawa Station	土沢駅（つちざわ）
+Tsuda Station	津田駅（つだ）
+Tsudanuma Station	津田沼駅（つだぬま）
+Tsudayama Station	津田山駅（つだやま）
+Tsūdō Station	通洞駅（つうどう）
+Tsuga Station	都賀駅（つが）
+Tsugaru-Futamata Station	津軽二股駅（つがるふたまた）
+Tsugaru-Goshogawara Station	津軽五所川原駅（つがるごしょがわら）
+Tsugaru-Hamana Station	津軽浜名駅（つがるはまな）
+Tsugaru-Iizume Station	津軽飯詰駅（つがるいいづめ）
+Tsugaru-Imabetsu Station	津軽今別駅（つがるいまべつ）
+Tsugaruishi Station	津軽石駅（つがるいし）
+Tsugaru-Miyata Station	津軽宮田駅（つがるみやた）
+Tsugaru-Nakasato Station	津軽中里駅（つがるなかさと）
+Tsugaru-Onoe Station	津軽尾上駅（つがるおのえ）
+Tsugaru-Osawa Station	津軽大沢駅（つがるおおさわ）
+Tsugaru-Shinjō Station	津軽新城駅（つがるしんじょう）
+Tsugaru-Yunosawa Station	津軽湯の沢駅（つがるゆのさわ）
+Tsugawa Station	津川駅（つがわ）
+Tsuge Station	柘植駅（つげ）
+Tsuiki Station	築城駅（ついき）
+Tsuji Station	辻駅（つじ）
+Tsujidō Station	辻堂駅（つじどう）
+Tsukada Station	塚田駅（つかだ）
+Tsukaguchi Station (JR West)	塚口駅 (JR西日本)（つかぐち）
+Tsukaguchi Station (Hankyu)	塚口駅 (阪急)（つかぐち）
+Tsukahara Station	塚原駅（つかはら）
+Tsukamoto Station	塚本駅（つかもと）
+Tsukanome Station	塚目駅（つかのめ）
+Tsukayama Station	塚山駅（つかやま）
+Tsukida Station	月田駅（つきだ）
+Tsukigaoka Station	月ヶ岡駅（つきがおか）
+Tsukigaseguchi Station	月ヶ瀬口駅（つきがせぐち）
+Tsukiji Station	築地駅（つきじ）
+Tsukijibashi Station	築地橋駅（つきじばし）
+Tsukijiguchi Station	築地口駅（つきじぐち）
+Tsukijishijō Station	築地市場駅（つきじしじょう）
+Tsukimino Station	つきみ野駅（つきみの）
+Tsukimiyama Station	月見山駅（つきみやま）
+Tsukinoki Station	槻木駅（つきのき）
+Tsukinowa Station	つきのわ駅（つきのわ）
+Tsukioka Station (Niigata)	月岡駅 (新潟県)（つきおか）
+Tsukioka Station (Toyama)	月岡駅 (富山県)（つきおか）
+Tsukisamu-Chūō Station	月寒中央駅（つきさむちゅうおう）
+Tsukishima Station	月島駅（つきしま）
+Tsukiyama Station	築山駅（つきやま）
+Tsukizaki Station	月崎駅（つきざき）
+Tsuko Station	津古駅（つこ）
+Tsukuba Station	つくば駅（つくば）
+Tsukuba-Sancho Station	筑波山頂駅（つくばさんちょう）
+Tsukuda Station (Gunma)	津久田駅（つくだ）
+Tsukuda Station (Tokushima)	佃駅（つくだ）
+Tsukuihama Station	津久井浜駅（つくいはま）
+Tsukumi Station	津久見駅（つくみ）
+Tsukumo Station	津久毛駅（つくも）
+Tsukuno Station	津久野駅（つくの）
+Tsukushino Station	つくし野駅（つくしの）
+Tsumazaki Station	妻崎駅（つまざき）
+Tsumori Station	津守駅（つもり）
+Tsunagi Station	津奈木駅（つなぎ）
+Tsunan Station	津南駅（つなん）
+Tsunashima Station	綱島駅（つなしま）
+Tsuneyama Station	常山駅（つねやま）
+Tsunezumi Station	常澄駅（つねずみ）
+Tsuno Station	都農駅（つの）
+Tsunozu Station	都野津駅（つのづ）
+Tsunogawa Station	角川駅（つのがわ）
+Tsunoi Station	津ノ井駅（つのい）
+Tsunomori Station	津ノ森駅（つのもり）
+Tsuru-bunkadaigaku-mae Station	都留文科大学前駅（つるぶんかだいがくまえ）
+Tsurudomari Station	鶴泊駅（つるどまり）
+Tsuruga Station	敦賀駅（つるが）
+Tsurugamine Station	鶴ヶ峰駅（つるがみね）
+Tsurugaoka Station	鶴ヶ丘駅（つるがおか）
+Tsurugasaka Station	鶴ヶ坂駅（つるがさか）
+Tsurugashima Station	鶴ヶ島駅（つるがしま）
+Tsurugata Station	鶴形駅（つるがた）
+Tsurugi Station	鶴来駅（つるぎ）
+Tsuruhara Station	鶴原駅（つるはら）
+Tsuruhashi Station	鶴橋駅（つるはし）
+Tsurui Station	鶴居駅（つるい）
+Tsurukawa Station	鶴川駅（つるかわ）
+Tsuruma Station	鶴間駅（つるま）
+Tsurumai Station	鶴舞駅（つるまい）
+Tsurumakionsen Station	鶴巻温泉駅（つるまきおんせん）
+Tsurumaru Station	鶴丸駅（つるまる）
+Tsurumi Station	鶴見駅（つるみ）
+Tsurumi-Ichiba Station	鶴見市場駅（つるみいちば）
+Tsurumi-Ono Station	鶴見小野駅（つるみおの）
+Tsurumiryokuchi Station	鶴見緑地駅（つるみりょくち）
+Tsurunuma Station	鶴沼駅（つるぬま）
+Tsuruoka Station	鶴岡駅（つるおか）
+Tsurusaki Station	鶴崎駅（つるさき）
+Tsurusato Station	鶴里駅（つるさと）
+Tsuruse Station	鶴瀬駅（つるせ）
+Tsurushi Station	都留市駅（つるし）
+Tsuruta Station	鶴田駅（つるた）
+Tsuruwa Station	鶴羽駅（つるわ）
+Tsushima Station	津島駅（つしま）
+Tsushimanomiya Station	津島ノ宮駅（つしまのみや）
+Tsushinmachi Station	津新町駅（つしんまち）
+Tsusumi Station	都住駅（つすみ）
+Tsutsui Station (Aomori)	筒井駅 (青森県)（つつい）
+Tsutsui Station (Nara)	筒井駅 (奈良県)（つつい）
+Tsutsuishi Station	筒石駅（つついし）
+Tsutsujigaoka Station (Miyagi)	榴ヶ岡駅（つつじがおか）
+Tsutsujigaoka Station (Tokyo)	つつじヶ丘駅（つつじがおか）
+Tsuwano Station	津和野駅（つわの）
+Tsuya Station	津谷駅（つや）
+Tsuyama Station	津山駅（つやま）
+Tsuyamaguchi Station	津山口駅（つやまぐち）
+Tsuyazaki Station	津屋崎駅（つやざき）
+Tsuzu Station	通津駅（つづ）
+Tsuzuki Station	都筑駅（つづき）
+Tsuzuki-Fureai-no-Oka Station	都筑ふれあいの丘駅（つづきふれあいのおか）
+Tsuzumigataki Station	鼓滝駅（つづみがたき）
+Tsuzumigaura Station	鼓ヶ浦駅（つづみがうら

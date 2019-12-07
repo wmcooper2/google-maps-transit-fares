@@ -1,0 +1,534 @@
+Ibara Station	井原駅 (岡山県)（いばら）
+Ibaraichi Station	井原市駅（いばらいち）
+Ibaraki Station	茨木駅（いばらき）
+Ibaraki-shi Station	茨木市駅（いばらきし）
+Ibarame Station	茨目駅（いばらめ）
+Ibi Station	揖斐駅（いび）
+Ibii Station	伊比井駅（いびい）
+Iburihashi Station	動橋駅（いぶりはし）
+Ibusuki Station	指宿駅（いぶすき）
+Ichiba Station (Fukuoka)	市場駅 (福岡県)（いちば）
+Ichiba Station (JR West)	市場駅 (JR西日本)（いちば）
+Ichiba Station (Shintetsu)	市場駅 (神戸電鉄)（いちば）
+Ichibataguchi Station	一畑口駅（いちばたぐち）
+Ichibe Station	市部駅（いちべ）
+Ichibu Station (Kumamoto)	一武駅（いちぶ）
+Ichibu Station (Nara)	一分駅（いちぶ）
+Ichiburi Station	市振駅（いちぶり）
+Ichida Station	市田駅（いちだ）
+Ichigao Station	市が尾駅（いちがお）
+Ichigaya Station	市ケ谷駅（いちがや）
+Ichihana Station	市塙駅（いちはな）
+Ichihara Station	市原駅（いちはら）
+Ichihashi Station	市橋駅（いちはし）
+Ichijima Station	市島駅（いちじま）
+Ichijōdani Station	一乗谷駅（いちじょうだに）
+Ichijōji Station	一乗寺駅（いちじょうじ）
+Ichikawa Station	市川駅（いちかわ）
+Ichikawa-Daimon Station	市川大門駅（いちかわだいもん）
+Ichikawa-hommachi Station	市川本町駅（いちかわほんまち）
+Ichikawa-Mama Station	市川真間駅（いちかわまま）
+Ichikawa-Ono Station	市川大野駅（いちかわおおの）
+Ichikawa-Shiohama Station	市川塩浜駅（いちかわしおはま）
+Ichiki Station	市来駅（いちき）
+Ichinami Station	市波駅（いちなみ）
+Ichinobe Station	市辺駅（いちのべ）
+Ichinoe Station	一之江駅（いちのえ）
+Ichinohe Station	一戸駅（いちのへ）
+Ichinokawa Station	市ノ川駅（いちのかわ）
+Ichinomiya Station	一宮駅（いちのみや）
+Ichinomoto Station	櫟本駅（いちのもと）
+Ichinose Station	市ノ瀬駅（いちのせ）
+Ichinoseki Station	一ノ関駅（いちのせき）
+Ichinotorii Station	一の鳥居駅（いちのとりい）
+Ichinowari Station	一ノ割駅（いちのわり）
+Ichinowatari Station	一の渡駅（いちのわたり）
+Ichinuno Station	市布駅（いちぬの）
+Ichio Station	市尾駅（いちお）
+Ichioka Station	市岡駅（いちおか）
+Ichishi Station	一志駅（いちし）
+Ichishiro Station	市城駅（いちしろ）
+Ichitana Station	市棚駅（いちたな）
+Ichitsubo Station	市坪駅（いちつぼ）
+Idagawa Station	井田川駅（いだがわ）
+Idakiso Station	伊太祁曽駅（いだきそ）
+Idamichi Station	猪田道駅（いだみち）
+Ide Station	井出駅（いで）
+Idemitsu Bijutsukan Station	出光美術館駅（いでみつびじゅつかん）
+Ido Station	井戸駅（いど）
+Idogaya Station	井土ヶ谷駅（いどがや）
+Iehisa Station	家久駅（いえひさ）
+Iejigawa Station	家地川駅（いえぢがわ）
+Ieki Station	家城駅（いえき）
+Ienaka Station	家中駅（いえなか）
+Ieyama Station	家山駅（いえやま）
+Iga Station	伊賀駅（いが）
+Iga-Kambe Station	伊賀神戸駅（いがかんべ）
+Iga-Kōzu Station	伊賀上津駅（いがこうづ）
+Igami Station	伊上駅（いがみ）
+Igashima Station	五十島駅（いがしま）
+Iga-Ueno Station	伊賀上野駅（いがうえの）
+Igaya Station	伊賀屋駅（いがや）
+Igumi Station	居組駅（いぐみ）
+Ihara Station	井原駅 (愛知県)（いはら）
+Iharanosato Station	井原里駅（いはらのさと）
+Iho Station	伊保駅（いほ）
+Ii Station	飯井駅（いい）
+Iibama Station	飯羽間駅（いいばま）
+Iida Station (Ishikawa)	飯田駅 (石川県)（いいだ）
+Iida Station (Nagano)	飯田駅 (長野県)（いいだ）
+Iidabashi Station	飯田橋駅（いいだばし）
+Iidaoka Station	飯田岡駅（いいだおか）
+Iigura Station	飯倉駅（いいぐら）
+Iijima Station	飯島駅（いいじま）
+Iimori Station	飯森駅（いいもり）
+Iinoura Station	飯浦駅（いいのうら）
+Iinuma Station	飯沼駅（いいぬま）
+Iioka Station	飯岡駅（いいおか）
+Iiyama Station	飯山駅（いいやま）
+Iizaka Onsen Station	飯坂温泉駅（いいざかおんせん）
+Iizuka Station	飯塚駅（いいづか）
+Iizume Station	飯詰駅（いいづめ）
+Ijiri Station	井尻駅（いじり）
+Ijūin Station	伊集院駅（いじゅういん）
+Ikarigaseki Station	碇ヶ関駅（いかりがせき）
+Ikaushi Station	伊香牛駅（いかうし）
+Ikawa Station	井川駅（いかわ）
+Ikawadani Station	伊川谷駅（いかわだに）
+Ikawa-Sakura Station	井川さくら駅（いかわさくら）
+Ikawashi Station	伊賀和志駅（いかわし）
+Ikazaki Station	五十崎駅（いかざき）
+Ikeba Station	池場駅（いけば）
+Ikebe Station	池部駅（いけべ）
+Ikebukuro Station	池袋駅（いけぶくろ）
+Ikeda Station (Hokkaido)	池田駅 (北海道)（いけだ）
+Ikeda Station (Kumamoto)	池田駅 (熊本県)（いけだ）
+Ikeda Station (Osaka)	池田駅 (大阪府)（いけだ）
+Ikedaen Station	池田園駅（いけだえん）
+Ikegami Station	池上駅（いけがみ）
+Ikejiri Station	池尻駅（いけじり）
+Ikejiri-Ōhashi Station	池尻大橋駅（いけじりおおはし）
+Ikeno Station	池野駅（いけの）
+Ikenobe Station	池戸駅（いけのべ）
+Ikenotani Station	池谷駅（いけのたに）
+Ikenoue Station	池ノ上駅（いけのうえ）
+Ikenoura Seaside Station	池の浦シーサイド駅（いけのうらしーさいど）
+Ikenoura Station	池の浦駅（いけのうら）
+Ikeshita Station	池下駅（いけした）
+Ikezuki Station	池月駅（いけづき）
+Ikisan Station	一貴山駅（いきさん）
+Ikoinohiroba Station	いこいの広場駅（いこいのひろば）
+Ikoinomura Station	いこいの村駅（いこいのむら）
+Ikoma Station	生駒駅（いこま）
+Ikomasanjō Station	生駒山上駅（いこまさんじょう）
+Ikuji Station	生地駅（いくじ）
+Ikuno Station (Hokkaido)	生野駅 (北海道)（いくの）
+Ikuno Station (Hyogo)	生野駅 (兵庫県)（いくの）
+Ikunoya Station	生野屋駅（いくのや）
+Ikura Station	井倉駅（いくら）
+Ikusabata Station	軍畑駅（いくさばた）
+Ikuta Station	生田駅 (神奈川県)（いくた）
+Ikutahara Station	生田原駅（いくたはら）
+Ikutora Station	幾寅駅（いくとら）
+Im - In[edit]
+Imabari Station	今治駅（いまばり）
+Imabashi Station	今橋駅（いまばし）
+Imabetsu Station	今別駅（いまべつ）
+Imabuku Station	今福駅（いまぶく）
+Imadegawa Station	今出川駅（いまでがわ）
+Imafuku-Tsurumi Station	今福鶴見駅（いまふくつるみ）
+Imagawa Station (Niigata)	今川駅 (新潟県)（いまがわ）
+Imagawa Station (Osaka)	今川駅 (大阪府)（いまがわ）
+Imagawakappa Station	今川河童駅（いまがわかっぱ）
+Imaguma Station	今隈駅（いまぐま）
+Imai Station	今井駅（いまい）
+Imaichi Station	今市駅（いまいち）
+Imaihamakaigan Station	今井浜海岸駅（いまいはまかいがん）
+Imaike Station (Aichi)	今池駅 (愛知県)（いまいけ）
+Imaike Station (Fukuoka)	今池駅 (福岡県)（いまいけ）
+Imaike Station (Osaka)	今池駅 (大阪府)（いまいけ）
+Imaise Station	今伊勢駅（いまいせ）
+Imaizumi Station	今泉駅（いまいずみ）
+Imajō Station	今庄駅（いまじょう）
+Imajuku Station	今宿駅（いまじゅく）
+Imamiya Station	今宮駅（いまみや）
+Imamiyaebisu Station	今宮戎駅（いまみやえびす）
+Imari Station	伊万里駅（いまり）
+Imayama Station	今山駅（いまやま）
+Imazato Station (Kintetsu)	今里駅 (近鉄)（いまざと）
+Imazato Station (Osaka Municipal Subway)	今里駅 (大阪市営地下鉄)（いまざと）
+Imazu Station (Hyogo)	今津駅 (兵庫県)（いまづ）
+Imazu Station (Oita)	今津駅 (大分県)（いまづ）
+Imba Station	印場駅（いんば）
+Imba-Nihon-idai Station	印旛日本医大駅（いんばにほんいだい）
+Imbara Station	因原駅（いんばら）
+Imbe Station	伊部駅（いんべ）
+Ina Station	伊奈駅（いな）
+Inaba-Funaoka Station	因幡船岡駅（いなばふなおか）
+Inaba-Yashiro Station	因幡社駅（いなばやしろ）
+Ina-Chūō Station	伊奈中央駅（いなちゅうおう）
+Inada Station	稲田駅（いなだ）
+Inadazutsumi Station	稲田堤駅（いなだづつみ）
+Inadera Station	猪名寺駅（いなでら）
+Inae Station	稲枝駅（いなえ）
+Inaei Station	稲永駅（いなえい）
+Ina-Fukuoka Station	伊那福岡駅（いなふくおか）
+Inage Station	稲毛駅（いなげ）
+Inagekaigan Station	稲毛海岸駅（いなげかいがん）
+Inagi Station	稲城駅（いなぎ）
+Inagi-Naganuma Station	稲城長沼駅（いなぎながぬま）
+Inahara Station	稲原駅（いなはら）
+Inaho Station	稲穂駅（いなほ）
+Ina-Hongō Station	伊那本郷駅（いなほんごう）
+Inakadate Station	田舎館駅（いなかだて）
+Ina-Kamisato Station	伊那上郷駅（いなかみさと）
+Ina-Kita Station	伊那北駅（いなきた）
+Inako Station (Mie)	依那古駅（いなこ）
+Inako Station (Shizuoka)	稲子駅（いなこ）
+Ina-Kozawa Station	伊那小沢駅（いなこざわ）
+Ina-Matsushima Station	伊那松島駅（いなまつしま）
+Inami Station	印南駅（いなみ）
+Inamuragasaki Station	稲村ケ崎駅（いなむらがさき）
+Inano Station	稲野駅（いなの）
+Inao Station	稲尾駅（いなお）
+Ina-Ōshima Station	伊那大島駅（いなおおしま）
+Inari Station	稲荷駅（いなり）
+Inarichō Station	稲荷町駅 (東京都)（いなりちょう）
+Inariguchi Station	稲荷口駅（いなりぐち）
+Inarimachi Station (Toyama)	稲荷町駅 (富山県)（いなりまち）
+Inarimachi Station (Hiroshima)	稲荷町駅 (広島県)（いなりまち）
+Inariyama Station	稲荷山駅（いなりやま）
+Inariyamakōen Station	稲荷山公園駅（いなりやまこうえん）
+Inashi Station	伊那市駅（いなし）
+Inashibetsu Station	稲士別駅（いなしべつ）
+Ina-Shimmachi Station	伊那新町駅（いなしんまち）
+Ina-Tajima Station	伊那田島駅（いなたじま）
+Inatoi Station	稲戸井駅（いなとい）
+Inawashiro Station	猪苗代駅（いなわしろ）
+Inawashirokohan Station	猪苗代湖畔駅（いなわしろこはん）
+Ina-Yawata Station	伊那八幡駅（いなやわた）
+Inazawa Station	稲沢駅（いなざわ）
+Inazumikōen Station	稲積公園駅（いなづみこうえん）
+Inazusa Station	稲梓駅（いなずさ）
+Innai Station	院内駅（いんない）
+Innoshō Station	院庄駅（いんのしょう）
+Ino Station (Chiba)	井野駅 (千葉県)（いの）
+Ino Station (Gunma)	井野駅 (群馬県)（いの）
+Ino Station (JR Shikoku)	伊野駅 (JR四国)（いの）
+Ino Station (Tosa Electric Railway)	伊野駅 (土佐電気鉄道)（いの）
+Inō Station (Hokkaido)	伊納駅（いのう）
+Inō Station (Yamaguchi)	居能駅（いのう）
+Inoekimae Station	伊野駅前駅（いのえきまえ）
+Inokashira-kōen Station	井の頭公園駅（いのかしらこうえん）
+Inokuchi Station (Hiroshima)	井口駅 (広島県)（いのくち）
+Inokuchi Station (Ishikawa)	井口駅 (石川県)（いのくち）
+Inonada Station	伊野灘駅（いのなだ）
+Inotani Station	猪谷駅（いのたに）
+Inotsuki Station	いのつき駅
+International Center Station	国際センター駅（こくさいせんたー）
+Inubō Station	犬吠駅（いぬぼう）
+Inuzuka Station	犬塚駅（いぬづか）
+Inukai Station	犬飼駅（いぬかい）
+Inukawa Station	犬川駅（いぬかわ）
+Inuyama Station	犬山駅（いぬやま）
+Inuyamaguchi Station	犬山口駅（いぬやまぐち）
+Inuyama-yūen Station	犬山遊園駅（いぬやまゆうえん）
+Inzai-Makinohara Station	印西牧の原駅（いんざいまきのはら）
+Io - Is[edit]
+Iogi Station	井荻駅（いおぎ）
+Iohji-mae Station	医王寺前駅（いおうじまえ）
+Ioki Station	伊尾木駅（いおき）
+Ippommatsu Station (Fukuoka)	一本松駅 (福岡県)（いっぽんまつ）
+Ippommatsu Station (Saitama)	一本松駅 (埼玉県)（いっぽんまつ）
+Iragawa Station	五十川駅（いらがわ）
+Ireji Station	入地駅（いれじ）
+Iri Station	伊里駅（いり）
+Iriake Station	入明駅（いりあけ）
+Irieoka Station	入江岡駅（いりえおか）
+Irigaikekōen Station	杁ヶ池公園駅（いりがいけこうえん）
+Irihirose Station	入広瀬駅（いりひろせ）
+Irinaka Station	いりなか駅（いりなか）
+Irino Station	入野駅 (鹿児島県)（いりの）
+Iriso Station	入曽駅（いりそ）
+Iriuda Station	入生田駅（いりうだ）
+Iriya Station (Kanagawa)	入谷駅 (神奈川県)（いりや）
+Iriya Station (Tokyo)	入谷駅 (東京都)（いりや）
+Iriyamase Station	入山瀬駅（いりやませ）
+Irumashi Station	入間市駅（いるまし）
+Iryō Center Station	医療センター駅（いりょうせんたー）
+Isa Station	石原駅 (京都府)（いさ）
+Isahaya Station	諫早駅（いさはや）
+Isahaya-higashi-kōkō Station	諫早東高校駅（いさはやひがしこうこう）
+Isaida Station	井細田駅（いさいだ）
+Isaryō Station	伊佐領駅（いさりょう）
+Isawaonsen Station	石和温泉駅（いさわおんせん）
+Ise-Asahi Station	伊勢朝日駅（いせあさひ）
+Iseda Station	伊勢田駅（いせだ）
+Isegi Station	井関駅（いせぎ）
+Isehara Station	伊勢原駅（いせはら）
+Ise-Hata Station	伊勢八太駅（いせはた）
+Ise-Hatta Station	伊勢治田駅（いせはった）
+Ise-Ishibashi Station	伊勢石橋駅（いせいしばし）
+Ise-Kamakura Station	伊勢鎌倉駅（いせかまくら）
+Ise-Kashiwazaki Station	伊勢柏崎駅（いせかしわざき）
+Ise-Kawaguchi Station	伊勢川口駅（いせかわぐち）
+Ise-Kawashima Station	伊勢川島駅（いせかわしま）
+Ise-Matsumoto Station	伊勢松本駅（いせまつもと）
+Ise-Nakagawa Station	伊勢中川駅（いせなかがわ）
+Ise-Nakahara Station	伊勢中原駅（いせなかはら）
+Ise-Okitsu Station	伊勢奥津駅（いせおきつ）
+Ise-Ōi Station	伊勢大井駅（いせおおい）
+Isesaki Station	伊勢崎駅（いせさき）
+Iseshi Station	伊勢市駅（いせし）
+Ise-Takehara Station	伊勢竹原駅（いせたけはら）
+Ise-Ueno Station	伊勢上野駅（いせうえの）
+Ise-Wakamatsu Station	伊勢若松駅（いせわかまつ）
+Ise-Yachi Station	伊勢八知駅（いせやち）
+Isezakichōjamachi Station	伊勢佐木長者町駅（いせざきちょうじゃまち）
+Ishiba Station	石場駅（いしば）
+Ishibashi Station (Osaka)	石橋駅 (大阪府)（いしばし）
+Ishibashi Station (Tochigi)	石橋駅 (栃木県)（いしばし）
+Ishibe Station	石部駅（いしべ）
+Ishibotoke Station	石仏駅（いしぼとけ）
+Ishida Station (Fukuoka)	石田駅 (福岡県)（いしだ）
+Ishida Station (Kyoto)	石田駅 (京都府)（いしだ）
+Ishidoriya Station	石鳥谷駅（いしどりや）
+Ishiga Station	石蟹駅（いしが）
+Ishikaki Station	石垣駅（いしかき）
+Ishigami Station	石上駅（いしがみ）
+Ishigamimae Station	石神前駅（いしがみまえ）
+Ishige Station	石下駅（いしげ）
+Ishihama Station	石浜駅（いしはま）
+Ishiharamachi Station	石原町駅（いしはらまち）
+Ishii Station (Hyogo)	石井駅 (兵庫県)（いしい）
+Ishii Station (Tokushima)	石井駅 (徳島県)（いしい）
+Ishiji Station	石地駅（いしじ）
+Ishikari-Futomi Station	石狩太美駅（いしかりふとみ）
+Ishikari-Kanazawa Station	石狩金沢駅（いしかりかなざわ）
+Ishikari-Numata Station	石狩沼田駅（いしかりぬまた）
+Ishikari-Tōbetsu Station	石狩当別駅（いしかりとうべつ）
+Ishikari-Tsukigata Station	石狩月形駅（いしかりつきがた）
+Ishikawa Pool Mae Station	石川プール前駅（いしかわぷーるまえ）
+Ishikawa Station (JR East)	石川駅 (JR東日本)（いしかわ）
+Ishikawa Station (Kōnan Railway)	石川駅 (弘南鉄道)（いしかわ）
+Ishikawachō Station	石川町駅（いしかわちょう）
+Ishikawadai Station	石川台駅（いしかわだい）
+Ishikiri Station	石切駅（いしきり）
+Ishikoshi Station	石越駅（いしこし）
+Ishikura Station	石倉駅（いしくら）
+Ishimine Station	石嶺駅（いしみね）
+Ishinden Station	一身田駅（いしんでん）
+Ishino Station	石野駅（いしの）
+Ishinomaki Station	石巻駅（いしのまき）
+Ishinomakiayumino Station	石巻あゆみ野駅（いしのまきあゆみの）
+Ishioka Station	石岡駅（いしおか）
+Ishiokaminamidai Station	石岡南台駅（いしおかみなみだい）
+Ishitegawakōen Station	石手川公園駅（いしてがわこうえん）
+Ishiuchi Station	石打駅（いしうち）
+Ishiuchi Dam Station	石打ダム駅（いしうちだむ）
+Ishiwara Station	石原駅 (埼玉県)（いしわら）
+Ishiya Station	石谷駅（いしや）
+Ishiyagawa Station	石屋川駅（いしやがわ）
+Ishiyama Station	石山駅（いしやま）
+Ishiyamadera Station	石山寺駅（いしやまでら）
+Ishizai Station	石才駅（いしざい）
+Ishizu Station (Gifu)	石津駅 (岐阜県)（いしづ）
+Ishizu Station (Osaka)	石津駅 (大阪府)（いしづ）
+Ishizuchiyama Station	石鎚山駅（いしづちやま）
+Ishizugawa Station	石津川駅（いしづがわ）
+Island Center Station	アイランドセンター駅（あいらんどせんたー）
+Island kitaguchi Station	アイランド北口駅（あいらんどきたぐち）
+Isō Station	石生駅（いそう）
+Isobe Station (Gunma)	磯部駅 (群馬県)（いそべ）
+Isobe Station (Ishikawa)	磯部駅 (石川県)（いそべ）
+Isobunnai Station	磯分内駅（いそぶんない）
+Isogo Station	磯子駅（いそご）
+Isohara Station	磯原駅（いそはら）
+Isoichi Station	五十市駅（いそいち）
+Isonoura Station	磯ノ浦駅（いそのうら）
+Isotake Station	五十猛駅（いそたけ）
+Isoyama Station	磯山駅（いそやま）
+Isozaki Station	磯崎駅（いそざき）
+Issha Station	一社駅（いっしゃ）
+Isshōchi Station	一勝地駅（いっしょうち）
+Isurugi Station	石動駅（いするぎ）
+Isuzugaoka Station	五十鈴ヶ丘駅（いすずがおか）
+Isuzugawa Station	五十鈴川駅（いすずがわ）
+It - Iz[edit]
+Itabashi Station	板橋駅（いたばし）
+Itabashi-honchō Station	板橋本町駅（いたばしほんちょう）
+Itabashi-kuyakusho-mae Station	板橋区役所前駅（いたばしくやくしょまえ）
+Itabu Station	飯給駅（いたぶ）
+Itakano Station	井高野駅（いたかの）
+Itako Station	潮来駅（いたこ）
+Itakura-tōyōdaimae Station	板倉東洋大前駅（いたくらとうようだいまえ）
+Itami Station (JR West)	伊丹駅 (JR西日本)（いたみ）
+Itami Station (Hankyu)	伊丹駅 (阪急)（いたみ）
+Itamochi Station	板持駅（いたもち）
+Itano Station	板野駅（いたの）
+Itaya Station	板谷駅（いたや）
+Itayado Station	板宿駅（いたやど）
+Itayanagi Station	板柳駅（いたやなぎ）
+Itō Station	伊東駅（いとう）
+Itoda Station	糸田駅（いとだ）
+Itoi Station	糸井駅（いとい）
+Itoigawa Station	糸魚川駅（いといがわ）
+Itoizawa Station	糸魚沢駅（いといざわ）
+Itonuki Station	糸貫駅（いとぬき）
+Itoshimakōkō-mae Station	糸島高校前駅（いとしまこうこうまえ）
+Itoshino Station	愛し野駅（いとしの）
+Itozaki Station	糸崎駅（いとざき）
+Itsukaichi Station	五日市駅（いつかいち）
+Itsukamachi Station	五日町駅（いつかまち）
+Itsutsubashi Station	五橋駅（いつつばし）
+Iwadate Station	岩館駅（いわだて）
+Iwade Station	岩出駅（いわで）
+Iwadeyama Station	岩出山駅（いわでやま）
+Iwafune Station	岩舟駅（いわふね）
+Iwafunemachi Station	岩船町駅（いわふねまち）
+Iwahana Station	岩鼻駅（いわはな）
+Iwahara Station	岩原駅（いわはら）
+Iwai Station	岩井駅（いわい）
+Iwaizumi Station	岩泉駅（いわいずみ）
+Iwaizumi-Omoto Station	岩泉小本駅（いわいずみおもと）
+Iwajuku Station	岩宿駅（いわじゅく）
+Iwaki Station (Fukushima)	いわき駅（いわき）
+Iwaki Station (Nara)	磐城駅（いわき）
+Iwaki-Asakawa Station	磐城浅川駅（いわきあさかわ）
+Iwaki-Hanawa Station	磐城塙駅（いわきはなわ）
+Iwaki-Ishii Station	磐城石井駅（いわきいしい）
+Iwaki-Ishikawa Station	磐城石川駅（いわきいしかわ）
+Iwaki-Minato Station	岩城みなと駅（いわきみなと）
+Iwaki-Moriyama Station	磐城守山駅（いわきもりやま）
+Iwaki-Ōta Station	磐城太田駅（いわきおおた）
+Iwakiri Station	岩切駅（いわきり）
+Iwaki-Tanakura Station	磐城棚倉駅（いわきたなくら）
+Iwaki-Tokiwa Station	磐城常葉駅（いわきときわ）
+Iwakuni Station	岩国駅（いわくに）
+Iwakura Station (Aichi)	岩倉駅 (愛知県)（いわくら）
+Iwakura Station (Kyoto)	岩倉駅 (京都府)（いわくら）
+Iwakura Station (Yamaguchi)	岩倉駅 (山口県)（いわくら）
+Iwakuraji Station	岩峅寺駅（いわくらじ）
+Iwama Station	岩間駅（いわま）
+Iwamatsu Station	岩松駅（いわまつ）
+Iwami Station (Tottori)	岩美駅（いわみ）
+Iwami Station (Nara)	石見駅（いわみ）
+Iwami-Fukumitsu Station	石見福光駅（いわみふくみつ）
+Iwami-Kawagoe Station	石見川越駅（いわみかわごえ）
+Iwami-Kawamoto Station	石見川本駅（いわみかわもと）
+Iwami-Matsubara Station	石見松原駅（いわみまつばら）
+Iwami-Tsuda Station	石見津田駅（いわみつだ）
+Iwami-Tsuga Station	石見都賀駅（いわみつが）
+Iwami-Yanaze Station	石見簗瀬駅（いわみやなぜ）
+Iwami-Yokota Station	石見横田駅（いわみよこた）
+Iwamizawa Station	岩見沢駅（いわみざわ）
+Iwamoto Station	岩本駅（いわもと）
+Iwamotochō Station	岩本町駅（いわもとちょう）
+Iwamura Station	岩村駅（いわむら）
+Iwamurada Station	岩村田駅（いわむらだ）
+Iwamuro Station	岩室駅（いわむろ）
+Iwanami Station	岩波駅（いわなみ）
+Iwane Station	巖根駅（いわね）
+Iwanebashi Station	岩根橋駅（いわねばし）
+Iwanome Station	岩野目駅（いわのめ）
+Iwanoshita Station	岩ノ下駅（いわのした）
+Iwanuma Station	岩沼駅（いわぬま）
+Iwappara-Skiing Ground Station	岩原スキー場前駅（いわっぱらスキーじょうまえ）
+Iwasawa Station	岩沢駅（いわさわ）
+Iwase Station	岩瀬駅（いわせ）
+Iwasehama Station	岩瀬浜駅（いわせはま）
+Iwashima Station	岩島駅（いわしま）
+Iwashiro Station	岩代駅（いわしろ）
+Iwashimizu-hachimangū Station	石清水八幡宮駅（いわしみずはちまんぐう）
+Iwashiroshimizu Station	岩代清水駅（いわしろしみず）
+Iwata Station (Shizuoka)	磐田駅（いわた）
+Iwata Station (Yamaguchi)	岩田駅 (山口県)（いわた）
+Iwatakiguchi Station	岩滝口駅（いわたきぐち）
+Iwate-Funakoshi Station	岩手船越駅（いわてふなこし）
+Iwate-Futsukamachi Station	岩手二日町駅（いわてふつかまち）
+Iwate-Iioka Station	岩手飯岡駅（いわていいおか）
+Iwate-Kamigō Station	岩手上郷駅（いわてかみごう）
+Iwate-Kariya Station	岩手刈屋駅（いわてかりや）
+Iwate-Kawaguchi Station	岩手川口駅（いわてかわぐち）
+Iwate-Numakunai Station	いわて沼宮内駅（いわてぬまくない）
+Iwate-Ōkawa Station	岩手大川駅（いわておおかわ）
+Iwate-Wainai Station	岩手和井内駅（いわてわいない）
+Iwato Station	石刀駅（いわと）
+Iwatsuka Station	岩塚駅（いわつか）
+Iwatsuki Station	岩槻駅（いわつき）
+Iwaya Station (Hyogo)	岩屋駅 (兵庫県)（いわや）
+Iwaya Station (Saga)	岩屋駅 (佐賀県)（いわや）
+Iwayama Station	岩山駅（いわやま）
+Iya Station	揖屋駅（いや）
+Iyaguchi Station	祖谷口駅（いやぐち）
+Iyo-Doi Station	伊予土居駅（いよどい）
+Iyo-Himi Station	伊予氷見駅（いよひみ）
+Iyo-Hirano Station	伊予平野駅（いよひらの）
+Iyo-Hōjō Station	伊予北条駅（いよほうじょう）
+Iyo-Iwaki Station	伊予石城駅（いよいわき）
+Iyo-Izushi Station	伊予出石駅（いよいずし）
+Iyo-Kameoka Station	伊予亀岡駅（いよかめおか）
+Iyo-Kaminada Station	伊予上灘駅（いよかみなだ）
+Iyoki Station	伊与喜駅（いよき）
+Iyo-Komatsu Station	伊予小松駅（いよこまつ）
+Iyo-Mishima Station	伊予三島駅（いよみしま）
+Iyo-Miyanoshita Station	伊予宮野下駅（いよみやのした）
+Iyo-Miyoshi Station	伊予三芳駅（いよみよし）
+Iyo-Nagahama Station	伊予長浜駅（いよながはま）
+Iyo-Nakayama Station	伊予中山駅（いよなかやま）
+Iyo-Ōhira Station	伊予大平駅（いよおおひら）
+Iyo-Ōzu Station	伊予大洲駅（いよおおず）
+Iyo-Saijō Station	伊予西条駅（いよさいじょう）
+Iyo-Sakurai Station	伊予桜井駅（いよさくらい）
+Iyo-Sangawa Station	伊予寒川駅（いよさんがわ）
+Iyoshi Station	伊予市駅（いよし）
+Iyo-Shirataki Station	伊予白滝駅（いよしらたき）
+Iyo-Tachibana Station	いよ立花駅（いよたちばな）
+Iyo-Tachikawa Station	伊予立川駅（いよたちかわ）
+Iyo-Tomita Station	伊予富田駅（いよとみた）
+Iyo-Wake Station	伊予和気駅（いよわけ）
+Iyo-Yokota Station	伊予横田駅（いよよこた）
+Iyo-Yoshida Station	伊予吉田駅（いよよしだ）
+Izu-Atagawa Station	伊豆熱川駅（いずあたがわ）
+Izue Station	いずえ駅（いずえ）
+Izu-Hokkawa Station	伊豆北川駅（いずほっかわ）
+Izu-Inatori Station	伊豆稲取駅（いずいなとり）
+Izukōgen Station	伊豆高原駅（いずこうげん）
+Izukyu Shimoda Station	伊豆急下田駅（いずきゅうしもだ）
+Izume Station	出目駅（いずめ）
+Izumi Station (Fukushima)	泉駅 (福島市)（いずみ）
+Izumi Station (Iwaki)	泉駅 (福島県いわき市)（いずみ）
+Izumi Station (Kagoshima)	出水駅（いずみ）
+Izumi-Chūō Station (Kanagawa)	いずみ中央駅（いずみちゅうおう）
+Izumi-Chūō Station (Miyagi)	泉中央駅（いずみちゅうおう）
+Izumi-Chūō Station (Osaka)	和泉中央駅（いずみちゅうおう）
+Izumi-Fuchū Station	和泉府中駅（いずみふちゅう）
+Izumigaoka Station	泉ヶ丘駅（いずみがおか）
+Izumigō Station	泉郷駅（いずみごう）
+Izumi-Hashimoto Station	和泉橋本駅（いずみはしもと）
+Izumino Station	いずみ野駅（いずみの）
+Izumi-Omiya Station	和泉大宮駅（いずみおおみや）
+Izumiotsu Station	泉大津駅（いずみおおつ）
+Izumisano Station	泉佐野駅（いずみさの）
+Izumisawa Station	泉沢駅（いずみさわ）
+Izumi-Sunagawa Station	和泉砂川駅（いずみすながわ）
+Izumita Station	泉田駅（いずみた）
+Izumi-Taiikukan Station	泉体育館駅（いずみたいいくかん）
+Izumi-Tamagawa Station	和泉多摩川駅（いずみたまがわ）
+Izumi-Tottori Station	和泉鳥取駅（いずみとっとり）
+Izumizaki Station	泉崎駅（いずみざき）
+Izumma Station	出馬駅（いずんま）
+Izumo-Daitō Station	出雲大東駅（いずもだいとう）
+Izumo-Jinzai Station	出雲神西駅（いずもじんざい）
+Izumo-Minari Station	出雲三成駅（いずもみなり）
+Izumo-Sakane Station	出雲坂根駅（いずもさかね）
+Izumo Science Center Park Town Mae Station	出雲科学館パークタウン前駅（いずもかがくかんパークタウンまえ）
+Izumoshi Station	出雲市駅（いずもし）
+Izumo Taisha-mae Station	出雲大社前駅（いずもたいしゃまえ）
+Izumo-Yashiro Station	出雲八代駅（いずもやしろ）
+Izumo-Yokota Station	出雲横田駅（いずもよこた）
+Izumozaki Station	出雲崎駅（いずもざき）
+Izu-Nagaoka Station	伊豆長岡駅（いずながおか）
+Izu-Nitta Station	伊豆仁田駅（いずにった）
+Izu-Ōkawa Station	伊豆大川駅（いずおおかわ）
+Izu-Taga Station	伊豆多賀駅（いずたが）

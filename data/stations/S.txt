@@ -1,0 +1,1153 @@
+Sabae Station	鯖江駅（さばえ）
+Sabaishi Station	鯖石駅（さばいし）
+Sabane Station	佐羽根駅（さばね）
+Sabase Station	鯖瀬駅（さばせ）
+Sachiura Station	幸浦駅（さちうら）
+Sadamitsu Station	貞光駅（さだみつ）
+Sadōri Station	左通駅（さどおり）
+Sadowara Station	佐土原駅（さどわら）
+Saeki-Kuyakushomae Station	佐伯区役所前駅（さえきくやくしょまえ）
+Saga Station	佐賀駅（さが）
+Saga-Arashiyama Station	嵯峨嵐山駅（さがあらしやま）
+Sagae Station	寒河江駅（さがえ）
+Saga-Kōen Station	佐賀公園駅（さがこうえん）
+Sagamihara Station	相模原駅（さがみはら）
+Sagami-Kaneko Station	相模金子駅（さがみかねこ）
+Sagamiko Station	相模湖駅（さがみこ）
+Sagamino Station	さがみ野駅（さがみの）
+Sagami-Numata Station	相模沼田駅（さがみぬまた）
+Sagami-Ōno Station	相模大野駅（さがみおおの）
+Sagami-Ōtsuka Station	相模大塚駅（さがみおおつか）
+Sagarahan-Ganjōji Station	相良藩願成寺駅（さがらはんがんじょうじ）
+Saginomiya Station (Shizuoka)	さぎの宮駅（さぎのみや）
+Saginomiya Station (Tokyo)	鷺ノ宮駅（さぎのみや）
+Saginuma Station	鷺沼駅（さぎぬま）
+Sagoshi Station	砂越駅（さごし）
+Sai Station	西院駅（さい）
+Saichi Station	最知駅（さいち）
+Saidaiji Station	西大寺駅（さいだいじ）
+Saidōsho Station	採銅所駅（さいどうしょ）
+Saigane Station	西金駅（さいがね）
+Saigata Station	犀潟駅（さいがた）
+Saigawa Station	犀川駅（さいがわ）
+Saigō Station	西郷駅（さいごう）
+Saiin Station	西院駅（さいいん）
+Saijō Station	西条駅 (広島県)（さいじょう）
+Saiki Station	佐伯駅（さいき）
+Saikū Station	斎宮駅（さいくう）
+Saimyōji Station	西明寺駅（さいみょうじ）
+Saishun Iryo Center Mae Station	再春医療センター前駅（さいしゅんいりょうせんたーまえ）
+Saitama-Shintoshin Station	さいたま新都心駅（さいたましんとしん）
+Saito-Nishi Station	彩都西駅（さいとにし）
+Saitozaki Station	西戸崎駅（さいとざき）
+Saiwai Station	幸駅（さいわい）
+Saka Station	坂駅（さか）
+Sakabe Station	坂部駅（さかべ）
+Sakado Station (Fukuoka)	酒殿駅（さかど）
+Sakado Station (Ibaraki)	坂戸駅 (茨城県)（さかど）
+Sakado Station (Saitama)	坂戸駅 (埼玉県)（さかど）
+Sakae Station (Aichi)	栄駅 (愛知県)（さかえ）
+Sakae Station (Hyogo)	栄駅 (兵庫県)（さかえ）
+Sakae Station (Okayama)	栄駅 (岡山県)（さかえ）
+Sakaechō Station (Chiba)	栄町駅 (千葉県)（さかえちょう）
+Sakaechō Station (Tokyo)	栄町駅 (東京都)（さかえちょう）
+Sakaemachi Station (Aichi)	栄町駅 (愛知県)（さかえまち）
+Sakaemachi Station (Hokkaido)	栄町駅 (北海道)（さかえまち）
+Sakaemachi Station (Toyama)	栄町駅 (富山県)（さかえまち）
+Sakahogi Station	坂祝駅（さかほぎ）
+Sakai Station	堺駅（さかい）
+Sakaibashi Station	坂井橋駅（さかいばし）
+Sakaida Station	堺田駅（さかいだ）
+Sakaide Station	坂出駅（さかいで）
+Sakai-Higashi Station	堺東駅（さかいひがし）
+Sakaimachi Station	境町駅（さかいまち）
+Sakaimatsu Station	境松駅（さかいまつ）
+Sakaiminato Station	境港駅（さかいみなと）
+Sakaishi Station	堺市駅（さかいし）
+Sakaisuji-Hommachi Station	堺筋本町駅（さかいすじほんまち）
+Sakakami Station	坂上駅（さかかみ）
+Sakaki Station	坂城駅（さかき）
+Sakakibara-Onsenguchi Station	榊原温泉口駅（さかきばらおんせんぐち）
+Sakakita Station	坂北駅（さかきた）
+Sakamachi Station	坂町駅（さかまち）
+Sakamoto Station (Kumamoto)	坂本駅 (熊本県)（さかもと）
+Sakamoto Station (Miyagi)	坂元駅（さかもと）
+Sakamoto-hieizanguchi Station	坂本比叡山口駅（さかもとひえいざんぐち）
+Sakane Station	坂根駅（さかね）
+Sakanoichi Station	坂ノ市駅（さかのいち）
+Sakanoue Station	坂之上駅（さかのうえ）
+Sakaori Station	酒折駅（さかおり）
+Sakari Station	盛駅（さかり）
+Sakasai Station	逆井駅（さかさい）
+Sakasegawa Station	逆瀬川駅（さかせがわ）
+Sakashita Station	坂下駅（さかした）
+Sakata Station (Shiga)	坂田駅（さかた）
+Sakata Station (Yamagata)	酒田駅（さかた）
+Sakawa Station	佐川駅（さかわ）
+Sakidaira Station	崎平駅（さきだいら）
+Sakihana Station	咲花駅（さきはな）
+Sakimori Station	崎守駅（さきもり）
+Sakiyama Station	崎山駅（さきやま）
+Sakkuru Station	咲来駅（さっくる）
+Sako Station	佐古駅（さこ）
+Sakō Station	栄生駅（さこう）
+Sakogi Station	佐古木駅（さこぎ）
+Sakoshi Station	坂越駅（さこし）
+Saku Station	佐久駅（さく）
+Sakudaira Station	佐久平駅（さくだいら）
+Sakugiguchi Station	作木口駅（さくぎぐち）
+Saku-Hirose Station	佐久広瀬駅（さくひろせ）
+Sakuma Station	佐久間駅（さくま）
+Sakunami Station	作並駅（さくなみ）
+Sakura Station (Aichi)	桜駅 (愛知県)（さくら）
+Sakura Station (Chiba)	佐倉駅（さくら）
+Sakura Station (Mie)	桜駅 (三重県)（さくら）
+Sakurabashi Station (Shizuoka)	桜橋駅 (静岡県)（さくらばし）
+Sakurabashi Station (Toyama)	桜橋駅 (富山県)（さくらばし）
+Sakuradai Station (Fukuoka)	桜台駅 (福岡県)（さくらだい）
+Sakuradai Station (Tokyo)	桜台駅 (東京都)（さくらだい）
+Sakuradamon Station	桜田門駅（さくらだもん）
+Sakuragaoka Station	桜ヶ丘駅（さくらがおか）
+Sakuragawa Station (Osaka)	桜川駅 (大阪府)（さくらがわ）
+Sakuragawa Station (Shiga)	桜川駅 (滋賀県)（さくらがわ）
+Sakuragi Station (Chiba)	桜木駅 (千葉県)（さくらぎ）
+Sakuragi Station (Shizuoka)	桜木駅 (静岡県)（さくらぎ）
+Sakuragichō Station	桜木町駅（さくらぎちょう）
+Sakurahommachi Station	桜本町駅（さくらほんまち）
+Sakurai Station (Aichi)	桜井駅 (愛知県)（さくらい）
+Sakurai Station (Nara)	桜井駅 (奈良県)（さくらい）
+Sakurai Station (Osaka)	桜井駅 (大阪府)（さくらい）
+Sakurajima Station	桜島駅（さくらじま）
+Sakurajōsui Station	桜上水駅（さくらじょうすい）
+Sakurakaidō Station	桜街道駅（さくらかいどう）
+Sakuramachi Station (Nagano)	桜町駅 (長野県)（さくらまち）
+Sakuramachi Station (Nagasaki)	桜町駅 (長崎県)（さくらまち）
+Sakuramachimae Station	桜町前駅（さくらまちまえ）
+Sakurambo Higashine Station	さくらんぼ東根駅（さくらんぼひがしね）
+Sakuramizu Station	桜水駅（さくらみず）
+Sakuranomiya Station	桜ノ宮駅（さくらのみや）
+Sakuraoka Station	桜岡駅（さくらおか）
+Sakurasawa Station	桜沢駅 (長野県)（さくらさわ）
+Sakura-Shinmachi Station	桜新町駅（さくらしんまち）
+Sakura Shukugawa Station	さくら夙川駅（さくらしゅくがわ）
+Sakurayama Station	桜山駅（さくらやま）
+Sakurazaka Station	桜坂駅（さくらざか）
+Sakurazawa Station	桜沢駅 (埼玉県)（さくらざわ）
+Sakusabe Station	作草部駅（さくさべ）
+Saku-Uminokuchi Station	佐久海ノ口駅（さくうみのくち）
+Sakyōyama Station	左京山駅（さきょうやま）
+Samani Station	様似駅（さまに）
+Sambashidōri-Gochōme Station	桟橋通五丁目駅（さんばしどおりごちょうめ）
+Sambashi-Shakomae Station	桟橋車庫前駅（さんばししゃこまえ）
+Sambommatsu Station (Kagawa)	三本松駅 (香川県)（さんぼんまつ）
+Sambommatsu Station (Nara)	三本松駅 (奈良県)（さんぼんまつ）
+Sambommatsuguchi Station	三本松口駅（さんぼんまつぐち）
+Same Station	鮫駅（さめ）
+Samegai Station	醒ヶ井駅（さめがい）
+Samezu Station	鮫洲駅（さめず）
+Samitagawa Station	佐味田川駅（さみたがわ）
+Samizo Station	三溝駅（さみぞ）
+Sammaibashi Station	三枚橋駅（さんまいばし）
+Sammi Station	三見駅（さんみ）
+Sammon Station	山門駅（さんもん）
+Samukawa Station	寒川駅（さむかわ）
+Samuraihama Station	侍浜駅（さむらいはま）
+Sana Station	佐奈駅（さな）
+Sanage Station	猿投駅（さなげ）
+Sanagu Station	佐那具駅（さなぐ）
+Sanda Station	三田駅 (兵庫県)（さんだ）
+Sanda-Hommachi Station	三田本町駅（さんだほんまち）
+Sangamori Station	三ヶ森駅（さんがもり）
+Sangane Station	三ヶ根駅（さんがね）
+Sangenjaya Station	三軒茶屋駅（さんげんぢゃや）
+Sangō Station (Aichi)	三郷駅 (愛知県)（さんごう）
+Sangō Station (Nara)	三郷駅 (奈良県)（さんごう）
+Sangūbashi Station	参宮橋駅（さんぐうばし）
+Sangyō-dōro Station	産業道路駅（さんぎょうどうろ）
+Sangyō Shinkō Center Station	産業振興センター駅（さんぎょうしんこうせんたー）
+Sanjō Station (Fukuoka)	山上駅 (福岡県)（さんじょう）
+Sanjō Station (Kagawa)	三条駅 (香川県)（さんじょう）
+Sanjō Station (Kyoto)	三条駅 (京都府)（さんじょう）
+Sanjō Station (Niigata)	三条駅 (新潟県)（さんじょう）
+Sanjō-Keihan Station	三条京阪駅（さんじょうけいはん）
+Sanjūhassha Station	三十八社駅（さんじゅうはっしゃ）
+Sannohe Station	三戸駅（さんのへ）
+Sannomiya Station (JR West)	三ノ宮駅（さんのみや）
+Sannomiya Station	三宮駅（さんのみや）
+Sannomiya-Hanadokeimae Station	三宮・花時計前駅（さんのみや・はなどけいまえ）
+Sannō Station (Aichi)	山王駅 (愛知県)（さんのう）
+Sannō Station (Fukui)	山王駅 (福井県)（さんのう）
+Sano Station	佐野駅（さの）
+Sanonowatashi Station	佐野のわたし駅（さののわたし）
+Sanoshi Station	佐野市駅（さのし）
+Sanrigi Station	三里木駅（さんりぎ）
+Sanriku Station	三陸駅（さんりく）
+Sanroku Station (Fukuoka)	山麓駅 (福岡県)（さんろく）
+Sansai Station	三才駅（さんさい）
+Sanuki Station	佐貫駅（さぬき）
+Sanuki-Aioi Station	讃岐相生駅（さぬきあいおい）
+Sanuki-Fuchū Station	讃岐府中駅（さぬきふちゅう）
+Sanukimachi Station	佐貫町駅（さぬきまち）
+Sanuki-Mure Station	讃岐牟礼駅（さぬきむれ）
+Sanuki-Saida Station	讃岐財田駅（さぬきさいだ）
+Sanuki-Shioya Station	讃岐塩屋駅（さぬきしおや）
+Sanuki-Shirotori Station	讃岐白鳥駅（さぬきしろとり）
+Sanuki-Tsuda Station	讃岐津田駅（さぬきつだ）
+Sanyo Aboshi Station	山陽網干駅（さんようあぼし）
+Sanyo Akashi Station	山陽明石駅（さんようあかし）
+Sanyo Himeji Station	山陽姫路駅（さんようひめじ）
+Sanyō-Joshidaimae Station	山陽女子大前駅（さんようじょしだいまえ）
+Sanyo Shioya Station	山陽塩屋駅（さんようしおや）
+Sanyo Sone Station	山陽曽根駅（さんようそね）
+Sanyo Suma Station	山陽須磨駅（さんようすま）
+Sanyo Tarumi Station	山陽垂水駅（さんようたるみ）
+Sanyo Temma Station	山陽天満駅（さんようてんま）
+Sanyo Uozumi Station	山陽魚住駅（さんよううおずみ）
+Sanze Station	三瀬駅（さんぜ）
+Sappinai Station	札比内駅（さっぴない）
+Sapporo Station	札幌駅（さっぽろ）
+Sapporo Station (Sapporo Municipal Subway)	さっぽろ駅
+Sapporo Beer Teien Station	サッポロビール庭園駅（サッポロビールていえん）
+Sapporo Kamotsu Terminal Station	札幌貨物ターミナル駅（さっぽろかもつたーみなる）
+Sarayama Station	佐良山駅（さらやま）
+Sari Station	佐里駅（さり）
+Saruda Station	猿田駅（さるだ）
+Saruhashi Station	猿橋駅（さるはし）
+Saruiwa Station	猿岩駅（さるいわ）
+Saruwada Station	猿和田駅（さるわだ）
+Sasabara Station	篠原駅 (愛知県)（ささばら）
+Sasabaru Station	笹原駅（ささばる）
+Sasabe Station	笹部駅（ささべ）
+Sasagawa Station	笹川駅（ささがわ）
+Sasago Station	笹子駅（ささご）
+Sasaguri Station	篠栗駅（ささぐり）
+Sasaharada Station	笹原田駅（ささはらだ）
+Sasaki Station	佐々木駅（ささき）
+Sasakino Station	笹木野駅（ささきの）
+Sasashima-raibu Station	ささしまライブ駅（ささしまらいぶ）
+Sasaya Station	笹谷駅（ささや）
+Sasayamaguchi Station	篠山口駅（ささやまぐち）
+Sasazu Station	笹津駅（ささづ）
+Sasazuka Station	笹塚駅（ささづか）
+Sasebo Station	佐世保駅（させぼ）
+Sasebo-Chūō Station	佐世保中央駅（させぼちゅうおう）
+Sashiki Station	佐敷駅（さしき）
+Sashimaki Station	刺巻駅（さしまき）
+Sashiōgi Station	指扇駅（さしおうぎ）
+Sashiu Station	佐志生駅（さしう）
+Sato Station	里駅（さと）
+Satomi Station	里見駅（さとみ）
+Satoshiraishi Station	里白石駅（さとしらいし）
+Satoshō Station	里庄駅（さとしょう）
+Satsu Station	佐津駅（さつ）
+Satsueisho-mae Station	撮影所前駅（さつえいしょまえ）
+Satsu Station	佐津駅（さつ）
+Satsukari Station	札苅駅（さつかり）
+Satsukidai Station	五月台駅（さつきだい）
+Satsukino Station	さつき野駅（さつきの）
+Satsuma-Imaizumi Station	薩摩今和泉駅（さつまいまいずみ）
+Satsuma-Itashiki Station	薩摩板敷駅（さつまいたしき）
+Satsuma-Kawashiri Station	薩摩川尻駅（さつまかわしり）
+Satsuma-Matsumoto Station	薩摩松元駅（さつままつもと）
+Satsuma-Ōkawa Station	薩摩大川駅（さつまおおかわ）
+Satsuma-Shioya Station	薩摩塩屋駅（さつましおや）
+Satsuma-Taki Station	薩摩高城駅（さつまたき）
+Satsunai Station	札内駅（さつない）
+Satte Station	幸手駅（さって）
+Satteki Station	札的駅（さってき）
+Sattsuru Station	札弦駅（さっつる）
+Sawa Station (Ibaraki)	佐和駅（さわ）
+Sawa Station (Nagano)	沢駅（さわ）
+Sawabe Station	沢辺駅（さわべ）
+Sawada Station	沢田駅（さわだ）
+Sawadani Station	沢谷駅（さわだに）
+Sawai Station	沢井駅（さわい）
+Sawajiri Station	沢尻駅（さわじり）
+Sawama Station	沢間駅（さわま）
+Sawame Station	沢目駅（さわめ）
+Sawanakayama Station	沢中山駅（さわなかやま）
+Sawando Station	沢渡駅（さわんど）
+Sawanochō Station	沢ノ町駅（さわのちょう）
+Sawara Station	佐原駅（さわら）
+Sawaragi Station	沢良宜駅（さわらぎ）
+Saya Station	佐屋駅（さや）
+Sayama Station	狭山駅（さやま）
+Sayamagaoka Station	狭山ヶ丘駅（さやまがおか）
+Sayamashi Station	狭山市駅（さやまし）
+Sayo Station	佐用駅（さよ）
+Saza Station	佐々駅（さざ）
+Sc-Se[edit]
+Screen Station	スクリーン駅（すくりーん）
+Seba Station	洗馬駅（せば）
+Sechigo Station	清児駅（せちご）
+Segoshi Station	瀬越駅（せごし）
+Seheji Station	瀬辺地駅（せへじ）
+Seiaichūkō-mae Station	聖愛中高前駅（せいあいちゅうこうまえ）
+Seibijō Station	整備場駅（せいびじょう）
+Seibu Chichibu Station	西武秩父駅（せいぶちちぶ）
+Seibuen Station	西武園駅（せいぶえん）
+Seibu-Kyūjō-mae Station	西武球場前駅（せいぶきゅうじょうまえ）
+Seibu Shinjuku Station	西武新宿駅（せいぶしんじゅく）
+Seibu Tachikawa Station	西武立川駅（せいぶたちかわ）
+Seibu Yagisawa Station	西武柳沢駅（せいぶやぎさわ）
+Seibu-Yūenchi Station	西武遊園地駅（せいぶゆうえんち）
+Seihama Station	勢浜駅（せいはま）
+Seihōkōkōmae Station	清峰高校前駅（せいほうこうこうまえ）
+Seijōgakuen-Mae Station	成城学園前駅（せいじょうがくえんまえ）
+Seikan Tunnel Kinenkan Station	青函トンネル記念館駅（せいかんとんねるきねんかん）
+Seikibashi Station	清輝橋駅（せいきばし）
+Seimei Station	清明駅（せいめい）
+Seiryū-Miharashi Station	清流みはらし駅（せいりゅうみはらし）
+Seiryū-Shin-Iwakuni Station	清流新岩国駅（せいりゅうしんいわくに）
+Seiseki-Sakuragaoka Station	聖蹟桜ヶ丘駅（せいせきさくらがおか）
+Seishin-Chūō Station	西神中央駅（せいしんちゅうおう）
+Seishin-Minami Station	西神南駅（せいしんみなみ）
+Seishūgakuenmae Station	静修学園前駅（せいしゅうがくえんまえ）
+Seiwagakuenmae Station	清和学園前駅（せいわがくえんまえ）
+Seki Station (Gifu)	関駅 (岐阜県)（せき）
+Seki Station (Mie)	関駅 (三重県)（せき）
+Sekigahara Station	関ヶ原駅（せきがはら）
+Sekigawa Station	関川駅（せきがわ）
+Sekiguchi Station	関口駅（せきぐち）
+Sekijūjibyōinmae Station	赤十字病院前駅（せきじゅうじびょういんまえ）
+Sekijūjimae Station	赤十字前駅（せきじゅうじまえ）
+Sekime Station	関目駅（せきめ）
+Sekime-Seiiku Station	関目成育駅（せきめせいいく）
+Sekime-Takadono Station	関目高殿駅（せきめたかどの）
+Sekine Station	関根駅（せきね）
+Sekinomiya Station	関ノ宮駅（せきのみや）
+Sekishi Station	積志駅（せきし）
+Seki-Shimouchi Station	関下有知駅（せきしもうち）
+Seki-Shiyakushomae Station	関市役所前駅（せきしやくしょまえ）
+Sekito Station	関都駅（せきと）
+Seki-Tomioka Station	関富岡駅（せきとみおか）
+Sekiya Station (Nara)	関屋駅 (奈良県)（せきや）
+Sekiya Station (Niigata)	関屋駅 (新潟県)（せきや）
+Sekiyama Station	関山駅（せきやま）
+Sembayashi Station	千林駅（せんばやし）
+Sembayashi-Ōmiya Station	千林大宮駅（せんばやしおおみや）
+Sembokuchō Station	仙北町駅（せんぼくちょう）
+Sembon Station	千本駅（せんぼん）
+Semine Station	瀬峰駅（せみね）
+Semi-Onsen Station	瀬見温泉駅（せみおんせん）
+Sempukuji Station	泉福寺駅（せんぷくじ）
+Senchō Station	千丁駅（せんちょう）
+Senda Station	千旦駅（せんだ）
+Sendagaya Station	千駄ヶ谷駅（せんだがや）
+Sendagi Station	千駄木駅（せんだぎ）
+Sendai Station (Miyagi)	仙台駅（せんだい）
+Sendai Station (Kagoshima)	川内駅 (鹿児島県)（せんだい）
+Sendai Airport Station	仙台空港駅（せんだいくうこう）
+Sendaifutō Station	仙台埠頭駅（せんだいふとう）
+Sendai-Kitakō Station	仙台北港駅（せんだいきたこう）
+Sendaikō Station	仙台港駅（せんだいこう）
+Sendai-Nishikō Station	仙台西港駅（せんだいにしこう）
+Sendaira Station	千平駅（せんだいら）
+Sengakuji Station	泉岳寺駅（せんがくじ）
+Sengawa Station	仙川駅（せんがわ）
+Sengencho Station	浅間町駅（せんげんちょう）
+Sengendai Station	せんげん台駅（せんげんだい）
+Sengoku Station	千石駅（せんごく）
+Senjō Station	千丈駅（せんじょう）
+Senjōjiki Station	千畳敷駅（せんじょうじき）
+Senju-Ōhashi Station	千住大橋駅（せんじゅおおはし）
+Senkawa Station	千川駅（せんかわ）
+Senmaya Station	千厩駅（せんまや）
+Seno Station	瀬野駅（せの）
+Senoo Station	妹尾駅（せのお）
+Senoue Station	瀬上駅（せのうえ）
+Senri-Chūō Station	千里中央駅（せんりちゅうおう）
+Senrioka Station	千里丘駅（せんりおか）
+Senriyama Station	千里山駅（せんりやま）
+Senryūgataki Station	潜竜ヶ滝駅（せんりゅうがたき）
+Sentoku Station	千徳駅（せんとく）
+Senzai Station	前栽駅（せんざい）
+Senzaki Station	仙崎駅（せんざき）
+Senzoku Station	洗足駅（せんぞく）
+Senzoku-Ike Station	洗足池駅（せんぞくいけ）
+Senzu Station	千頭駅（せんず）
+Seppu Station	節婦駅（せっぷ）
+Serada Station	世良田駅（せらだ）
+Sesekushi Station	瀬々串駅（せせくし）
+Sessokyō-Onsen Station	接岨峡温泉駅（せっそきょうおんせん）
+Seta Station (Kumamoto)	瀬田駅 (熊本県)（せた）
+Seta Station (Shiga)	瀬田駅 (滋賀県)（せた）
+Setagaya Station	世田谷駅（せたがや）
+Setagaya-Daita Station	世田谷代田駅（せたがやだいた）
+Setaka Station	瀬高駅（せたか）
+Seto Station	瀬戸駅（せと）
+Setoguchi Station	瀬戸口駅（せとぐち）
+Setoishi Station	瀬戸石駅（せといし）
+Setose Station	瀬戸瀬駅（せとせ）
+Setoshi Station	瀬戸市駅（せとし）
+Seto-Shiyakushomae Station	瀬戸市役所前駅（せとしやくしょまえ）
+Settai Station	摂待駅（せったい）
+Settsu Station	摂津駅（せっつ）
+Settsu-Motoyama Station	摂津本山駅（せっつもとやま）
+Settsu-shi Station	摂津市駅（せっつし）
+Settsu-Tonda Station	摂津富田駅（せっつとんだ）
+Seya Station	瀬谷駅（せや）
+Seya-Kitaguchi Station	勢野北口駅（せやきたぐち）
+Sha-Shim[edit]
+Shadai Station	社台駅（しゃだい）
+Shaguma Station	舎熊駅（しゃぐま）
+Shake Station	社家駅（しゃけ）
+Shakubetsu Station	尺別駅（しゃくべつ）
+Shakudo Station	尺土駅（しゃくど）
+Shakujiikōen Station	石神井公園駅（しゃくじいこうえん）
+Shibahara Station	柴原駅（しばはら）
+Shibahashi Station	柴橋駅（しばはし）
+Shibahira Station	柴平駅（しばひら）
+Shibajuku Station	柴宿駅（しばじゅく）
+Shibakawa Station	芝川駅（しばかわ）
+Shibakōen Station	芝公園駅（しばこうえん）
+Shibamata Station	柴又駅（しばまた）
+Shibasaki Station	柴崎駅（しばさき）
+Shibasaki-Taiikukan Station	柴崎体育館駅（しばさきたいいくかん）
+Shibata Station (Aichi)	柴田駅（しばた）
+Shibata Station (Niigata)	新発田駅（しばた）
+Shibaura-futō Station	芝浦ふ頭駅（しばうらふとう）
+Shibayama Station	柴山駅（しばやま）
+Shibayama-Chiyoda Station	芝山千代田駅（しばやまちよだ）
+Shibecha Station	標茶駅（しべちゃ）
+Shibetsu Station	士別駅（しべつ）
+Shibukawa Station	渋川駅（しぶかわ）
+Shibuki Station	渋木駅（しぶき）
+Shibun Station	志文駅（しぶん）
+Shibusawa Station	渋沢駅（しぶさわ）
+Shibushi Station	志布志駅（しぶし）
+Shibutami Station	渋民駅（しぶたみ）
+Shibuya Station	渋谷駅（しぶや）
+Shichidō Station	七道駅（しちどう）
+Shichijō Station	七条駅（しちじょう）
+Shichikenjaya Station	七軒茶屋駅（しちけんぢゃや）
+Shichinohe-Towada Station	七戸十和田駅（しちのへとわだ）
+Shichirigahama Station	七里ヶ浜駅（しちりがはま）
+Shidai-igakubu Station	市大医学部駅（しだいいがくぶ）
+Shido Station	志度駅（しど）
+Shiga Station	志賀駅（しが）
+Shiga-hondōri Station	志賀本通駅（しがほんどおり）
+Shigaraki Station	信楽駅（しがらき）
+Shigarakigūshi Station	紫香楽宮跡駅（しがらきぐうし）
+Shigasato Station	滋賀里駅（しがさと）
+Shigehara Station	重原駅（しげはら）
+Shigeno Station	滋野駅（しげの）
+Shigeoka Station	重岡駅（しげおか）
+Shigetō Station	繁藤駅（しげとう）
+Shigetomi Station	重富駅（しげとみ）
+Shigeyasu Station	重安駅（しげやす）
+Shigino Station	鴫野駅（しぎの）
+Shigisanguchi Station	信貴山口駅（しぎさんぐち）
+Shigisanshita Station	信貴山下駅（しぎさんした）
+Shigō Station	四郷駅（しごう）
+Shii Station (JR Kyushu)	志井駅 (JR九州)（しい）
+Shii Station (Kitakyushu Monorail)	志井駅 (北九州高速鉄道)（しい）
+Shiida Station	椎田駅（しいだ）
+Shiikōen Station	志井公園駅（しいこうえん）
+Shiinamachi Station	椎名町駅（しいなまち）
+Shiishiba Station	椎柴駅（しいしば）
+Shiizakai Station	志比堺駅（しいざかい）
+Shijima Station	四十万駅（しじま）
+Shijimi Station	志染駅（しじみ）
+Shijō Station	四条駅（しじょう）
+Shijōmae Station	市場前駅（しじょうまえ）
+Shijōnawate Station	四条畷駅（しじょうなわて）
+Shijō-Ōmiya Station	四条大宮駅（しじょうおおみや）
+Shijuku Station	四十九駅（しじゅく）
+Shikabe Station	鹿部駅（しかべ）
+Shikaga Station	鹿賀駅（しかが）
+Shikaka Station	鹿家駅（しかか）
+Shikama Station	飾磨駅（しかま）
+Shikamura Station	四箇村駅（しかむら）
+Shikanotani Station	鹿ノ谷駅（しかのたに）
+Shikaribetsu Station	然別駅（しかりべつ）
+Shikauchi Station	鹿討駅（しかうち）
+Shikenjō-mae Station	試験場前駅（しけんじょうまえ）
+Shiki Station (Osaka)	志紀駅（しき）
+Shiki Station (Saitama)	志木駅（しき）
+Shikido Station	敷戸駅（しきど）
+Shikiji Station	敷地駅（しきじ）
+Shikijiki Station	式敷駅（しきじき）
+Shikinami Station	敷浪駅（しきなみ）
+Shikinosato Station	四季の郷駅（しきのさと）
+Shikishima Station	敷島駅（しきしま）
+Shiku Station	志久駅（しく）
+Shima-Akasaki Station	志摩赤崎駅（しまあかさき）
+Shimabara Station	島原駅（しまばら）
+Shimabara-Funatsu Station	島原船津駅（しまばらふなつ）
+Shimabarakō Station	島原港駅（しまばらこう）
+Shimada Station	島田駅 (静岡県)（しまだ）
+Shimagahara Station	島ヶ原駅（しまがはら）
+Shima-Isobe Station	志摩磯部駅（しまいそべ）
+Shimamatsu Station	島松駅（しままつ）
+Shimamoto Station	島本駅（しまもと）
+Shimanokoshi Station	島越駅（しまのこし）
+Shimanoseki Station	島ノ関駅（しまのせき）
+Shimanoshita Station	島ノ下駅（しまのした）
+Shimao Station	島尾駅（しまお）
+Shima-Shimmei Station	志摩神明駅（しましんめい）
+Shimata Station	島田駅 (山口県)（しまた）
+Shimatakamatsu Station	島高松駅（しまたかまつ）
+Shimauchi Station	島内駅（しまうち）
+Shima-Ujinaga Station	島氏永駅（しまうじなが）
+Shima-Yokoyama Station	志摩横山駅（しまよこやま）
+Shimbamba Station	新馬場駅（しんばんば）
+Shimbaru Station	新原駅（しんばる）
+Shimbashi Station	新橋駅（しんばし）
+Shiminbyōin-mae Station (Nagasaki)	市民病院前駅 (長崎県)（しみんびょういんまえ）
+Shiminbyōin-mae Station (Toyama)	市民病院前駅 (富山県)（しみんびょういんまえ）
+Shimin-hiroba Station	市民広場駅（しみんひろば）
+Shiminkōen-mae Station	市民公園前駅（しみんこうえんまえ）
+Shimizu Station (Aichi)	清水駅 (愛知県)（しみず）
+Shimizu Station (Osaka)	清水駅 (大阪府)（しみず）
+Shimizu Station (Shizuoka)	清水駅 (静岡県)（しみず）
+Shimizugawa Station	清水川駅（しみずがわ）
+Shimizuhara Station	清水原駅（しみずはら）
+Shimizukōen Station	清水公園駅（しみずこうえん）
+Shimizumachi Station	清水町駅（しみずまち）
+Shimizusawa Station	清水沢駅（しみずさわ）
+Shimizuura Station	冷水浦駅（しみずうら）
+Shimmachi Station (Gunma)	新町駅 (群馬県)（しんまち）
+Shimmachi Station (Kumamoto)	新町駅 (熊本県)（しんまち）
+Shimmachiguchi Station	新町口駅（しんまちぐち）
+Shimmei Station (Fukui)	神明駅 (福井県)（しんめい）
+Shimmei Station (Hokkaido)	神明駅 (北海道)（しんめい）
+Shimmeichō Station	神明町駅（しんめいちょう）
+Shimmori-Furuichi Station	新森古市駅（しんもりふるいち）
+Shimo Station	志茂駅（しも）
+Shimo-Akatsuka Station	下赤塚駅（しもあかつか）
+Shimo-Amazu Station	下天津駅（しもあまづ）
+Shimo-Asō Station	下麻生駅（しもあそう）
+Shimobeonsen Station	下部温泉駅（しもべおんせん）
+Shimoda Station	下田駅（しもだ）
+Shimodaira Station	下平駅（しもだいら）
+Shimodate Station	下館駅（しもだて）
+Shimodate-Nikōmae Station	下館二高前駅（しもだてにこうまえ）
+Shimo-Fukawa Station	下深川駅（しもふかわ）
+Shimo-Fukaya Station	下深谷駅（しもふかや）
+Shimofunato Station	下船渡駅（しもふなと）
+Shimo-Gion Station	下祇園駅（しもぎおん）
+Shimogiri Station	下切駅（しもぎり）
+Shimogōri Station	下郡駅（しもごおり）
+Shimo-Goshiro Station	下小代駅（しもごしろ）
+Shimohama Station	下浜駅（しもはま）
+Shimo-Hōjō Station	下北条駅（しもほうじょう）
+Shimohyōgo Station	下兵庫駅（しもひょうご）
+Shimohyogo Kofuku Station	下兵庫こうふく駅（しもひょうごこうふく）
+Shimoichi Station	下市駅（しもいち）
+Shimo-Ichida Station	下市田駅（しもいちだ）
+Shimoichiguchi Station	下市口駅（しもいちぐち）
+Shimo-Igusa Station	下井草駅（しもいぐさ）
+Shimoiida Station	下飯田駅（しもいいだ）
+Shimo-Imaichi Station	下今市駅（しもいまいち）
+Shimo-Isaka Station	下井阪駅（しもいさか）
+Shimo-Ita Station	下伊田駅（しもいた）
+Shimo-Itabashi Station	下板橋駅（しもいたばし）
+Shimoizumi Station	下泉駅（しもいずみ）
+Shimoji Station	下地駅（しもじ）
+Shimojima Station (Ina)	下島駅 (長野県伊那市)（しもじま）
+Shimojima Station (Matsumoto)	下島駅 (長野県松本市)（しもじま）
+Shimo-Kamoo Station	下鴨生駅（しもかもお）
+Shimo-Kanayama Station	下金山駅（しもかなやま）
+Shimo-Kawabe Station	下川辺駅（しもかわべ）
+Shimo-Kawai Station	下川合駅（しもかわい）
+Shimokawazoi Station	下川沿駅（しもかわぞい）
+Shimokita Station	下北駅（しもきた）
+Shimo-Kitazawa Station	下北沢駅（しもきたざわ）
+Shimokoma Station	下狛駅（しもこま）
+Shimokosawa Station	下古沢駅（しもこさわ）
+Shimokō Station	下府駅（しもこう）
+Shimokuno Station	下久野駅（しもくの）
+Shimo-Maruko Station	下丸子駅（しもまるこ）
+Shimomatsu Station	下松駅 (大阪府)（しもまつ）
+Shimomizo Station	下溝駅（しもみぞ）
+Shimonada Station	下灘駅（しもなだ）
+Shimonagaya Station	下永谷駅（しもながや）
+Shimonii Station	下新駅（しもにい）
+Shimonita Station	下仁田駅（しもにた）
+Shimonogō Station	下之郷駅（しものごう）
+Shimonomiya Station	下野宮駅（しものみや）
+Shimonoseki Station	下関駅（しものせき）
+Shimonoshiro Station	下野代駅（しものしろ）
+Shimonoshō Station	下庄駅（しものしょう）
+Shimonuma Station	下沼駅（しもぬま）
+Shimo-Ochiai Station	下落合駅（しもおちあい）
+Shimo-Ogawa Station	下小川駅（しもおがわ）
+Shimo-Okui Station	下奥井駅（しもおくい）
+Shimoōri Station	下大利駅（しもおおり）
+Shimo-Otai Station	下小田井駅（しもおたい）
+Shimōsa-Kōzaki Station	下総神崎駅（しもうさこうざき）
+Shimōsa-Manzaki Station	下総松崎駅（しもうさまんざき）
+Shimōsa-Nakayama Station	下総中山駅（しもうさなかやま）
+Shimōsa-Tachibana Station	下総橘駅（しもうさたちばな）
+Shimosato Station	下里駅（しもさと）
+Shimōsa-Toyosato Station	下総豊里駅（しもうさとよさと）
+Shimo-Shibetsu Station	下士別駅（しもしべつ）
+Shimo-Shii Station	下志比駅（しもしい）
+Shimo-Shinden Station	下新田駅（しもしんでん）
+Shimo-Shinjō Station	下新庄駅（しもしんじょう）
+Shimo-Shinmei Station	下神明駅（しもしんめい）
+Shimo-Shirataki Station	下白滝駅（しもしらたき）
+Shimo-Soga Station	下曽我駅（しもそが）
+Shimo-Sone Station	下曽根駅（しもそね）
+Shimo-Sugaya Station	下菅谷駅（しもすがや）
+Shimo-Suwa Station	下諏訪駅（しもすわ）
+Shimo-Takaido Station	下高井戸駅（しもたかいど）
+Shimotaki Station	下滝駅（しもたき）
+Shimotogari Station	下土狩駅（しもとがり）
+Shimotoppu Station	下徳富駅（しもとっぷ）
+Shimotsu Station	下津駅（しもつ）
+Shimotsuke-Hanaoka Station	下野花岡駅（しもつけはなおか）
+Shimotsuke-Ōsawa Station	下野大沢駅（しもつけおおさわ）
+Shimotsuma Station	下妻駅（しもつま）
+Shimoura Station	下浦駅（しもうら）
+Shimo-Uwa Station	下宇和駅（しもうわ）
+Shimo-Wachi Station	下和知駅（しもわち）
+Shimo-Yakuno Station	下夜久野駅（しもやくの）
+Shimoyama Station (Kochi)	下山駅 (高知県)（しもやま）
+Shimoyama Station (Kyoto)	下山駅 (京都府)（しもやま）
+Shimo-Yamaguchi Station	下山口駅（しもやまぐち）
+Shimoyamamura Station	下山村駅（しもやまむら）
+Shimo-Yamato Station	下山門駅（しもやまと）
+Shimo-Yoshida Station	下吉田駅（しもよしだ）
+Shimoyui Station	下油井駅（しもゆい）
+Shimoyuino Station	下唯野駅（しもゆいの）
+Shimo-Yuzawa Station	下湯沢駅（しもゆざわ）
+Shimpu Station	新府駅（しんぷ）
+Shimukappu Station	占冠駅（しむかっぷ）
+Shimurasakaue Station	志村坂上駅（しむらさかうえ）
+Shimura Sanchome Station	志村三丁目駅（しむらさんちょうめ）
+Shin[edit]
+Shinagawa Seaside Station	品川シーサイド駅（しながわしーさいど）
+Shinagawa Station	品川駅（しながわ）
+Shin-Ainoki Station	新相ノ木駅（しんあいのき）
+Shinainuma Station	品井沼駅（しないぬま）
+Shin-Akitsu Station	新秋津駅（しんあきつ）
+Shin-Anjō Station	新安城駅（しんあんじょう）
+Shinano-Arai Station	信濃荒井駅（しなのあらい）
+Shin-Aomori Station	新青森駅（しんあおもり）
+Shin-Asahi Station	新旭駅（しんあさひ）
+Shin-Asahikawa Station	新旭川駅（しんあさひかわ）
+Shinano-Asano Station	信濃浅野駅（しなのあさの）
+Shinano-Kawakami Station	信濃川上駅（しなのかわかみ）
+Shinano-Kawashima Station	信濃川島駅（しなのかわしま）
+Shinano-Kizaki Station	信濃木崎駅（しなのきざき）
+Shinano-Kokubunji Station	信濃国分寺駅（しなのこくぶんじ）
+Shinanomachi Station	信濃町駅（しなのまち）
+Shinano-Matsukawa Station	信濃松川駅（しなのまつかわ）
+Shinano-Moriue Station	信濃森上駅（しなのもりうえ）
+Shinano-Oiwake Station	信濃追分駅（しなのおいわけ）
+Shinano-Ōmachi Station	信濃大町駅（しなのおおまち）
+Shinano-Sakai Station	信濃境駅（しなのさかい）
+Shinano-Shiratori Station	信濃白鳥駅（しなのしらとり）
+Shinano-Taira Station	信濃平駅（しなのたいら）
+Shinano-Takehara Station	信濃竹原駅（しなのたけはら）
+Shinano-Tokiwa Station	信濃常盤駅（しなのときわ）
+Shinano-Yoshida Station	信濃吉田駅（しなのよしだ）
+Shinchi Station	新地駅（しんち）
+Shin-Chiba Station	新千葉駅（しんちば）
+Shindaita Station	新代田駅（しんだいた）
+Shindembaru Station	新田原駅（しんでんばる）
+Shinden Station (Kyoto)	新田駅 (京都府)（しんでん）
+Shinden Station (Saitama)	新田駅 (埼玉県)（しんでん）
+Shindō Station	新堂駅（しんどう）
+Shindō-Higashi Station	新道東駅（しんどうひがし）
+Shin-Egota Station	新江古田駅（しんえごた）
+Shin-Fuji Station (Hokkaido)	新富士駅 (北海道)（しんふじ）
+Shin-Fuji Station (Shizuoka)	新富士駅 (静岡県)（しんふじ）
+Shin-Fujiwara Station	新藤原駅（しんふじわら）
+Shin-Fukae Station	新深江駅（しんふかえ）
+Shin-Fukui Station	新福井駅（しんふくい）
+Shin-Fukushima Station	新福島駅（しんふくしま）
+Shin-Funabashi Station	新船橋駅（しんふなばし）
+Shingai Station	新改駅（しんがい）
+Shingashi Station	新河岸駅（しんがし）
+Shinge Station	新家駅（しんげ）
+Shingi Station	新木駅 (高知県)（しんぎ）
+Shingō Station	新郷駅 (埼玉県)（しんごう）
+Shingū Station	新宮駅（しんぐう）
+Shingū-Chūō Station	新宮中央駅（しんぐうちゅうおう）
+Shin-Hakodate-Hokuto Station	新函館北斗駅（しんはこだてほくと）
+Shin-Hakushima Station	新白島駅（しんはくしま）
+Shin-Hamamatsu Station	新浜松駅（しんはままつ）
+Shin-Hanamaki Station	新花巻駅（しんはなまき）
+Shin-Hashima Station	新羽島駅（しんはしま）
+Shin-Hikida Station	新疋田駅（しんひきだ）
+Shin-Hirano Station	新平野駅（しんひらの）
+Shin-Hiro Station	新広駅（しんひろ）
+Shin-Hokota Station	新鉾田駅（しんほこた）
+Shin-Hōsono Station	新祝園駅（しんほうその）
+Shin-ichi Station	新市駅（しんいち）
+Shin-Iizuka Station	新飯塚駅（しんいいづか）
+Shin-Imamiya Station	新今宮駅（しんいまみや）
+Shin-Imamiya-Ekimae Station	新今宮駅前停留場（しんいまみやえきまえ）
+Shin-Inokuchi Station	新井口駅（しんいのくち）
+Shin-Isesaki Station	新伊勢崎駅（しんいせさき）
+Shin-Ishikiri Station	新石切駅（しんいしきり）
+Shin-Itabashi Station	新板橋駅（しんいたばし）
+Shin-Itami Station	新伊丹駅（しんいたみ）
+Shin-Iwakuni Station	新岩国駅（しんいわくに）
+Shinji Station	宍道駅（しんじ）
+Shinjō Station	新庄駅（しんじょう）
+Shinjohara Station	新所原駅（しんじょはら）
+Shinjō-Tanaka Station	新庄田中駅（しんじょうたなか）
+Shinjuku Station	新宿駅（しんじゅく）
+Shinjuku-gyoemmae Station	新宿御苑前駅（しんじゅくぎょえんまえ）
+Shinjuku-Nishiguchi Station	新宿西口駅（しんじゅくにしぐち）
+Shinjuku Sanchōme Station	新宿三丁目駅（しんじゅくさんちょうめ）
+Shinkaichi Station	新開地駅（しんかいち）
+Shin-Kamagaya Station	新鎌ヶ谷駅（しんかまがや）
+Shin-Kambara Station	新蒲原駅（しんかんばら）
+Shin-Kami Station	新加美駅（しんかみ）
+Shin-Kanaoka Station	新金岡駅（しんかなおか）
+Shin-Kanaya Station	新金谷駅（しんかなや）
+Shin-Kani Station	新可児駅（しんかに）
+Shin-Kanō Station	新加納駅（しんかのう）
+Shin-Kanuma Station	新鹿沼駅（しんかぬま）
+Shin-Kashiwa Station	新柏駅（しんかしわ）
+Shinkawa Station (Ehime)	新川駅 (愛媛県)（しんかわ）
+Shinkawa Station (Hokkaido)	新川駅 (北海道)（しんかわ）
+Shinkawabashi Station	新川橋駅（しんかわばし）
+Shinkawachō Station	新川町駅 (北海道)（しんかわちょう）
+Shinkawamachi Station	新川町駅 (愛知県)（しんかわまち）
+Shin-Kawasaki Station	新川崎駅（しんかわさき）
+Shin-Kemigawa Station	新検見川駅（しんけみがわ）
+Shin-Kiba Station	新木場駅（しんきば）
+Shin-Kiryū Station	新桐生駅（しんきりゅう）
+Shin-Kisogawa Station	新木曽川駅（しんきそがわ）
+Shin-Kiyosu Station	新清洲駅（しんきよす）
+Shin-Kōbe Station	新神戸駅（しんこうべ）
+Shin-Kodaira Station	新小平駅（しんこだいら）
+Shin-Kōenji Station	新高円寺駅（しんこうえんじ）
+Shin-Koga Station	新古河駅（しんこが）
+Shin-Koganei Station	新小金井駅（しんこがねい）
+Shin-Koiwa Station	新小岩駅（しんこいわ）
+Shin-Koshigaya Station	新越谷駅（しんこしがや）
+Shin-Kotoni Station	新琴似駅（しんことに）
+Shin-Kōshinzuka Station	新庚申塚駅（しんこうしんづか）
+Shin-Koyanose Station	新木屋瀬駅（しんこやのせ）
+Shin-Koyasu Station	新子安駅（しんこやす）
+Shin-Kurashiki Station	新倉敷駅（しんくらしき）
+Shin-Kurobe Station	新黒部駅（しんくろべ）
+Shinkyūdaigakumae Station	鍼灸大学前駅（しんきゅうだいがくまえ）
+Shin-Maebashi Station	新前橋駅（しんまえばし）
+Shin-Maiko Station	新舞子駅（しんまいこ）
+Shin-Maruko Station	新丸子駅（しんまるこ）
+Shin-Matsuda Station	新松田駅（しんまつだ）
+Shin-Matsudo Station	新松戸駅（しんまつど）
+Shin-Mikawashima Station	新三河島駅（しんみかわしま）
+Shin-Minamata Station	新水俣駅（しんみなまた）
+Shin-Misato Station	新三郷駅（しんみさと）
+Shin-Miyakawa Station	新宮川駅（しんみやかわ）
+Shin-Mobara Station	新茂原駅（しんもばら）
+Shin-Moriya Station	新守谷駅（しんもりや）
+Shin-Moriyama Station	新守山駅（しんもりやま）
+Shin-Nagata Station	新長田駅（しんながた）
+Shinnaka Station	新那加駅（しんなか）
+Shin-Nakano Station	新中野駅（しんなかの）
+Shin-Nanyō Station	新南陽駅（しんなんよう）
+Shin-Narashino Station	新習志野駅（しんならしの）
+Shin-Nihombashi Station	新日本橋駅（しんにほんばし）
+Shin-Nishikanazawa Station	新西金沢駅（しんにしかなざわ）
+Shin-Nishiwaki Station	新西脇駅（しんにしわき）
+Shinnittetsumae Station	新日鉄前駅（しんにってつまえ）
+Shinnyū Station	新入駅（しんにゅう）
+Shinobugaoka Station	忍ヶ丘駅（しのぶがおか）
+Shin-Ochanomizu Station	新御茶ノ水駅（しんおちゃのみず）
+Shinodayama Station	信太山駅（しのだやま）
+Shinohara Station (Kochi)	篠原駅 (高知県)（しのはら）
+Shinohara Station (Shiga)	篠原駅 (滋賀県)（しのはら）
+Shin-Okachimachi Station	新御徒町駅（しんおかちまち）
+Shin-Onomichi Station	新尾道駅（しんおのみち）
+Shin-Ōhirashita Station	新大平下駅（しんおおひらした）
+Shin-Ōji Station	新王寺駅（しんおうじ）
+Shin-Ōkubo Station	新大久保駅（しんおおくぼ）
+Shinome Station	篠目駅（しのめ）
+Shinomiya Station	四宮駅（しのみや）
+Shin-Ōmiya Station	新大宮駅（しんおおみや）
+Shin-Ōmura Station	新大村駅（しんおおむら）
+Shin-Ōmuta Station	新大牟田駅（しんおおむた）
+Shinonoi Station	篠ノ井駅（しののい）
+Shinonome Station (Kyoto)	東雲駅 (京都府)（しののめ）
+Shinonome Station (Tokyo)	東雲駅 (東京都)（しののめ）
+Shinoro Station	篠路駅（しのろ）
+Shin-Ōsaka Station	新大阪駅（しんおおさか）
+Shin-Otanoshike Station	新大楽毛駅（しんおたのしけ）
+Shin-Otaru Station	新小樽駅（しんおたる）
+Shin-Ōtsu Station	新大津駅（しんおおつ）
+Shin-Ōtsuka Station	新大塚駅（しんおおつか）
+Shinozaki Station	篠崎駅（しのざき）
+Shinozuka Station	篠塚駅（しのづか）
+Shin-Rifu Station	新利府駅（しんりふ）
+Shinrinkōen Station (Hokkaidō)	森林公園駅 (北海道)（しんりんこうえん）
+Shinrinkōen Station (Saitama)	森林公園駅 (埼玉県)（しんりんこうえん）
+Shinsaibashi Station	心斎橋駅（しんさいばし）
+Shin-Sakaemachi Station (Aichi)	新栄町駅 (愛知県)（しんさかえまち）
+Shin-Sakaemachi Station (Fukuoka)	新栄町駅 (福岡県)（しんさかえまち）
+Shin-Sakaeno Station	新栄野駅（しんさかえの）
+Shin-Sakuradai Station	新桜台駅（しんさくらだい）
+Shin-Sanda Station	新三田駅（しんさんだ）
+Shin-Sapporo Station (Sapporo City Subway)	新さっぽろ駅（しんさっぽろ）
+Shin-Sapporo Station (JR Hokkaido)	新札幌駅（しんさっぽろ）
+Shin-Sayama Station	新狭山駅（しんさやま）
+Shin-Seibijō Station	新整備場駅（しんせいびじょう）
+Shinseki Station	新関駅 (新潟県)（しんせき）
+Shinsen Station	神泉駅（しんせん）
+Shinsen Ikebukuro Station	新線池袋駅（しんせんいけぶくろ）
+Shinsen Shinjuku Station	新線新宿駅（しんせんしんじゅく）
+Shin-Seto Station	新瀬戸駅（しんせと）
+Shin-Shibamata Station	新柴又駅（しんしばまた）
+Shin-Shibaura Station	新芝浦駅（しんしばうら）
+Shin-Shimashima Station	新島々駅（しんしましま）
+Shin-Shimizu Station	新清水駅（しんしみず）
+Shin-Shimonoseki Station	新下関駅（しんしものせき）
+Shin-Shirakawa Station	新白河駅（しんしらかわ）
+Shinshiraoka Station	新白岡駅（しんしらおか）
+Shinshiro Station	新城駅（しんしろ）
+Shin-Shizuoka Station	新静岡駅（しんしずおか）
+Shinshō Station	新正駅（しんしょう）
+Shinshū-Nakano Station	信州中野駅（しんしゅうなかの）
+Shin-Sugita Station	新杉田駅（しんすぎた）
+Shin-Suizenji Station	新水前寺駅（しんすいぜんじ）
+Shin-Suya Station	新須屋駅（しんすや）
+Shin-Takahama Station	新高浜駅（しんたかはま）
+Shin-Takaoka Station	新高岡駅（しんたかおか）
+Shin-Takashima Station	新高島駅（しんたかしま）
+Shin-Takashimadaira Station	新高島平駅（しんたかしまだいら）
+Shin-Takatoku Station	新高徳駅（しんたかとく）
+Shin-Tamana Station	新玉名駅（しんたまな）
+Shin-Tanabe Station	新田辺駅（しんたなべ）
+Shintetsu Dōjō Station	神鉄道場駅（しんてつどうじょう）
+Shintetsu Rokkō Station	神鉄六甲駅（しんてつろっこう）
+Shin-Tochigi Station	新栃木駅（しんとちぎ）
+Shin-Tokorozawa Station	新所沢駅（しんところざわ）
+Shintoku Station	新得駅（しんとく）
+Shintomichō Station (Tokyo)	新富町駅 (東京都)（しんとみちょう）
+Shintomichō Station (Toyama)	新富町駅 (富山県)（しんとみちょう）
+Shin-Toride Station	新取手駅（しんとりで）
+Shin-Tosu Station	新鳥栖駅（しんとす）
+Shin-Totsukawa Station	新十津川駅（しんとつかわ）
+Shin-Toyama Station	新富山駅（しんとやま）
+Shin-Toyohashi Station	新豊橋駅（しんとよはし）
+Shin-Toyosu Station	新豊洲駅（しんとよす）
+Shin-Toyota Station	新豊田駅（しんとよた）
+Shin-Toyotsu Station	新豊津駅（しんとよつ）
+Shin-Tsudanuma Station	新津田沼駅（しんつだぬま）
+Shin-Tsuruba Station	新鶴羽駅（しんつるば）
+Shin-Unuma Station	新鵜沼駅（しんうぬま）
+Shin-Uozu Station	新魚津駅（しんうおづ）
+Shin-Urayasu Station	新浦安駅（しんうらやす）
+Shin-Uwagoromo Station	新上挙母駅（しんうわごろも）
+Shin-Yahashira Station	新八柱駅（しんやはしら）
+Shin-Yakumo Station	新八雲駅（しんやくも）
+Shin-Yamaguchi Station	新山口駅（しんやまぐち）
+Shin-Yatsushiro Station	新八代駅（しんやつしろ）
+Shin-Yokohama Station	新横浜駅（しんよこはま）
+Shin-Yoshino Station	新吉野駅（しんよしの）
+Shin-Yōkaichi Station	新八日市駅（しんようかいち）
+Shin-Yūbari Station	新夕張駅（しんゆうばり）
+Shin-Yurigaoka Station	新百合ヶ丘駅（しんゆりがおか）
+Shinza Station	しんざ駅
+Shinzaike Station	新在家駅（しんざいけ）
+Shinzō-kekkan Center Station	心臓血管センター駅（しんぞうけっかんセンター）
+Shin-Zushi Station	新逗子駅（しんずし）
+Shio-Shu[edit]
+Shiodamachi Station	塩田町駅（しおだまち）
+Shiodome Station	汐留駅（しおどめ）
+Shiogama Station	塩釜駅（しおがま）
+Shiogamaguchi Station	塩釜口駅（しおがまぐち）
+Shiogō Station	塩郷駅（しおごう）
+Shiohama Station	塩浜駅（しおはま）
+Shioiri Station (Kagawa)	塩入駅（しおいり）
+Shioiri Station (Kanagawa)	汐入駅（しおいり）
+Shiojiri Station	塩尻駅（しおじり）
+Shiokari Station	塩狩駅（しおかり）
+Shiokawa Station	塩川駅（しおかわ）
+Shiomachi Station	塩町駅（しおまち）
+Shiomi Station (Hokkaido)	汐見駅（しおみ）
+Shiomi Station (Tokyo)	潮見駅（しおみ）
+Shiomibashi Station	汐見橋駅（しおみばし）
+Shionomiya Station	汐ノ宮駅（しおのみや）
+Shionosawa Station	塩之沢駅（しおのさわ）
+Shiosawa Station	塩沢駅（しおさわ）
+Shiotsu Station	四方津駅（しおつ）
+Shiotsuka Station	塩塚駅（しおつか）
+Shioya Station (Hokkaido)	塩谷駅（しおや）
+Shioya Station (Hyogo)	塩屋駅 (兵庫県)（しおや）
+Shioya Station (Kagawa)	塩屋駅 (香川県)（しおや）
+Shiozaki Station	塩崎駅（しおざき）
+Shippō Station	七宝駅（しっぽう）
+Shirahama Station	白浜駅（しらはま）
+Shirahamanomiya Station	白浜の宮駅（しらはまのみや）
+Shiraichi Station	白市駅（しらいち）
+Shiraikaigan Station	白井海岸駅（しらいかいがん）
+Shiraitodai Station	白糸台駅（しらいとだい）
+Shirakamidake-Tozanguchi Station	白神岳登山口駅（しらかみだけとざんぐち）
+Shirakawa Station	白河駅（しらかわ）
+Shirakawaguchi Station	白川口駅（しらかわぐち）
+Shiraki Station	白木駅（しらき）
+Shirakibaru Station	白木原駅（しらきばる）
+Shirakiyama Station	白木山駅（しらきやま）
+Shiraniwadai Station	白庭台駅（しらにわだい）
+Shiranuka Station	白糠駅（しらぬか）
+Shiraoi Station	白老駅（しらおい）
+Shiraoka Station	白岡駅（しらおか）
+Shirasagi Station	白鷺駅（しらさぎ）
+Shirasaka Station	白坂駅（しらさか）
+Shirasawa Station (Aichi)	白沢駅 (愛知県)（しらさわ）
+Shirasawa Station (Akita)	白沢駅 (秋田県)（しらさわ）
+Shirasawa Station (Kagoshima)	白沢駅 (鹿児島県)（しらさわ）
+Shirasawa-keikoku Station	白沢渓谷駅（しらさわけいこく）
+Shirataki Station	白滝駅（しらたき）
+Shiratsuka Station	白塚駅（しらつか）
+Shirayama Station	白山駅 (香川県)（しらやま）
+Shiretoko-Shari Station	知床斜里駅（しれとこしゃり）
+Shiriuchi Station	知内駅（しりうち）
+Shirōgahara Station	四郎ヶ原駅（しろうがはら）
+Shirogane Station	白銀駅（しろがね）
+Shiroi Station	白井駅（しろい）
+Shiroishi Station (Kumamoto)	白石駅 (熊本県)（しろいし）
+Shiroishi Station (Miyagi)	白石駅 (宮城県)（しろいし）
+Shiroishi Station (JR Hokkaidō)	白石駅 (JR北海道)（しろいし）
+Shiroishi Station (Sapporo Subway)	白石駅 (札幌市営地下鉄)（しろいし）
+Shiroishi-Zaō Station	白石蔵王駅（しろいしざおう）
+Shirokanedai Station	白金台駅（しろかねだい）
+Shirokane-Takanawa Station	白金高輪駅（しろかねたかなわ）
+Shirokitakōendōri Station	城北公園通駅（しろきたこうえんどおり）
+Shiroko Station	白子駅（しろこ）
+Shiroku Station	白久駅（しろく）
+Shiromaru Station	白丸駅 (東京都)（しろまる）
+Shiromigaoka Station	城見ヶ丘駅（しろみがおか）
+Shironishi Station	城西駅（しろにし）
+Shiroshita Station (Nagano)	城下駅 (長野県)（しろした）
+Shiroshita Station (Okayama)	城下駅 (岡山県)（しろした）
+Shirotori-Kōgen Station	白鳥高原駅（しろとりこうえん）
+Shirousagi Station	白兎駅（しろうさぎ）
+Shishibu Station	ししぶ駅（ししぶ）
+Shishido Station	宍戸駅（ししど）
+Shishikui Station	宍喰駅（ししくい）
+Shishiori-Karakuwa Station	鹿折唐桑駅（ししおりからくわ）
+Shisho Station	四所駅（ししょ）
+Shisui Station	酒々井駅（しすい）
+Shitadan Station	下段駅（しただん）
+Shitanoe Station	下ノ江駅（したのえ）
+Shitayama Station	舌山駅（したやま）
+Shiteguri Station	為栗駅（してぐり）
+Shitennōji-mae Yūhigaoka Station	四天王寺前夕陽ヶ丘駅（してんのうじまえゆうひがおか）
+Shitte Station	尻手駅（しって）
+Shitte Station (Ibaraki)	知手駅（しって）
+Shiwachi Station	志和地駅（しわち）
+Shiwa-Chūō Station	紫波中央駅（しわちゅうおう）
+Shiwaguchi Station	志和口駅（しわぐち）
+Shiyakusho Station	市役所駅（しやくしょ）
+Shiyakusho-mae Station (Aichi)	市役所前駅 (愛知県)（しやくしょまえ）
+Shiyakusho-mae Station (Chiba)	市役所前駅 (千葉県)（しやくしょまえ）
+Shiyakusho-mae Station (Ehime)	市役所前駅 (愛媛県)（しやくしょまえ）
+Shiyakusho-mae Station (Hiroshima)	市役所前駅 (広島県)（しやくしょまえ）
+Shiyakusho-mae Station (Hokkaido)	市役所前駅 (北海道)（しやくしょまえ）
+Shiyakusho-mae Station (Kagoshima)	市役所前駅 (鹿児島県)（しやくしょまえ）
+Shiyakusho-mae Station (Kumamoto)	市役所前駅 (熊本県)（しやくしょまえ）
+Shiyakusho-mae Station (Nagano)	市役所前駅 (長野県)（しやくしょまえ）
+Shiyakusho-mae Station (Wakayama)	市役所前駅 (和歌山県)（しやくしょまえ）
+Shizen'en-mae Station	自然園前駅（しぜんえんまえ）
+Shizu Station (Chiba)	志津駅（しづ）
+Shizu Station (Ibaraki)	静駅（しず）
+Shizugawa Station	志津川駅（しづがわ）
+Shizuhama Station	清水浜駅（しずはま）
+Shizukari Station	静狩駅（しずかり）
+Shizukuishi Station	雫石駅（しずくいし）
+Shizuma Station	静間駅（しずま）
+Shizumi Station	志都美駅（しずみ）
+Shizunai Station	静内駅（しずない）
+Shizuoka Station	静岡駅（しずおか）
+Shizuoka Freight Station	静岡貨物駅（しずおかかもつ）
+Shizuwa Station	静和駅（しずわ）
+Shobata Station	勝幡駅（しょばた）
+Shoro Station	庶路駅（しょろ）
+Shōbara Station	荘原駅（しょうばら）
+Shōden Station	生田駅 (秋田県)（しょうでん）
+Shōgunzan Station	将軍山駅（しょうぐんざん）
+Shōin-jinjamae Station	松陰神社前駅（しょういんじんじゃまえ）
+Shōjaku Station	正雀駅（しょうじゃく）
+Shōji Station (Osaka, Osaka)	小路駅（しょうじ）
+Shōji Station (Toyonaka, Osaka)	少路駅（しょうじ）
+Shoko Center-iriguchi Station	商工センター入口駅（しょうこうせんたーいりぐち）
+Shokokaigisho-mae Station	商工会議所前駅（しょうこうかいぎしょまえ）
+Shōmaru Station	正丸駅（しょうまる）
+Shōnai Station (Oita)	庄内駅 (大分県)（しょうない）
+Shōnai Station (Osaka)	庄内駅 (大阪府)（しょうない）
+Shōnai-dōri Station	庄内通駅（しょうないどおり）
+Shōnai-Ryokuchikōen Station	庄内緑地公園駅（しょうないりょくちこうえん）
+Shōnan Station	沼南駅（しょうなん）
+Shōnan-Enoshima Station	湘南江の島駅（しょうなんえのしま）
+Shōnandai Station	湘南台駅（しょうなんだい）
+Shōnan-Fukasawa Station	湘南深沢駅（しょうなんふかさわ）
+Shōnan-kaigan-kōen Station	湘南海岸公園駅（しょうなんかいがんこうえん）
+Shōnan-Machiya Station	湘南町屋駅（しょうなんまちや）
+Shōtenkyō Station	小天橋駅（しょうてんきょう）
+Shōwa Station (Kanagawa)	昭和駅（しょうわ）
+Shōwachō Station (Kagawa)	昭和町駅 (香川県)（しょうわちょう）
+Shōwachō Station (Osaka)	昭和町駅 (大阪府)（しょうわちょう）
+Shōwajima Station	昭和島駅（しょうわじま）
+Shōwamachi Station	昭和町駅 (愛知県)（しょうわまち）
+Shōyama Station	生山駅（しょうやま）
+Shōzui Station	勝瑞駅（しょうずい）
+Shudaifuzoku-suzugamine-mae Station	修大附属鈴峯前駅（しゅうだいふぞくすずがみねまえ）
+Shūgakuin Station	修学院駅（しゅうがくいん）
+Shukugawa Station	夙川駅（しゅくがわ）
+Shukugawara Station (Aomori)	宿川原駅（しゅくがわら）
+Shukugawara Station (Kanagawa)	宿河原駅（しゅくがわら）
+Shukuin Station	宿院駅（しゅくいん）
+Shukunohe Station	宿戸駅（しゅくのへ）
+Shumombetsu Station	朱文別駅（しゅもんべつ）
+Shuntokumichi Station	俊徳道駅（しゅんとくみち）
+Shūrakuen Station	聚楽園駅（しゅうらくえん）
+Shuri Station	首里駅（しゅり）
+Shuuchi-Kasagami Station	守内かさ神駅（しゅうちかさがみ）
+Shuzenji Station	修善寺駅（しゅぜんじ）
+So-Su[edit]
+Sobanokami Station	曽波神駅（そばのかみ）
+Sōbudaimae Station	相武台前駅（そうぶだいまえ）
+Sōbudaishita Station	相武台下駅（そうぶだいした）
+Socio Ryūtsū Center Station	ソシオ流通センター駅（ソシオりゅうつうセンター）
+Sodani Station	曽谷駅（そだに）
+Sodegaura Station	袖ヶ浦駅（そでがうら）
+Sodesaki Station	袖崎駅（そでさき）
+Sōdō Station	宗道駅（そうどう）
+Soeda Station	添田駅（そえだ）
+Sōen Station	桑園駅（そうえん）
+Soga Station	蘇我駅（そが）
+Sōgo Station	寒河駅（そうご）
+Sōgosandō Station	宗吾参道駅（そうごさんどう）
+Sōgō Rihabiri Center Station	総合リハビリセンター駅（そうごうりはびりせんたー）
+Sōgōundōkōen Station	総合運動公園駅（そうごううんどうこうえん）
+Sohara Station (Gifu)	蘇原駅（そはら）
+Sohara Station (Mie)	楚原駅（そはら）
+Sōja Station	総社駅（そうじゃ）
+Sōjiji Station	総持寺駅（そうじじ）
+Sōjōdaigakumae Station	崇城大学前駅（そうじょうだいがくまえ）
+Sōka Station	草加駅（そうか）
+Sokei Station	磯鶏駅（そけい）
+Sōma Station	相馬駅（そうま）
+Sone Station (Hyogo)	曽根駅 (兵庫県)（そね）
+Sone Station (Osaka)	曽根駅 (大阪府)（そね）
+Soneda Station	曽根田駅（そねだ）
+Sono Station	園駅（その）
+Sonobe Station	園部駅（そのべ）
+Sonoda Station	園田駅（そのだ）
+Sonogi Station	彼杵駅（そのぎ）
+Sōri Station	沢入駅（そうり）
+Sosanji Station	曽山寺駅（そさんじ）
+Soshigaya-Ōkura Station	祖師ヶ谷大蔵駅（そしがやおおくら）
+Sōtarō Station	宗太郎駅（そうたろう）
+Sōunnosato-Ebara Station	早雲の里荏原駅（そううんのさとえばら）
+Sōunzan Station	早雲山駅（そううんざん）
+Sōzenji Station	崇禅寺駅（そうぜんじ）
+Space World Station	スペースワールド駅
+Sports Center Station	スポーツセンター駅
+Sports Kōen Station	スポーツ公園駅（スポーツこうえん）
+Suda Station	隅田駅（すだ）
+Sudo Station	須津駅（すど）
+Sue Station (Fukuoka)	須恵駅（すえ）
+Sue Station (Kagawa)	陶駅（すえ）
+Sue-Chūō Station	須恵中央駅（すえちゅうおう）
+Suehiro Station	末広駅（すえひろ）
+Suehirochō Station (Hokkaido)	末広町駅 (北海道)（すえひろちょう）
+Suehirochō Station (Kanagawa)	末広町駅 (神奈川県)（すえひろちょう）
+Suehirochō Station (Tokyo)	末広町駅 (東京都)（すえひろちょう）
+Suehirochō Station (Toyama)	末広町駅 (富山県)（すえひろちょう）
+Suenohara Station	末野原駅（すえのはら）
+Suetachibana Station	すえたちばな駅（すえたちばな）
+Suetsugi Station	末続駅（すえつぎ）
+Suetsune Station	末恒駅（すえつね）
+Sufu Station	周布駅（すふ）
+Sugamo Station	巣鴨駅（すがも）
+Sugamo-Shinden Station	巣鴨新田駅（すがもしんでん）
+Sugano Station	菅野駅（すがの）
+Sugao Station	菅尾駅（すがお）
+Sugaya Station	菅谷駅（すがや）
+Sugihara Station	杉原駅（すぎはら）
+Sugihashi Station	杉橋駅（すぎはし）
+Sugikawachi Station	杉河内駅（すぎかわち）
+Sugimotochō Station	杉本町駅（すぎもとちょう）
+Sugisaki Station	杉崎駅（すぎさき）
+Sugita Station (Fukushima)	杉田駅 (福島県)（すぎた）
+Sugita Station (Kanagawa)	杉田駅 (神奈川県)（すぎた）
+Sugito-Takanodai Station	杉戸高野台駅（すぎとたかのだい）
+Sugiyama Station	杉山駅（すぎやま）
+Sugo Station	巣子駅（すご）
+Suhara Station (Gifu)	洲原駅（すはら）
+Suhara Station (Nagano)	須原駅（すはら）
+Suibara Station	水原駅（すいばら）
+Suidōbashi Station	水道橋駅（すいどうばし）
+Suidōchō Station	水道町駅（すいどうちょう）
+Suigō Station	水郷駅（すいごう）
+Suita Station (JR West)	吹田駅 (JR西日本)（すいた）
+Suita Station (Hankyu)	吹田駅 (阪急)（すいた）
+Suitengūmae Station	水天宮前駅（すいてんぐうまえ）
+Suizenji Station	水前寺駅（すいぜんじ）
+Suizenjiekidōri Station	水前寺駅通駅（すいぜんじえきどおり）
+Suka Station	須賀駅（すか）
+Sukagawa Station	須賀川駅（すかがわ）
+Sukaguchi Station	須ヶ口駅（すかぐち）
+Sukenobu Station	助信駅（すけのぶ）
+Sukumo Station	宿毛駅（すくも）
+Suma Station	須磨駅（すま）
+Sumadera Station	須磨寺駅（すまでら）
+Suma-Kaihinkōen Station	須磨海浜公園駅（すまかいひんこうえん）
+Sumaurakōen Station	須磨浦公園駅（すまうらこうえん）
+Sumidagawa Station	隅田川駅（すみだがわ）
+Sumikawa Station	澄川駅（すみかわ）
+Suminodō Station	住道駅（すみのどう）
+Suminoe Station	住ノ江駅（すみのえ）
+Suminoekōen Station	住之江公園駅（すみのえこうえん）
+Sumiyoshi Station (JR West)	住吉駅 (JR西日本)（すみよし）
+Sumiyoshi Station (Hanshin)	住吉駅 (阪神)（すみよし）
+Sumiyoshi Station (Kumamoto)	住吉駅 (熊本県)（すみよし）
+Sumiyoshi Station (Nagasaki)	住吉駅 (長崎県)（すみよし）
+Sumiyoshi Station (Osaka)	住吉駅 (大阪府)（すみよし）
+Sumiyoshi Station (Tokyo)	住吉駅 (東京都)（すみよし）
+Sumiyoshichō Station	住吉町駅（すみよしちょう）
+Sumiyoshidōri Station	住吉通駅（すみよしどおり）
+Sumiyoshi-Higashi Station	住吉東駅（すみよしひがし）
+Sumiyoshi-Kōen Station	住吉公園駅（すみよしこうえん）
+Sumiyoshi-Taisha Station	住吉大社駅（すみよしたいしゃ）
+Sumizome Station	墨染駅（すみぞめ）
+Sunadabashi Station	砂田橋駅（すなだばし）
+Sunagawa Station	砂川駅（すながわ）
+Sunagawa-Nanaban Station	砂川七番駅（すながわななばん）
+Sunami Station	須波駅（すなみ）
+Sundome Nishi Station	サンドーム西駅（さんどーむにし）
+Sunza Station	寸座駅（すんざ）
+Suō-Hanaoka Station	周防花岡駅（すおうはなおか）
+Suō-Kubo Station	周防久保駅（すおうくぼ）
+Suō-Sayama Station	周防佐山駅（すおうさやま）
+Suō-Shimogō Station	周防下郷駅（すおうしもごう）
+Suō-Takamori Station	周防高森駅（すおうたかもり）
+Surisawa Station	摺沢駅（すりさわ）
+Suruga-Oyama Station	駿河小山駅（するがおやま）
+Suruga-Tokuyama Station	駿河徳山駅（するがとくやま）
+Susa Station	須佐駅（すさ）
+Susaki Station	須崎駅（すさき）
+Susami Station	周参見駅（すさみ）
+Susenji Station	周船寺駅（すせんじ）
+Susono Station	裾野駅（すその）
+Susukino Station	すすきの駅
+Suwa Station	諏訪駅（すわ）
+Suwachō Station	諏訪町駅（すわちょう）
+Suwanokawara Station	諏訪川原駅（すわのかわら）
+Suwanomori Station	諏訪ノ森駅（すわのもり）
+Suwanotaira Station	諏訪ノ平駅（すわのたいら）
+Suya Station	須屋駅（すや）
+Suzaka Station	須坂駅（すざか）
+Suzaki Station	洲先駅（すざき）
+Suzuka Circuit Inō Station	鈴鹿サーキット稲生駅（すずかサーキットいのう）
+Suzuka Station	鈴鹿駅（すずか）
+Suzukakedai Station	すずかけ台駅（すずかけだい）
+Suzukashi Station	鈴鹿市駅（すずかし）
+Suzukichō Station	鈴木町駅（すずきちょう）
+Suzumeda Station	雀田駅（すずめだ）
+Suzumenomiya Station	雀宮駅（すずめのみや）
+Suzurandai Station	鈴蘭台駅（すずらんだい）
+Suzurandai-Nishiguchi Station	鈴蘭台西口駅（すずらんだいにしぐち）
+Suzurannosato Station	すずらんの里駅（すずらんのさと）

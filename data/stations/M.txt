@@ -1,0 +1,829 @@
+Mabashi Station	馬橋駅（まばし）
+Mabori-Kaigan Station	馬堀海岸駅（まぼりかいがん）
+Machida Station (Odakyu)	町田駅（まちだ）
+Machida Station (JR East)	町田駅（まちだ）
+Machikata Station	町方駅（まちかた）
+Machiya Station	町屋駅（まちや）
+Machiya-ekimae Station	町屋駅前停留場（まちやえきまえ）
+Machiya-nichōme Station	町屋二丁目停留場（まちやにちょうめ）
+Mada Station	馬田駅（まだ）
+Maebara Station	前原駅（まえばら）
+Maebashi Station	前橋駅（まえばし）
+Maebashi-Ōshima Station	前橋大島駅（まえばしおおしま）
+Maedaminami Station	前田南駅（まえだみなみ）
+Maegō Station	前郷駅（まえごう）
+Maehama Station	前浜駅（まえはま）
+Maehirakōen Station	前平公園駅（まえひらこうえん）
+Maekawa Station	前川駅（まえかわ）
+Maenohama Station	前之浜駅（まえのはま）
+Maesawa Station	前沢駅（まえさわ）
+Maeyachi Station	前谷地駅（まえやち）
+Maeyama Station	前山駅（まえやま）
+Maezora Station	前空駅（まえぞら）
+Magae Station	馬替駅（まがえ）
+Magarikane Station	勾金駅（まがりかね）
+Magarisawa Station	曲沢駅（まがりさわ）
+Magome Station	馬込駅（まごめ）
+Magomezawa Station	馬込沢駅（まごめざわ）
+Magura Station	真倉駅（まぐら）
+Maibara Station	米原駅（まいばら）
+Maidashi Kyūdaibyōin-mae Station	馬出九大病院前駅（まいだしきゅうだいびょういんまえ）
+Maihama Station	舞浜駅（まいはま）
+Maiko Station	舞子駅（まいこ）
+Maikokōen Station	舞子公園駅（まいここうえん）
+Maimatsubara Station	舞松原駅（まいまつばら）
+Maioka Station	舞岡駅（まいおか）
+Maisaka Station	舞阪駅（まいさか）
+Maita Station (Kanagawa)	蒔田駅（まいた）
+Maita Station (Nagano)	舞田駅（まいた）
+Maji Station	馬路駅（まじ）
+Majima Station	間島駅（まじま）
+Maki Station (Niigata)	巻駅（まき）
+Maki Station (Kyoto)	牧駅 (京都府)（まき）
+Maki Station (Oita)	牧駅 (大分県)（まき）
+Makimuku Station	巻向駅（まきむく）
+Makino Station (Shiga)	マキノ駅（まきの）
+Makino Station (Osaka)	牧野駅（まきの）
+Makinokō Station	牧之郷駅（まきのこう）
+Makiochi Station	牧落駅（まきおち）
+Makishi Station	牧志駅（まきし）
+Makiyama Station	牧山駅（まきやま）
+Makomanai Station	真駒内駅（まこまない）
+Makubetsu Station	幕別駅（まくべつ）
+Makuhari Station	幕張駅（まくはり）
+Makuharihongō Station	幕張本郷駅（まくはりほんごう）
+Makurazaki Station	枕崎駅（まくらざき）
+Makuta Station	馬来田駅（まくた）
+Mamada Station	間々田駅（ままだ）
+Mamba Station	万場駅（まんば）
+Mamurogawa Station	真室川駅（まむろがわ）
+Managashi Station	馬流駅（まながし）
+Managura Station	万能倉駅（まなぐら）
+Manai Station	間内駅（まない）
+Manazuru Station	真鶴駅（まなづる）
+Manganji Station	万願寺駅（まんがんじ）
+Mangatsuka Station	万ヶ塚駅（まんがつか）
+Mangoku-Ura Station	万石浦駅（まんごくうら）
+Maniwa Station	馬庭駅（まにわ）
+Mantomi Station	万富駅（まんとみ）
+Manseibashi Station	万世橋駅（まんせいばし）
+Manza-Kazawaguchi Station	万座・鹿沢口駅（まんざ・かざわぐち）
+Maoroshi Station	馬下駅（まおろし）
+Mappu Station	真布駅（まっぷ）
+Mareppu Station	稀府駅（まれっぷ）
+Marine Park Station	マリンパーク駅
+Marubuchi Station	丸渕駅（まるぶち）
+Marugame Station	丸亀駅（まるがめ）
+Marumori Station	丸森駅（まるもり）
+Marunouchi Station (Kiyosu)	丸ノ内駅（まるのうち）
+Marunouchi Station (Nagoya, Aichi)	丸の内駅 (愛知県)（まるのうち）
+Marunouchi Station (Toyama)	丸の内駅 (富山県)（まるのうち）
+Maruo Station	丸尾駅（まるお）
+Maruoka Station	丸岡駅（まるおか）
+Maruseppu Station	丸瀬布駅（まるせっぷ）
+Marutamachi Station	丸太町駅（まるたまち）
+Maruyama Station (Hyogo)	丸山駅 (兵庫県)（まるやま）
+Maruyama Station (Mie)	丸山駅 (三重県)（まるやま）
+Maruyama Station (Saitama)	丸山駅 (埼玉県)（まるやま）
+Maruyamakōen Station	円山公園駅（まるやまこうえん）
+Maruyamashita Station	丸山下駅（まるやました）
+Masaki Station (Ehime)	松前駅（まさき）
+Masaki Station (Miyazaki)	真幸駅（まさき）
+Masaru Station	真申駅（まさる）
+Mashike Station	増毛駅（ましけ）
+Mashiko Station	益子駅（ましこ）
+Mashū Station	摩周駅（ましゅう）
+Masuda Station	益田駅（ますだ）
+Masuga Station	真菅駅（ますが）
+Masukata Station	升形駅（ますかた）
+Masuo Station (Mie)	益生駅（ますお）
+Masuo Station (Chiba)	増尾駅（ますお）
+Masuura Station	鱒浦駅（ますうら）
+Masuzawa Station	鱒沢駅（ますざわ）
+Mataki Station	真滝駅（またき）
+Matoba Station	的場駅（まとば）
+Matoba-cho Station	的場町駅（まとばちょう）
+Matogata Station	的形駅（まとがた）
+Matō Station	間藤駅（まとう）
+Matsuba Station	松葉駅（まつば）
+Matsubara Station (Nagasaki)	松原駅 (長崎県)（まつばら）
+Matsubara Station (Tokyo)	松原駅 (東京都)（まつばら）
+Matsubarako Station	松原湖駅（まつばらこ）
+Matsubase Station	松橋駅（まつばせ）
+Matsuchi Station	真土駅（まつち）
+Matsuda Station	松田駅（まつだ）
+Matsudai Station	まつだい駅
+Matsudo Station	松戸駅（まつど）
+Matsudo-Shinden Station	松戸新田駅（まつどしんでん）
+Matsue Station	松江駅（まつえ）
+Matsue English Garden Mae Station	松江イングリッシュガーデン前駅（まつえいんぐりっしゅがーでんまえ）
+Matsue Shinjiko-onsen Station	松江しんじ湖温泉駅（まつえしんじこおんせん）
+Matsue Vogel Park Station	松江フォーゲルパーク駅（まつえふぉーげるぱーく）
+Matsugasaki Station (Kyoto)	松ヶ崎駅 (京都府)（まつがさき）
+Matsugasaki Station (Mie)	松ヶ崎駅 (三重県)（まつがさき）
+Matsugaura Station	松ヶ浦駅（まつがうら）
+Matsugaya Station	松が谷駅（まつがや）
+Matsugishi Station	松岸駅（まつぎし）
+Matsuhidai Station	松飛台駅（まつひだい）
+Matsuhisa Station	松久駅（まつひさ）
+Matsuida Station	松井田駅（まついだ）
+Matsuiwa Station	松岩駅（まついわ）
+Matsui-Yamate Station	松井山手駅（まついやまて）
+Matsukami Station	松神駅（まつかみ）
+Matsukawa Station	松川駅（まつかわ）
+Matsukitai Station	松木平駅（まつきたい）
+Matsukura Station	松倉駅（まつくら）
+Matsukusa Station	松草駅（まつくさ）
+Matsumaru Station	松丸駅（まつまる）
+Matsumori Station	松森駅（まつもり）
+Matsumoto Station	松本駅（まつもと）
+Matsumoto Machiya Station	まつもと町屋駅（まつもとまちや）
+Matsumushi Station	松虫駅（まつむし）
+Matsunaga Station	松永駅（まつなが）
+Matsunobamba Station	松ノ馬場駅（まつのばんば）
+Matsunohama Station	松ノ浜駅（まつのはま）
+Matsunoodera Station	松尾寺駅（まつのおでら）
+Matsuo Station (Chiba)	松尾駅 (千葉県)（まつお）
+Matsuo Station (Mie)	松尾駅 (三重県)（まつお）
+Matsuo-Hachimantai Station	松尾八幡平駅（まつおはちまんたい）
+Matsuoka Station	松岡駅（まつおか）
+Matsuomachi Station	松尾町駅（まつおまち）
+Matsuo-taisha Station	松尾大社駅（まつおたいしゃ）
+Matsusaka Station	松阪駅（まつさか）
+Matsushima Station	松島駅（まつしま）
+Matsushima-Kaigan Station	松島海岸駅（まつしまかいがん）
+Matsushima-Nichōme Station	松島二丁目駅（まつしまにちょうめ）
+Matsushita Station	松下駅（まつした）
+Matsuura Station	松浦駅（まつうら）
+Matsuyama Station (Ehime)	松山駅 (愛媛県)（まつやま）
+Matsuyama Station (Fukuoka)	松山駅 (福岡県)（まつやま）
+Matsuyamachi Station	松屋町駅（まつやまち）
+Matsuyama-ekimae Station	松山駅前駅（まつやまえきまえ）
+Matsuyama-Machi Station (Miyagi)	松山町駅 (宮城県)（まつやままち）
+Matsuyama-Machi Station (Nagasaki)	松山町駅 (長崎県)（まつやままち）
+Matsuyamashi Station	松山市駅（まつやまし）
+Matsuyamashi-ekimae Station	松山市駅前駅（まつやましえきまえ）
+Matsuzaki Station (Fukuoka)	松崎駅 (福岡県)（まつざき）
+Matsuzaki Station (Tottori)	松崎駅 (鳥取県)（まつざき）
+Matsuzuka Station	松塚駅（まつづか）
+Mattō Station	松任駅（まっとう）
+Maya Cable Station	摩耶ケーブル駅（まやけーぶる）
+Maya Station	摩耶駅（まや）
+Me[edit]
+Mede Station	目出駅（めで）
+Mefujinja Station	売布神社駅（めふじんじゃ）
+Mega Station (Hyogo)	妻鹿駅（めが）
+Mega Station (Yamagata)	女鹿駅（めが）
+Megumino Station	恵み野駅（めぐみの）
+Meguro Station	目黒駅（めぐろ）
+Meidaimae Station	明大前駅（めいだいまえ）
+Meiden-Akasaka Station	名電赤坂駅（めいでんあかさか）
+Meiden-Kakamigahara Station	名電各務原駅（めいでんかかみがはら）
+Meiden-Nagasawa Station	名電長沢駅（めいでんながさわ）
+Meiden-Yamanaka Station	名電山中駅（めいでんやまなか）
+Meihō Station	明峰駅（めいほう）
+Meiji-Jingūmae Station	明治神宮前駅（めいじじんぐうまえ）
+Meijōkōen Station	名城公園駅（めいじょうこうえん）
+Meinohama Station	姪浜駅（めいのはま）
+Meitetsu Gifu Station	名鉄岐阜駅（めいてつぎふ）
+Meitetsu Ichinomiya Station	名鉄一宮駅（めいてついちのみや）
+Meitetsu Nagoya Station	名鉄名古屋駅（めいてつなごや）
+Mejiro Station	目白駅（めじろ）
+Mejirodai Station	めじろ台駅（めじろだい）
+Mejiroyamashita Station	目白山下駅（めじろやました）
+Memambetsu Station	女満別駅（めまんべつ）
+Memuro Station	芽室駅（めむろ）
+Mena Station	目名駅（めな）
+Menden Station	免田駅 (石川県)（めんでん）
+Meotoishi Station	夫婦石駅（めおといし）
+Metoki Station	目時駅（めとき）
+Mi[edit]
+Miai Station	美合駅（みあい）
+Mibu Station	壬生駅（みぶ）
+Michikawa Station	道川駅（みちかわ）
+Michinoo Station	道ノ尾駅（みちのお）
+Michinoue Station	道上駅（みちのうえ）
+Mida Station	箕田駅（みだ）
+Midaibashi Station	三代橋駅（みだいばし）
+Midami Station	美談駅（みだみ）
+Midaregawa Station	乱川駅（みだれがわ）
+Midō Station	御堂駅（みどう）
+Midori Station (Gifu)	水鳥駅（みどり）
+Midori Station (Hokkaidō)	緑駅（みどり）
+Midoribashi Station	緑橋駅（みどりばし）
+Midorichō Station	緑町駅（みどりちょう）
+Midoridai Station	みどり台駅（みどりだい）
+Midorigaoka Station (Hokkaido)	緑が丘駅 (北海道)（みどりがおか）
+Midorigaoka Station (Hyogo)	緑が丘駅 (兵庫県)（みどりがおか）
+Midorigaoka Station (Tokyo)	緑が丘駅 (東京都)（みどりがおか）
+Midorii Station	緑井駅（みどりい）
+Midorikawa Station	緑川駅（みどりかわ）
+Midoriko Station	みどり湖駅（みどりこ）
+Midorino Station	みどりの駅
+Mie Station	三会駅（みえ）
+Miebashi Station	美栄橋駅（みえばし）
+Mieji Station	美江寺駅（みえじ）
+Miemachi Station	三重町駅（みえまち）
+Mihama Station	美浜駅（みはま）
+Mihamaryokuen Station	美浜緑苑駅（みはまりょくえん）
+Mihara Station	三原駅（みはら）
+Miharashidai Station	見晴台駅（みはらしだい）
+Miharu Station	三春駅（みはる）
+Mihata Station	美旗駅（みはた）
+Mihomisumi Station	三保三隅駅（みほみすみ）
+Mii Station	御井駅（みい）
+Miidera Station	三井寺駅（みいでら）
+Miinohara Station	三井野原駅（みいのはら）
+Mikado Station	三門駅（みかど）
+Mikadodai Station	御門台駅（みかどだい）
+Mikage Station (Hokkaido)	御影駅 (北海道)（みかげ）
+Mikage Station (Hankyu)	御影駅 (阪急)（みかげ）
+Mikage Station (Hanshin)	御影駅 (阪神)（みかげ）
+Mikakino Station	三柿野駅（みかきの）
+Mikamo Station	三加茂駅（みかも）
+Mikanodai Station	美加の台駅（みかのだい）
+Mikata Station	三方駅（みかた）
+Mikawa Station (Hokkaido)	三川駅 (北海道)（みかわ）
+Mikawa Station (Ishikawa)	美川駅（みかわ）
+Mikawa Station (Niigata)	三川駅 (新潟県)（みかわ）
+Mikawa-Anjō Station	三河安城駅（みかわあんじょう）
+Mikawachi Station	三河内駅（みかわち）
+Mikawa-Chiryū Station	三河知立駅（みかわちりゅう）
+Mikawa-Ichinomiya Station	三河一宮駅（みかわいちのみや）
+Mikawa-Kamigō Station	三河上郷駅（みかわかみごう）
+Mikawa-Kashima Station	三河鹿島駅（みかわかしま）
+Mikawa-Kawai Station	三河川合駅（みかわかわい）
+Mikawa-Makihara Station	三河槙原駅（みかわまきはら）
+Mikawa-Miya Station	三河三谷駅（みかわみや）
+Mikawa-Ōno Station	三河大野駅（みかわおおの）
+Mikawa-Ōtsuka Station	三河大塚駅（みかわおおつか）
+Mikawashima Station	三河島駅（みかわしま）
+Mikawa-Shiotsu Station	三河塩津駅（みかわしおつ）
+Mikawa-Tahara Station	三河田原駅（みかわたはら）
+Mikawa-Takahama Station	三河高浜駅（みかわたかはま）
+Mikawa-Toba Station	三河鳥羽駅（みかわとば）
+Mikawa-Tōgō Station	三河東郷駅（みかわとうごう）
+Mikawa-Toyota Station	三河豊田駅（みかわとよた）
+Mikawa-Yatsuhashi Station	三河八橋駅（みかわやつはし）
+Mikayamaguchi Station	三ヶ山口駅（みかやまぐち）
+Mikazuki Station	三日月駅（みかづき）
+Mikekado Station	三毛門駅（みけかど）
+Miki Station	三木駅 (神戸電鉄)（みき）
+Mikisato Station	三木里駅（みきさと）
+Miki-Uenomaru Station	三木上の丸駅（みきうえのまる）
+Mikkabi Station	三ヶ日駅（みっかび）
+Mikkaichi Station	三日市駅（みっかいち）
+Mikkaichichō Station	三日市町駅（みっかいちちょう）
+Mikumo Station	三雲駅（みくも）
+Mikuni Station (Fukui)	三国駅 (福井県)（みくに）
+Mikuni Station (Osaka)	三国駅 (大阪府)（みくに）
+Mikunigaoka Station (Fukuoka)	三国が丘駅（みくにがおか）
+Mikunigaoka Station (Osaka)	三国ヶ丘駅（みくにがおか）
+Mikunijinja Station	三国神社駅（みくにじんじゃ）
+Mikuniminato Station	三国港駅（みくにみなと）
+Mikuriya Station (Nagasaki)	御厨駅（みくりや）
+Mikuriya Station (Tottori)	御来屋駅（みくりや）
+Mimasaka Station	三間坂駅（みまさか）
+Mimasaka-Doi Station	美作土居駅（みまさかどい）
+Mimasaka-Emi Station	美作江見駅（みまさかえみ）
+Mimasaka-Kamo Station	美作加茂駅（みまさかかも）
+Mimasaka-Kawai Station	美作河井駅（みまさかかわい）
+Mimasaka-Ochiai Station	美作落合駅（みまさかおちあい）
+Mimasaka-Oiwake Station	美作追分駅（みまさかおいわけ）
+Mimasaka-Ōsaki Station	美作大崎駅（みまさかおおさき）
+Mimasaka-Sendai Station	美作千代駅（みまさかせんだい）
+Mimasaka-Takio Station	美作滝尾駅（みまさかたきお）
+Mimata Station	三股駅（みまた）
+Miminashi Station	耳成駅（みみなし）
+Mimitsu Station	美々津駅（みみつ）
+Mimmaya Station	三厩駅（みんまや）
+Mimomi Station	実籾駅（みもみ）
+Mimurodo Station	三室戸駅（みむろど）
+Minabe Station	南部駅（みなべ）
+Minagi Station	美袋駅（みなぎ）
+Minakami Station	水上駅（みなかみ）
+Minakuchi Station	水口駅（みなくち）
+Minakuchi-Ishibashi Station	水口石橋駅（みなくちいしばし）
+Minakuchi-Jōnan Station	水口城南駅（みなくちじょうなん）
+Minakuchi-Matsuo Station	水口松尾駅（みなくちまつお）
+Minamata Station	水俣駅（みなまた）
+Minami-Anjo Station	南安城駅（みなみあんじょう）
+Minami-arako Station	南荒子駅（みなみあらこ）
+Minami-Arao Station	南荒尾駅（みなみあらお）
+Minami-Asagaya Station	南阿佐ヶ谷駅（みなみあさがや）
+Minamiaso Mizu-no-Umareru-Sato Hakusui-Kōgen Station	南阿蘇水の生まれる里白水高原駅（みなみあそみずのうまれるさとはくすいこうげん）
+Minamiaso-Shirakawasuigen Station	南阿蘇白川水源駅（みなみあそしらかわすいげん）
+Minami-Bifuka Station	南美深駅（みなみびふか）
+Minami-Chitose Station	南千歳駅（みなみちとせ）
+Minamichōkai Station	南鳥海駅（みなみちょうかい）
+Minamidaira Station	南平駅（みなみだいら）
+Minami-Daitō Station	南大東駅（みなみだいとう）
+Minami-Dewa Station	南出羽駅（みなみでわ）
+Minami-Fukuoka Station	南福岡駅（みなみふくおか）
+Minami-Fukushima Station	南福島駅（みなみふくしま）
+Minami-Funabashi Station	南船橋駅（みなみふなばし）
+Minami-Furuya Station	南古谷駅（みなみふるや）
+Minamigaoka Station	南が丘駅（みなみがおか）
+Minami-Gōchi Station	南河内駅（みなみごうち）
+Minami-Gotemba Station	南御殿場駅（みなみごてんば）
+Minami-Gyōtoku Station	南行徳駅（みなみぎょうとく）
+Minami-Hakui Station	南羽咋駅（みなみはくい）
+Minami-Hanyū Station	南羽生駅（みなみはにゅう）
+Minamihara Station	南三原駅（みなみはら）
+Minami-Hashimoto Station	南橋本駅（みなみはしもと）
+Minami-Hatogaya Station	南鳩ヶ谷駅（みなみはとがや）
+Minami-Hikone Station	南彦根駅（みなみひこね）
+Minami-Hinaga Station	南日永駅（みなみひなが）
+Minami-Hiragishi Station	南平岸駅（みなみひらぎし）
+Minami-Horibata Station	南堀端駅（みなみほりばた）
+Minami-Horonobe Station	南幌延駅（みなみほろのべ）
+Minami-Hyūga Station	南日向駅（みなみひゅうが）
+Minami-Ibaraki Station	南茨木駅（みなみいばらき）
+Minami-Ikoma Station	南生駒駅（みなみいこま）
+Minami-Imajō Station	南今庄駅（みなみいまじょう）
+Minami-Ishige Station	南石下駅（みなみいしげ）
+Minami-Ishii Station	南石井駅（みなみいしい）
+Minami-Ito Station	南伊東駅（みなみいとう）
+Minami-Iwakuni Station	南岩国駅（みなみいわくに）
+Minamijuku Station	南宿駅（みなみじゅく）
+Minami-Kagiya Station	南加木屋駅（みなみかぎや）
+Minami-Kagoshima Station	南鹿児島駅（みなみかごしま）
+Minamikagoshima-ekimae Station	南鹿児島駅前駅（みなみかごしまえきまえ）
+Minami-Kakuda Station	南角田駅（みなみかくだ）
+Minami-Kamishiro Station	南神城駅（みなみかみしろ）
+Minami-Kariyasu Station	美並苅安駅（みなみかりやす）
+Minami-Kashiwa Station	南柏駅（みなみかしわ）
+Minamikata Station (Miyazaki)	南方駅 (宮崎県)（みなみかた）
+Minamikata Station (Osaka)	南方駅 (大阪府)（みなみかた）
+Minami-Kesennuma Station	南気仙沼駅（みなみけせんぬま）
+Minami-Kodakaraonsen Station	みなみ子宝温泉駅（みなみこだからおんせん）
+Minami-Kokura Station	南小倉駅（みなみこくら）
+Minami-Komatsushima Station	南小松島駅（みなみこまつしま）
+Minami-Koshigaya Station	南越谷駅（みなみこしがや）
+Minami-Kōen Station	南公園駅（みなみこうえん）
+Minami-Kōfu Station	南甲府駅（みなみこうふ）
+Minami-Kumamoto Station	南熊本駅（みなみくまもと）
+Minami-Kurihashi Station	南栗橋駅（みなみくりはし）
+Minami-Kurume Station	南久留米駅（みなみくるめ）
+Minami-Kusatsu Station	南草津駅（みなみくさつ）
+Minami-kuyakusho-mae Station	南区役所前駅（みなみくやくしょまえ）
+Minamimachi Station	南町駅（みなみまち）
+Minami-machi 2-chome Station	皆実町ニ丁目駅（みなみまちにちょうめ）
+Minami-machi 6-chome Station	皆実町六丁目駅（みなみまちろくちょうめ）
+Minami-machida Grandberry Park Station	南町田グランベリーパーク駅（みなみまちだぐらんべりーぱーく）
+Minami-Makigahara Station	南万騎が原駅（みなみまきがはら）
+Minami-Matsumoto Station	南松本駅（みなみまつもと）
+Minami-Miyazaki Station	南宮崎駅（みなみみやざき）
+Minami-morimachi Station	南森町駅（みなみもりまち）
+Minami-Moriya Station	南守谷駅（みなみもりや）
+Minami-Nagai Station	南長井駅（みなみながい）
+Minami-Nagaoka Station	南長岡駅（みなみながおか）
+Minami-Nagareyama Station	南流山駅（みなみながれやま）
+Minami-Nagayama Station	南永山駅（みなみながやま）
+Minami-Nakagawa Station	南中川駅（みなみなかがわ）
+Minami-Nakagō Station	南中郷駅（みなみなかごう）
+Minamino Station	南野駅（みなみの）
+Minami-Nobeoka Station	南延岡駅（みなみのべおか）
+Minami-Nōgata Gotenguchi Station	南直方御殿口駅（みなみのおがたごてんぐち）
+Minami-Ōdaka Station	南大高駅（みなみおおだか）
+Minami-Onoda Station	南小野田駅（みなみおのだ）
+Minami-Ōita Station	南大分駅（みなみおおいた）
+Minami-Ōmachi Station	南大町駅（みなみおおまち）
+Minami-Ōmine Station	南大嶺駅（みなみおおみね）
+Minami-Ōsawa Station	南大沢駅（みなみおおさわ）
+Minami-Ōta Station	南太田駅（みなみおおた）
+Minami-Ōtsuka Station	南大塚駅（みなみおおつか）
+Minami-Otari Station	南小谷駅（みなみおたり）
+Minami-Otaru Station	南小樽駅（みなみおたる）
+Minami-Pippu Station	南比布駅（みなみぴっぷ）
+Minami-Rinkan Station	南林間駅（みなみりんかん）
+Minami-Sagae Station	南寒河江駅（みなみさがえ）
+Minamisakae Station	南栄駅（みなみさかえ）
+Minami-Sakaide Station	南酒出駅（みなみさかいで）
+Minami Sakurai Station (Aichi)	南桜井駅 (愛知県)（みなみさくらい）
+Minami-Sakurai Station (Saitama)	南桜井駅 (埼玉県)（みなみさくらい）
+Minami-Sendai Station	南仙台駅（みなみせんだい）
+Minami-Senju Station	南千住駅（みなみせんじゅ）
+Minami-Senri Station	南千里駅（みなみせんり）
+Minami-Setaka Station	南瀬高駅（みなみせたか）
+Minami-Settsu Station	南摂津駅（みなみせっつ）
+Minami-Shari Station	南斜里駅（みなみしゃり）
+Minami-Shiga Station	南滋賀駅（みなみしが）
+Minami-Shimabara Station	南島原駅（みなみしまばら）
+Minami-Shimizusawa Station	南清水沢駅（みなみしみずさわ）
+Minami-Shimonuma Station	南下沼駅（みなみしもぬま）
+Minami-Shimotoppu Station	南下徳富駅（みなみしもとっぷ）
+Minami-Shinji Station	南宍道駅（みなみしんじ）
+Minami-Shinjō Station	南新庄駅（みなみしんじょう）
+Minami-Shinjuku Station	南新宿駅（みなみしんじゅく）
+Minami-Shisui Station	南酒々井駅（みなみしすい）
+Minami-Suita Station	南吹田駅（みなみすいた）
+Minami-Sunamachi Station	南砂町駅（みなみすなまち）
+Minami-Takada Station	南高田駅（みなみたかだ）
+Minami-Takasaki Station	南高崎駅（みなみたかさき）
+Minami-Tama Station	南多摩駅（みなみたま）
+Minami-Tanabe Station	南田辺駅（みなみたなべ）
+Minami-Tatsumi Station	南巽駅（みなみたつみ）
+Minami-Teshikaga Station	南弟子屈駅（みなみてしかが）
+Minami-Toyama Station	南富山駅（みなみとやま）
+Minamitoyama-ekimae Station	南富山駅前駅（みなみとやまえきまえ）
+Minami-Toyoshina Station	南豊科駅（みなみとよしな）
+Minami-Uozaki Station	南魚崎駅（みなみうおざき）
+Minami-Urawa Station	南浦和駅（みなみうらわ）
+Minami-Utsunomiya Station	南宇都宮駅（みなみうつのみや）
+Minami-Wakamatsu Station	南若松駅（みなみわかまつ）
+Minami-Wakkanai Station	南稚内駅（みなみわっかない）
+Minami Woody Town Station	南ウッディタウン駅（みなみうっでぃたうん）
+Minami-Yashiro Station	南矢代駅（みなみやしろ）
+Minami-Yokkaichi Station	南四日市駅（みなみよっかいち）
+Minami-Yonezawa Station	南米沢駅（みなみよねざわ）
+Minami-Yono Station	南与野駅（みなみよの）
+Minami-Yoshida Station	南吉田駅（みなみよしだ）
+Minami-Yufu Station	南由布駅（みなみゆふ）
+Minami-Yukuhashi Station	南行橋駅（みなみゆくはし）
+Minano Station	皆野駅（みなの）
+Minara Station	見奈良駅（みなら）
+Minase Station	水無瀬駅（みなせ）
+Minato Station	湊駅（みなと）
+Minatochō Station	港町駅（みなとちょう）
+Minatogawa Station	湊川駅（みなとがわ）
+Minatogawakōen Station	湊川公園駅（みなとがわこうえん）
+Minatojima Station	みなとじま駅（みなとじま）
+Minato Kuyakusho Station	港区役所駅（みなとくやくしょ）
+Minatomirai Station	みなとみらい駅
+Minatomotomachi Station	みなと元町駅（みなともとまち）
+Minatoyama Station	港山駅（みなとやま）
+Minawa Station	三縄駅（みなわ）
+Mine Station	美祢駅（みね）
+Minenobu Station	峰延駅（みねのぶ）
+Mineyama Station	峰山駅（みねやま）
+Mineyoshikawa Station	峰吉川駅（みねよしかわ）
+Mino Station	みの駅
+Mino-Akasaka Station	美濃赤坂駅（みのあかさか）
+Minobayashi Station	見能林駅（みのばやし）
+Minobu Station	身延駅（みのぶ）
+Mino-Hongō Station	美濃本郷駅（みのほんごう）
+Mino-Kawai Station	美濃川合駅（みのかわい）
+Mino-Matsuyama Station	美濃松山駅（みのまつやま）
+Minoo Station	箕面駅（みのお）
+Mino-Ōkubo Station	美濃大久保駅（みのおおくぼ）
+Mino-Ōta Station	美濃太田駅（みのおおた）
+Minoridai Station	みのり台駅（みのりだい）
+Mino-Sakamoto Station	美乃坂本駅（みのさかもと）
+Minose Station	三野瀬駅（みのせ）
+Minoshi Station	美濃市駅（みのし）
+Minoshima Station	箕島駅（みのしま）
+Mino-Shirotori Station	美濃白鳥駅（みのしろとり）
+Mino-Takada Station	美濃高田駅（みのたかだ）
+Minotani Station	箕谷駅（みのたに）
+Mino-Tsuya Station	美濃津屋駅（みのつや）
+Minoura Station	箕浦駅（みのうら）
+Minowa Station	三ノ輪駅（みのわ）
+Minowabashi Station	三ノ輪橋駅（みのわばし）
+Mino-Yamazaki Station	美濃山崎駅（みのやまざき）
+Mino-Yanagi Station	美濃青柳駅（みのやなぎ）
+Minumadai-shinsuikōen Station	見沼代親水公園駅（みぬまだいしんすいこうえん）
+Miraidaira Station	みらい平駅（みらいだいら）
+Mirasaka Station	三良坂駅（みらさか）
+Mirozu Station	見老津駅（みろづ）
+Misaki Station (Hokkaido)	御崎駅（みさき）
+Misaki Station (Chiba)	三咲駅（みさき）
+Misakigaoka Station	美咲が丘駅（みさきがおか）
+Misakiguchi Station	三崎口駅（みさきぐち）
+Misakikōen Station (Osaka)	みさき公園駅（みさきこうえん）
+Misakikōen Station (Hyogo)	御崎公園駅（みさきこうえん）
+Misakubo Station	水窪駅（みさくぼ）
+Misasagi Station	御陵駅（みささぎ）
+Misashima Station	美佐島駅（みさしま）
+Misato Station (Mie)	三里駅（みさと）
+Misato Station (Nagano)	美里駅（みさと）
+Misato Station (Saitama)	三郷駅 (埼玉県)（みさと）
+Misatochūō Station	三郷中央駅（みさとちゅうおう）
+Misawa Station	三沢駅 (青森県)（みさわ）
+Misedani Station	三瀬谷駅（みせだに）
+Mishima Station	三島駅（みしま）
+Mishima-Futsukamachi Station	三島二日町駅（みしまふつかまち）
+Mishima-Hirokōji Station	三島広小路駅（みしまひろこうじ）
+Mishima-Tamachi Station	三島田町駅（みしまたまち）
+Misono Station	美園駅（みその）
+Misono-Chūōkōen Station	美薗中央公園駅（みそのちゅうおうこうえん）
+Misumi Station	三角駅（みすみ）
+Mita Station	三田駅 (東京都)（みた）
+Mitaka Station	三鷹駅（みたか）
+Mitakadai Station	三鷹台駅（みたかだい）
+Mitake Station (Gifu)	御嵩駅（みたけ）
+Mitake Station (Tokyo)	御嶽駅（みたけ）
+Mitakedaira Station	御岳平駅（みたけだいら）
+Mitakedō Station	御岳堂駅（みたけどう）
+Mitakeguchi Station	御嵩口駅（みたけぐち）
+Mitakesan Station	御岳山駅（みたけさん）
+Mitaki Station	三滝駅（みたき）
+Mitani Station (Okayama)	三谷駅 (岡山県)（みたに）
+Mitani Station (Yamaguchi)	三谷駅 (山口県)（みたに）
+Mitazono Station	美田園駅（みたぞの）
+Mitejima Station	御幣島駅（みてじま）
+Mito Station (Ibaraki)	水戸駅（みと）
+Mito Station (Osaka)	弥刀駅（みと）
+Mitoma Station	三苫駅（みとま）
+Mitsu Station	三津駅（みつ）
+Mitsubishi-jikō-mae Station	三菱自工前駅（みつびしじこうまえ）
+Mitsuhama Station	三津浜駅（みつはま）
+Mitsuishi Station (Kumamoto)	三ツ石駅（みついし）
+Mitsuishi Station (Okayama)	三石駅（みついし）
+Mitsukaidō Station	水海道駅（みつかいどう）
+Mitsuke Station	見附駅（みつけ）
+Mitsukoshimae Station	三越前駅（みつこしまえ）
+Mitsukuchi Station	三口駅（みつくち）
+Mitsukyō Station	三ツ境駅（みつきょう）
+Mitsuma Station	三妻駅（みつま）
+Mitsumata Station	三俣駅（みつまた）
+Mitsumatsu Station (Fukui)	三松駅（みつまつ）
+Mitsumatsu Station (Osaka)	三ツ松駅（みつまつ）
+Mitsumineguchi Station	三峰口駅（みつみねぐち）
+Mitsuoka Station	三岡駅（みつおか）
+Mitsusawa Station	三沢駅 (福岡県)（みつさわ）
+Mitsuseki Station	三関駅（みつせき）
+Mitsutōge Station	三つ峠駅（みつとうげ）
+Mitsuwadai Station	みつわ台駅（みつわだい）
+Mitsuya Station	三ツ屋駅（みつや）
+Mitsuzawa-Kamichō Station	三ツ沢上町駅（みつざわかみちょう）
+Mitsuzawa-Shimochō Station	三ツ沢下町駅（みつざわしもちょう）
+Miura Station	三浦駅（みうら）
+Miurakaigan Station	三浦海岸駅（みうらかいがん）
+Miwa Station	三輪駅（みわ）
+Miwasaki Station	三輪崎駅（みわさき）
+Miyada Station	宮田駅（みやだ）
+Miyazu Station	宮津駅（みやづ）
+Miyagahama Station	宮ヶ浜駅（みやがはま）
+Miyagawa Station	宮川駅（みやがわ）
+Miyagino-dori Station	宮城野通駅（みやぎのどおり）
+Miyaginohara Station	宮城野原駅（みやぎのはら）
+Miyaguchi Station	宮口駅（みやぐち）
+Miyahara Station	宮原駅（みやはら）
+Miyaji Station	宮地駅（みやじ）
+Miyajima Boat Race Jō Station	宮島ボートレース場駅（みやじまぼーとれーすじょう）
+Miyajimaguchi Station	宮島口駅（みやじまぐち）
+Miyake-Hachiman Station	三宅八幡駅（みやけはちまん）
+Miyaki Station	宮木駅（みやき）
+Miyako Station	宮古駅（みやこ）
+Miyakoda Station	都田駅（みやこだ）
+Miyakoizumi Station	美夜古泉駅（みやこいずみ）
+Miyakojima Station	都島駅（みやこじま）
+Miyakonojō Station	都城駅（みやこのじょう）
+Miyakoshi Station	宮越駅（みやこし）
+Miyama Station	美山駅（みやま）
+Miyamachi Station	宮町駅（みやまち）
+Miyamado Station	海山道駅（みやまど）
+Miyamae Station	宮前駅（みやまえ）
+Miyamaedaira Station	宮前平駅（みやまえだいら）
+Miyamaki Station	三山木駅（みやまき）
+Miyamori Station	宮守駅（みやもり）
+Miyamoto Musashi Station	宮本武蔵駅（みやもとむさし）
+Miyamura Station	宮村駅（みやむら）
+Miyano Station	宮野駅（みやの）
+Miyanohira Station	宮ノ平駅（みやのひら）
+Miyanojin Station	宮の陣駅（みやのじん）
+Miyanokoshi Station	宮ノ越駅（みやのこし）
+Miyanomae Station	宮ノ前駅（みやのまえ）
+Miyanosaka Station (Tokyo)	宮の坂駅（みやのさか）
+Miyanosaka Station (Osaka)	宮之阪駅（みやのさか）
+Miyanosawa Station	宮の沢駅（みやのさわ）
+Miyanoshita Station	宮ノ下駅（みやのした）
+Miyashita Station	宮下駅（みやした）
+Miyatachō Station	宮田町駅（みやたちょう）
+Miyauchi Station (Hiroshima)	宮内駅 (広島県)（みやうち）
+Miyauchi Station (Niigata)	宮内駅 (新潟県)（みやうち）
+Miyauchi Station (Yamagata)	宮内駅 (山形県)（みやうち）
+Miyauchikushido Station	宮内串戸駅（みやうちくしど）
+Miyawaki Station	宮脇駅（みやわき）
+Miyayama Station	宮山駅（みややま）
+Miyazaki Station	宮崎駅（みやざき）
+Miyazakidai Station	宮崎台駅（みやざきだい）
+Miyazakijingū Station	宮崎神宮駅（みやざきじんぐう）
+Miyazakikūkō Station	宮崎空港駅（みやざきくうこう）
+Miyoshi Station (Kumamoto)	御代志駅（みよし）
+Miyoshi Station (Hiroshima)	三次駅（みよし）
+Miyoshichō Station	三好町駅（みよしちょう）
+Miyoshigaoka Station	三好ヶ丘駅（みよしがおか）
+Miyota Station	御代田駅（みよた）
+Miyuki-bashi Station	御幸橋駅（みゆきばし）
+Miyukitsuji Station	御幸辻駅（みゆきつじ）
+Mizoguchi Station	溝口駅（みぞぐち）
+Mizonokuchi Station	溝の口駅（みぞのくち）
+Mizue Station	瑞江駅（みずえ）
+Mizuhashi Station	水橋駅（みずはし）
+Mizuho Station	瑞穂駅（みずほ）
+Mizuhodai Station	みずほ台駅（みずほだい）
+Mizuho-Kuyakusho Station	瑞穂区役所駅（みずほくやくしょ）
+Mizuho-Undōjō-Higashi Station	瑞穂運動場東駅（みずほうんどうじょうひがし）
+Mizuho-Undōjō-Nishi Station	瑞穂運動場西駅（みずほうんどうじょうにし）
+Mizui Station	水居駅（みずい）
+Mizuki Station	水城駅（みずき）
+Mizuma Station	三潴駅（みずま）
+Mizuma Kannon Station	水間観音駅（みずまかんのん）
+Mizumaki Station	水巻駅（みずまき）
+Mizunami Station	瑞浪駅（みずなみ）
+Mizunarikawa Station	水成川駅（みずなりかわ）
+Mizuno Station	水野駅（みずの）
+Mizunuma Station	水沼駅（みずぬま）
+Mizuochi Station	水落駅（みずおち）
+Mizusawa Station	水沢駅（みずさわ）
+Mizusawa-Esashi Station	水沢江刺駅（みずさわえさし）
+Mizushima Station	水島駅（みずしま）
+Mizushiri Station	水尻駅（みずしり）
+Mizuta Station	水田駅（みずた）
+Mo[edit]
+Mobara Station	茂原駅（もばら）
+Mochibaru Station	餅原駅（もちばる）
+Mochida Station	持田駅（もちだ）
+Mochigase Station	用瀬駅（もちがせ）
+Mochimune Station	用宗駅（もちむね）
+Mogami Station	最上駅（もがみ）
+Mōgi Station	舞木駅（もうぎ）
+Mogusaen Station	百草園駅（もぐさえん）
+Moheji Station	茂辺地駅（もへじ）
+Moichi Station	茂市駅（もいち）
+Moji Station	門司駅（もじ）
+Mojikō Station	門司港駅（もじこう）
+Mokichi Kinenkan-mae Station	茂吉記念館前駅（もきちきねんかんまえ）
+Mokoto Station	藻琴駅（もこと）
+Momiyama Station	樅山駅（もみやま）
+Momodani Station	桃谷駅（ももだに）
+Momonokawa Station	桃川駅（もものかわ）
+Momouchi Station	桃内駅（ももうち）
+Momoura Station	桃浦駅（ももうら）
+Momoyama Station	桃山駅（ももやま）
+Momoyamadai Station	桃山台駅（ももやまだい）
+Momoyama-Goryōmae Station	桃山御陵前駅（ももやまごりょうまえ）
+Momoyama-Minamiguchi Station	桃山南口駅（ももやまみなみぐち）
+Momozono Station	桃園駅（ももぞの）
+Momponai Station	紋穂内駅（もんぽない）
+Monden Station	門田駅（もんでん）
+Mondoyakujin Station	門戸厄神駅（もんどやくじん）
+Monoi Station	物井駅（ものい）
+Monorail Hamamatsuchō Station	モノレール浜松町駅（ものれーるはままつちょう）
+Monshizu Station	門静駅（もんしず）
+Monzennakachō Station	門前仲町駅（もんぜんなかちょう）
+Mooka Station	真岡駅（もおか）
+Morera-Gifu Station	モレラ岐阜駅（もれらぎふ）
+Mori Station (Hokkaidō)	森駅 (北海道)（もり）
+Mori Station (Osaka)	森駅 (大阪府)（もり）
+Moriguchi Station (Nagano)	森口駅（もりぐち）
+Moriguchi Station (Osaka)	守口駅（もりぐち）
+Moriguchishi Station	守口市駅（もりぐちし）
+Morikami Station	森上駅（もりかみ）
+Morimachibyōin-mae Station	森町病院前駅（もりまちびょういんまえ）
+Mori-Miyanohara Station	森宮野原駅（もりみやのはら）
+Morimoto Station	森本駅（もりもと）
+Morinjimae Station	茂林寺前駅（もりんじまえ）
+Morinomiya Station	森ノ宮駅（もりのみや）
+Morioka Station	盛岡駅（もりおか）
+Morioka Kamotsu Terminal Station	盛岡貨物ターミナル駅（もりおかかもつたーみなる）
+Morisekinoshita Station	杜せきのした駅（もりせきのした）
+Morishita Station (Aichi)	森下駅 (愛知県)（もりした）
+Morishita Station (Fukuoka)	森下駅 (福岡県)（もりした）
+Morishita Station (Tokyo)	森下駅 (東京都)（もりした）
+Morishōji Station	森小路駅（もりしょうじ）
+Morita Station	森田駅（もりた）
+Moritake Station	森岳駅（もりたけ）
+Moritsune Station	守恒駅（もりつね）
+Moriya Station	守谷駅（もりや）
+Moriyama Station (Aichi)	守山駅 (愛知県)（もりやま）
+Moriyama Station (Nagasaki)	森山駅（もりやま）
+Moriyama Station (Shiga)	守山駅 (滋賀県)（もりやま）
+Moriyama-Jieitaimae Station	守山自衛隊前駅（もりやまじえいたいまえ）
+Moriyama-Shiminbyōin Station	守山市民病院駅（もりやましみんびょういん）
+Moro Station	毛呂駅（もろ）
+Moroyose Station	諸寄駅（もろよせ）
+Moseushi Station	妹背牛駅（もせうし）
+Moshiri Station	茂尻駅（もしり）
+Motateyama Station	もたて山駅（もたてやま）
+Motegi Station	茂木駅（もてぎ）
+Moto-Chōshi Station	本銚子駅（もとちょうし）
+Motohasunuma Station	本蓮沼駅（もとはすぬま）
+Moto-Hoshizaki Station	本星崎駅（もとほしざき）
+Motojuku Station (Aichi)	本宿駅 (愛知県)（もとじゅく）
+Motojuku Station (Gunma)	本宿駅 (群馬県)（もとじゅく）
+Motokaji Station	元加治駅（もとかじ）
+Moto-Kasadera Station	本笠寺駅（もとかさでら）
+Motomachi Station (Hokkaido)	元町駅 (北海道)（もとまち）
+Motomachi Station (Hyogo)	元町駅 (兵庫県)（もとまち）
+Motomachi Chūkagai Station	元町・中華街駅（もとまち・ちゅうかがい）
+Motomiya Station	本宮駅 (福島県)（もとみや）
+Moto-Nakagoya Station	本中小屋駅（もとなかごや）
+Motosanjōguchi Station	元山上口駅（もとさんじょうぐち）
+Motosu Station	本巣駅（もとす）
+Motosumiyoshi Station	元住吉駅（もとすみよし）
+Mototanaka Station	元田中駅（もとたなか）
+Mototate Station	本楯駅（もとたて）
+Moto-Wanishi Station	本輪西駅（もとわにし）
+Motoyama Station (Aichi)	本山駅 (愛知県)（もとやま）
+Motoyama Station (Chiba)	元山駅 (千葉県)（もとやま）
+Motoyama Station (Takamatsu, Kagawa)	元山駅 (香川県)（もとやま）
+Motoyama Station (Mitoyo, Kagawa)	本山駅 (香川県)（もとやま）
+Motoyama Station (Nagasaki)	本山駅 (長崎県)（もとやま）
+Motoyawata Station	本八幡駅（もとやわた）
+Motoyoshi Station	本吉駅（もとよし）
+Motozenkōji Station	元善光寺駅（もとぜんこうじ）
+Mozu Station	百舌鳥駅（もず）
+Mozuhachiman Station	百舌鳥八幡駅（もずはちまん）
+Mu[edit]
+Muda Station	六田駅（むだ）
+Muden Station	務田駅（むでん）
+Mugi Station	牟岐駅（むぎ）
+Muikamachi Station	六日町駅（むいかまち）
+Mukaibara Station	向井原駅（むかいばら）
+Mukaichiba Station	向市場駅（むかいちば）
+Mukaigawara Station	向河原駅（むかいがわら）
+Mukaihama Station	向浜駅（むかいはま）
+Mukaihara Station	向原駅 (広島県)（むかいはら）
+Mukaijima Station	向島駅（むかいじま）
+Mukainada Station	向洋駅（むかいなだ）
+Mukainoharu Station	向之原駅（むかいのはる）
+Mukai-Noshiro Station	向能代駅（むかいのしろ）
+Mukaisenoue Station	向瀬上駅（むかいせのうえ）
+Mukaiyama Station	向山駅（むかいやま）
+Mukawa Station	鵡川駅（むかわ）
+Muko Station	武庫駅（むこ）
+Mukōgaoka Station	向ヶ丘駅（むこうがおか）
+Mukōgaokayūen Station	向ヶ丘遊園駅（むこうがおかゆうえん）
+Mukogawa Station	武庫川駅（むこがわ）
+Mukogawadanchimae Station	武庫川団地前駅（むこがわだんちまえ）
+Mukōhara Station	向原駅 (東京都)（むこうはら）
+Mukōmachi Station	向日町駅（むこうまち）
+Mukonosō Station	武庫之荘駅（むこのそう）
+Mukuno Station	椋野駅（むくの）
+Murai Station	村井駅（むらい）
+Murakami Station (Chiba)	村上駅 (千葉県)（むらかみ）
+Murakami Station (Niigata)	村上駅 (新潟県)（むらかみ）
+Murano Station	村野駅（むらの）
+Murasaki Station	紫駅（むらさき）
+Murasakino Station	村崎野駅（むらさきの）
+Murayama Station (Nagano)	村山駅 (長野県)（むらやま）
+Murayama Station (Yamagata)	村山駅 (山形県)（むらやま）
+Mure Station	牟礼駅（むれ）
+Muro Station	室駅（むろ）
+Murodō Station	室堂駅（むろどう）
+Muromi Station	室見駅（むろみ）
+Muroran Station	室蘭駅（むろらん）
+Murōguchi-Ōno Station	室生口大野駅（むろうぐちおおの）
+Musa Station (Hokkaido)	武佐駅 (北海道)（むさ）
+Musa Station (Shiga)	武佐駅 (滋賀県)（むさ）
+Musashi-Fujisawa Station	武蔵藤沢駅（むさしふじさわ）
+Musashi-Hikida Station	武蔵引田駅（むさしひきだ）
+Musashi-Itsukaichi Station	武蔵五日市駅（むさしいつかいち）
+Musashi-Koganei Station	武蔵小金井駅（むさしこがねい）
+Musashi-Kosugi Station	武蔵小杉駅（むさしこすぎ）
+Musashi-Koyama Station	武蔵小山駅（むさしこやま）
+Musashi-Masuko Station	武蔵増戸駅（むさしますこ）
+Musashi-Mizonokuchi Station	武蔵溝ノ口駅（むさしみぞのくち）
+Musashi-Nakahara Station	武蔵中原駅（むさしなかはら）
+Musashi-Nitta Station	武蔵新田駅（むさしにった）
+Musashinodai Station	武蔵野台駅（むさしのだい）
+Musashi-Ranzan Station	武蔵嵐山駅（むさしらんざん）
+Musashi-Sakai Station	武蔵境駅（むさしさかい）
+Musashi-Seki Station	武蔵関駅（むさしせき）
+Musashi-Shinjō Station	武蔵新城駅（むさししんじょう）
+Musashi-Shiraishi Station	武蔵白石駅（むさししらいし）
+Musashi-Sunagawa Station	武蔵砂川駅（むさしすながわ）
+Musashi-Takahagi Station	武蔵高萩駅（むさしたかはぎ）
+Musashi-Urawa Station	武蔵浦和駅（むさしうらわ）
+Musashi-Yamato Station	武蔵大和駅（むさしやまと）
+Musashi-Yokote Station	武蔵横手駅（むさしよこて）
+Musashizuka Station	武蔵塚駅（むさしづか）
+Mushigawa-Ōsugi Station	虫川大杉駅（むしがわおおすぎ）
+Musota Station	六十谷駅（むそた）
+Mutsuai-Nichidaimae Station	六会日大前駅（むつあいにちだいまえ）
+Mutsu-Akaishi Station	陸奥赤石駅（むつあかいし）
+Mutsu-Ichikawa Station	陸奥市川駅（むついちかわ）
+Mutsu-Iwasaki Station	陸奥岩崎駅（むついわさき）
+Mutsumi Station	六実駅（むつみ）
+Mutsu-Minato Station	陸奥湊駅（むつみなと）
+Mutsu-Morita Station	陸奥森田駅（むつもりた）
+Mutsuna Station	六名駅（むつな）
+Mutsu-Sawabe Station	陸奥沢辺駅（むつさわべ）
+Mutsu-Shirahama Station	陸奥白浜駅（むつしらはま）
+Mutsu-Tsuruda Station	陸奥鶴田駅（むつつるだ）
+Mutsuura Station	六浦駅（むつうら）
+Mutsu-Yanagita Station	陸奥柳田駅（むつやなぎた）
+Mutsu-Yokohama Station	陸奥横浜駅（むつよこはま）
+Muya Station	撫養駅（むや）
+My[edit]
+Myōdani Station	名谷駅（みょうだに）
+Myōden Station	妙典駅（みょうでん）
+Myōgadani Station	茗荷谷駅（みょうがだに）
+Myōhōji Station (Hyogo)	妙法寺駅 (兵庫県)（みょうほうじ）
+Myōhōji Station (Niigata)	妙法寺駅 (新潟県)（みょうほうじ）
+Myōji Station	妙寺駅（みょうじ）
+Myōjin Station	明神駅（みょうじん）
+Myōjō Station	明星駅（みょうじょう）
+Myōkaku Station	明覚駅（みょうかく）
+Myōkenguchi Station	妙見口駅（みょうけんぐち）
+Myōkennomizu-Hirobamae Station	妙見の水広場前駅（みょうけんのみずひろばまえ）
+Myōkensan Station	妙見山駅（みょうけんさん）
+Myōkōji Station	妙興寺駅（みょうこうじ）
+Myōkō-Kōgen Station	妙高高原駅（みょうこうこうげん）
+Myōkokujimae Station	妙国寺前駅（みょうこくじまえ）
+Myōondōri Station	妙音通駅（みょうおんどおり）
+Myōrenji Station	妙蓮寺駅（みょうれんじ）
+Myōshinji Station	妙心寺駅（みょうしんじ）

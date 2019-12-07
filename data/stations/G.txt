@@ -1,0 +1,128 @@
+Gaienmae Station	外苑前駅（がいえんまえ）
+Gakken Kita-Ikoma Station	学研北生駒駅（がっけんきたいこま）
+Gakken Nara-Tomigaoka Station	学研奈良登美ヶ丘駅（がっけんならとみがおか）
+Gakkōmae Station	学校前駅 (福岡県)（がっこうまえ）
+Gaku Station	学駅（がく）
+Gakuden Station (Hokkaido)	学田駅（がくでん）
+Gakuden Station (Aichi)	楽田駅（がくでん）
+Gakuen-dōri Station	学園通り駅（がくえんどおり）
+Gakuen-mae Station (Chiba)	学園前駅 (千葉県)（がくえんまえ）
+Gakuen-mae Station (Hokkaido)	学園前駅 (北海道)（がくえんまえ）
+Gakuen-mae Station (Nara)	学園前駅 (奈良県)（がくえんまえ）
+Gakuentoshi Station	学園都市駅（がくえんとし）
+Gakugeidaigaku Station	学芸大学駅（がくげいだいがく）
+Gakumon Station	学門駅（がくもん）
+Gakunan-Enoo Station	岳南江尾駅（がくなんえのお）
+Gakunan-Fujioka Station	岳南富士岡駅（がくなんふじおか）
+Gakunan-Harada Station	岳南原田駅（がくなんはらだ）
+Gakushūin-shita Station	学習院下駅（がくしゅういんした）
+Gala-Yuzawa Station	ガーラ湯沢駅（がーらゆざわ）
+Gamagōri Station	蒲郡駅（がまごおり）
+Gamagōri-kyōteijō-mae Station	蒲郡競艇場前駅（がまごおりきょうていじょうまえ）
+Gamō Station	蒲生駅（がもう）
+Gamō-yonchōme Station	蒲生四丁目駅（がもうよんちょうめ）
+Ganda Station	感田駅（がんだ）
+Gannosu Station	雁ノ巣駅（がんのす）
+Gansuiji Station	岩水寺駅（がんすいじ）
+Gatsugi Station	勝木駅（がつぎ）
+Geba Station	下馬駅（げば）
+Geibikei Station	猊鼻渓駅（げいびけい）
+Geidaidōri Station	芸大通駅（げいだいどおり）
+Gejō Station	下条駅（げじょう）
+Gekkōji Station	月江寺駅（げっこうじ）
+Gembudō Station	玄武洞駅（げんぶどう）
+Genbaku Dome-mae Station (Atomic Bomb Dome)	原爆ドーム前駅（げんばくどーむまえ）
+Gendōji Station	源道寺駅（げんどうじ）
+Genjiinomori Station	源じいの森駅（げんじいのもり）
+Genseikaen Station	原生花園駅（げんせいかえん）
+Gero Station	下呂駅（げろ）
+Gibo Station	儀保駅（ぎぼ）
+Gifu Station	岐阜駅（ぎふ）
+Gifu-Hashima Station	岐阜羽島駅（ぎふはしま）
+Gijukukōkōmae Station	義塾高校前駅（ぎじゅくこうこうまえ）
+Ginan Station	岐南駅（ぎなん）
+Ginsui Station	銀水駅（ぎんすい）
+Ginza Station	銀座駅（ぎんざ）
+Ginza-itchōme Station	銀座一丁目駅（ぎんざいっちょうめ）
+Ginzan Station	銀山駅（ぎんざん）
+Gion Station (Chiba)	祗園駅 (千葉県)（ぎおん）
+Gion Station (Fukuoka)	祗園駅 (福岡県)（ぎおん）
+Gion-Shijō Station	祇園四条駅（ぎおんしじょう）
+Gion-shimbashikita Station	祇園新橋北駅（ぎおんしんばしきた）
+Gōbara Station	郷原駅（ごうばら）
+Gōbira Station	江平駅（ごうびら）
+Gobō Station	御坊駅（ごぼう）
+Gochaku Station	御着駅（ごちゃく）
+Gochi Station	五知駅（ごち）
+Godai Station	後台駅（ごだい）
+Gōdo Station (Gifu)	顔戸駅（ごうど）
+Gōdo Station (Fukushima)	郷戸駅（ごうど）
+Gōdo Station (Gunma)	神戸駅 (群馬県)（ごうど）
+Gofukumachi Station (Fukuoka)	呉服町駅 (福岡県)（ごふくまち）
+Gofukumachi Station (Kumamoto)	呉服町停留場（ごふくまち）
+Gohyakugawa Station	五百川駅（ごひゃくがわ）
+Gohyakurakan Station	五百羅漢駅（ごひゃくらかん）
+Goi Station	五井駅（ごい）
+Goidō Station	五位堂駅（ごいどう）
+Goino Station	五位野駅（ごいの）
+Gojikkoku Station	五十石駅（ごじっこく）
+Gojō Station (Kyoto)	五条駅 (京都府)（ごじょう）
+Gojō Station (Nara)	五条駅 (奈良県)（ごじょう）
+Goka Station	五和駅（ごか）
+Gokan Station	後閑駅（ごかん）
+Gokashō Station	五箇荘駅（ごかしょう）
+Gōkei Station	豪渓駅（ごうけい）
+Gokiso Station	御器所駅（ごきそ）
+Gokō Station	五香駅（ごこう）
+Gokokuji Station	護国寺駅（ごこくじ）
+Gokurakubashi Station	極楽橋駅（ごくらくばし）
+Gokurakuji Station	極楽寺駅（ごくらくじ）
+Goma Station	胡麻駅（ごま）
+Gomen Station	後免駅（ごめん）
+Gomenmachi Station	後免町駅（ごめんまち）
+Gondō Station	権堂駅（ごんどう）
+Gongenmae Station	権現前駅（ごんげんまえ）
+Gongenzaki Station	権現崎駅（ごんげんざき）
+Gonosan Station	五ノ三駅（ごのさん）
+Gonōkōmae Station	五農校前駅（ごのうこうまえ）
+Gōra Station	強羅駅（ごうら）
+Gorō Station	五郎駅（ごろう）
+Gorōmaru Station	五郎丸駅（ごろうまる）
+Goryō Station (Hiroshima)	御領駅 (広島県)（ごりょう）
+Goryō Station (Kagoshima)	御領駅 (鹿児島県)（ごりょう）
+Goryōkaku Station	五稜郭駅（ごりょうかく）
+Goryōmae Station	御陵前停留場（ごりょうまえ）
+Gosannen Station	後三年駅（ごさんねん）
+Gōsawa Station	郷沢駅（ごうさわ）
+Gose Station	御所駅（ごせ）
+Gosen Station	五泉駅（ごせん）
+Gosha Station	五社駅（ごしゃ）
+Gōshi Station	剛志駅（ごうし）
+Goshogawara Station	五所川原駅（ごしょがわら）
+Gotanda Station	五反田駅（ごたんだ）
+Gotanno Station	五反野駅（ごたんの）
+Gotemba Station	御殿場駅（ごてんば）
+Gotenyama Station	御殿山駅（ごてんやま）
+Gotō Station	後藤駅（ごとう）
+Gōtokuji Station	豪徳寺駅（ごうとくじ）
+Gōtsu Station	江津駅（ごうつ）
+Gōtsuhommachi Station	江津本町駅（ごうつほんまち）
+Goyu Station	御油駅（ごゆ）
+Gudō Station	具同駅（ぐどう）
+Gujō Station	公庄駅（ぐじょう）
+Gujō-Hachiman Station	郡上八幡駅（ぐじょうはちまん）
+Gujō-Yamato Station	郡上大和駅（ぐじょうやまと）
+Gumyō Station	求名駅（ぐみょう）
+Gumyōji Station (Yokohama Subway)	弘明寺駅 (横浜市営地下鉄)（ぐみょうじ）
+Gumyōji Station (Keikyu)	弘明寺駅 (京急)（ぐみょうじ）
+Gunchū Station	郡中駅（ぐんちゅう）
+Gunchū Port Station	郡中港駅（ぐんちゅうこう）
+Gunma-Fujioka Station	群馬藤岡駅（ぐんまふじおか）
+Gunma-Haramachi Station	群馬原町駅（ぐんまはらまち）
+Gunma-Ōtsu Station	群馬大津駅（ぐんまおおつ）
+Gunma-Sōja Station	群馬総社駅（ぐんまそうじゃ）
+Gunma-Yawata Station	群馬八幡駅（ぐんまやわた）
+Gyokukeijimae Station	玉桂寺前駅（ぎょくけいじまえ）
+Gyōda Station	行田駅（ぎょうだ）
+Gyōdashi Station	行田市駅（ぎょうだし）
+Gyōtoku Station	行徳駅（ぎょうとく）

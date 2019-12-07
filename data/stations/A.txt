@@ -1,0 +1,474 @@
+Abashiri Station	網走駅（あばしり）
+Abe Station	安部駅（あべ）
+Abekawa Station	安倍川駅（あべかわ）
+Abeno Station	阿倍野駅（あべの）
+Abeyamakōen Station	安部山公園駅（あべやまこうえん）
+Abiki Station	網引駅（あびき）
+Abiko Station (Chiba)	我孫子駅 (千葉県)（あびこ）
+Abiko Station (Osaka)	我孫子駅 (大阪府)（あびこ）
+Abikochō Station	我孫子町駅（あびこちょう）
+Abikomae Station	我孫子前駅（あびこまえ）
+Abikomichi Station	我孫子道駅（あびこみち）
+Abira Station	安平駅（あびら）
+Aboshi Station	網干駅（あぼし）
+Abozaki Station	阿母崎駅（あぼざき）
+Abukuma Station	あぶくま駅
+Aburaden Station	油田駅（あぶらでん）
+Aburahi Station	油日駅（あぶらひ）
+Aburakawa Station	油川駅（あぶらかわ）
+Aburatsu Station	油津駅（あぶらつ）
+Adachi Station	安達駅（あだち）
+Adachi-odai Station	足立小台駅（あだちおだい）
+Adogawa Station	安曇川駅（あどがわ）
+Afun Station	阿分駅（あふん）
+Afurijinja Station	阿夫利神社駅（あふりじんじゃ）
+Agaho Station	英賀保駅（あがほ）
+Agano Station	吾野駅（あがの）
+Agarimichi Station	上道駅 (鳥取県)（あがりみち）
+Agata Station	県駅（あがた）
+Agawa Station	阿川駅（あがわ）
+Age Station	上ゲ駅（あげ）
+Ageki Station	阿下喜駅（あげき）
+Agematsu Station	上松駅（あげまつ）
+Ageo Station	上尾駅（あげお）
+Agi Station	阿木駅（あぎ）
+Agui Station	阿久比駅（あぐい）
+Ahina Station	安比奈駅（あひな）
+Aibetsu Station	愛別駅（あいべつ）
+Aichidaigakumae Station	愛知大学前駅（あいちだいがくまえ）
+Aichikyuhaku-kinen-koen Station	愛・地球博記念公園駅（あい・ちきゅうはくきねんこうえん）
+Aichi-Mito Station	愛知御津駅（あいちみと）
+Aidai Igakubu Minamiguchi Station	愛大医学部南口駅（あいだいいがくぶみなみぐち）
+Aiga Station	相賀駅（あいが）
+Aihara Station	相原駅（あいはら）
+Aikamachi Station	秋鹿町駅（あいかまち）
+Aikan-Umetsubo Station	愛環梅坪駅（あいかんうめつぼ）
+Aikawa Station (Akita)	合川駅（あいかわ）
+Aikawa Station (Osaka)	相川駅（あいかわ）
+Aikō-Ishida Station	愛甲石田駅（あいこういしだ）
+Aimi Station	相見駅（あいみ）
+Aimoto Station (Hyogo)	藍本駅（あいもと）
+Aimoto Station (Toyama)	愛本駅（あいもと）
+Aina Station	藍那駅（あいな）
+Aino Station (Hyogo)	相野駅（あいの）
+Aino Station (Nagasaki)	愛野駅 (長崎県)（あいの）
+Aino Station (Shizuoka)	愛野駅 (静岡県)（あいの）
+Ainoki Station	相ノ木駅（あいのき）
+Ainonai Station	相内駅（あいのない）
+Ainono Station	相野々駅（あいのの）
+Ainosato-kōen Station	あいの里公園駅（あいのさとこうえん）
+Ainosato-Kyōikudai Station	あいの里教育大駅（あいのさときょいくだい）
+Ainoura Station	相浦駅（あいのうら）
+Aioi Station (Gifu)	相生駅 (岐阜県)（あいおい）
+Aioi Station (Gunma)	相老駅（あいおい）
+Aioi Station (Hyogo)	相生駅 (兵庫県)（あいおい）
+Aioiyama Station	相生山駅（あいおいやま）
+Aira Station	姶良駅（あいら）
+Aizan Station	愛山駅（あいざん）
+Aizu-Arakai Station	会津荒海駅（あいづあらかい）
+Aizu-Bange Station	会津坂下駅（あいづばんげ）
+Aizu-Gamo Station	会津蒲生駅（あいづがもう）
+Aizu-Hinohara Station	会津桧原駅（あいづひのはら）
+Aizu-Hongo Station	会津本郷駅（あいづほんごう）
+Aizu-Kawaguchi Station	会津川口駅（あいづかわぐち）
+Aizuki Station	相月駅（あいづき）
+Aizukōgen-Ozeguchi Station	会津高原尾瀬口駅（あいづこうげんおぜぐち）
+Aizu-Kosugawa Station	会津越川駅（あいづこすがわ）
+Aizuma Station	逢妻駅（あいづま）
+Aizu-Miyashita Station	会津宮下駅（あいづみやした）
+Aizu-Mizunuma Station	会津水沼駅（あいづみずぬま）
+Aizu-Nagano Station	会津長野駅（あいづながの）
+Aizu-Nakagawa Station	会津中川駅（あいづなかがわ）
+Aizu-Nishikata Station	会津西方駅（あいづにしかた）
+Aizu-Ōshio Station	会津大塩駅（あいづおおしお）
+Aizu-Sakamoto Station	会津坂本駅（あいづさかもと）
+Aizu-Sansondōjō Station	会津山村道場駅（あいづさんそんどうじょう）
+Aizu-Shimogō Station	会津下郷駅（あいづしもごう）
+Aizu-Shiozawa Station	会津塩沢駅（あいづしおざわ）
+Aizu-Tajima Station	会津田島駅（あいづたじま）
+Aizu-Takada Station	会津高田駅（あいづたかだ）
+Aizu-Toyokawa Station	会津豊川駅（あいづとよかわ）
+Aizu-Wakamatsu Station	会津若松駅（あいづわかまつ）
+Aizu-Yanaizu Station	会津柳津駅（あいづやないづ）
+Aizu-Yokota Station	会津横田駅（あいづよこた）
+Aj-Am[edit]
+Ajigasawa Station	鰺ヶ沢駅（あじがさわ）
+Ajigaura Station	阿字ヶ浦駅（あじがうら）
+Ajikawaguchi Station	安治川口駅（あじかわぐち）
+Ajiki Station	安食駅（あじき）
+Ajima Station	味鋺駅（あじま）
+Ajina Station	阿品駅（あじな）
+Ajinahigashi Station	阿品東駅（あじなひがし）
+Ajioka Station	味岡駅（あじおか）
+Ajiro Station	網代駅（あじろ）
+Ajisaka Station	味坂駅（あじさか）
+Ajisu Station	阿知須駅（あじす）
+Ajiyoshi Station (Johoku Line)	味美駅 (東海交通事業)（あじよし）
+Ajiyoshi Station (Meitetsu)	味美駅 (名鉄)（あじよし）
+Aka Station	赤駅（あか）
+Akabane Station	赤羽駅（あかばね）
+Akabanebashi Station	赤羽橋駅（あかばねばし）
+Akabane-Iwabuchi Station	赤羽岩淵駅（あかばねいわぶち）
+Akabira Station	赤平駅（あかびら）
+Akaboshi Station	赤星駅（あかぼし）
+Akabuchi Station	赤渕駅（あかぶち）
+Akado-shōgakkōmae Station	赤土小学校前駅（あかどしょうがっこうまえ）
+Akagawa Station	赤川駅（あかがわ）
+Akagi Station (Gunma)	赤城駅（あかぎ）
+Akagi Station (Nagano)	赤木駅（あかぎ）
+Akahori Station	赤堀駅（あかほり）
+Akai Station	赤井駅（あかい）
+Akaigawa Station	赤井川駅（あかいがわ）
+Akaike Station (Aichi)	赤池駅 (愛知県)（あかいけ）
+Akaike Station (Fukuoka)	赤池駅 (福岡県)（あかいけ）
+Akaike Station (Gifu)	赤池駅 (岐阜県)（あかいけ）
+Akaiwa Station	赤岩駅（あかいわ）
+Akaiwaguchi Station	赤岩口駅（あかいわぐち）
+Akaji Station	あかぢ駅
+Akakura-Onsen Station	赤倉温泉駅（あかくらおんせん）
+Akama Station	赤間駅（あかま）
+Akameguchi Station	赤目口駅（あかめぐち）
+Akamine Station	赤嶺駅（あかみね）
+Akamizu Station	赤水駅（あかみず）
+Akano Station	赤野駅（あかの）
+Akaoka Station	あかおか駅（あかおか）
+Akasaka Station (Fukuoka)	赤坂駅 (福岡県)（あかさか）
+Akasaka Station (Gunma)	赤坂駅 (群馬県)（あかさか）
+Akasaka Station (Tokyo)	赤坂駅 (東京都)（あかさか）
+Akasaka Station (Yamanashi)	赤坂駅 (山梨県)（あかさか）
+Akasaka-mitsuke Station	赤坂見附駅（あかさかみつけ）
+Akasakata Station	赤坂田駅（あかさかた）
+Akasakaue Station	赤坂上駅（あかさかうえ）
+Akasaki Station (Iwate)	赤崎駅（あかさき）
+Akasaki Station (Tottori)	赤碕駅（あかさき）
+Akasako Station	赤迫駅（あかさこ）
+Akase Station	赤瀬駅（あかせ）
+Akashi Station	明石駅（あかし）
+Akashina Station	明科駅（あかしな）
+Akatsuka Station (Ibaraki)	赤塚駅（あかつか）
+Akatsuka Station (Shimane)	明塚駅（あかつか）
+Akatsukigakuenmae Station	暁学園前駅（あかつきがくえんまえ）
+Akayu Station	赤湯駅（あかゆ）
+Akebonobashi Station	曙橋駅（あけぼのばし）
+Akechi Station (Ena, Gifu)	明智駅 (岐阜県恵那市)（あけち）
+Akechi Station (Kani, Gifu)	明智駅 (岐阜県可児市)（あけち）
+Akeno Station	明野駅（あけの）
+Aketo Station	明戸駅（あけと）
+Aki Station	安芸駅（あき）
+Akiaga Station	安芸阿賀駅（あきあが）
+Akigawa Station	秋川駅（あきがわ）
+Akihabara Station	秋葉原駅（あきはばら）
+Aki-Kameyama Station	あき亀山駅（あきかめやま）
+Aki-Kawajiri Station	安芸川尻駅（あきかわじり）
+Aki-Nagahama Station	安芸長浜駅（あきながはま）
+Aki-Nagatsuka Station	安芸長束駅（あきながつか）
+Aki-Nakano Station	安芸中野駅（あきなかの）
+Aki-Saizaki Station	安芸幸崎駅（あきさいざき）
+Akishima Station	昭島駅（あきしま）
+Akita Station	秋田駅（あきた）
+Akitakamotsu Station	秋田貨物駅（あきたかもつ）
+Akitakitakō Station	秋田北港駅（あきたきたこう）
+Akitashirakami Station	あきた白神駅（あきたしらかみ）
+Akitsu Station (Hiroshima)	安芸津駅（あきつ）
+Akitsu Station (Tokyo)	秋津駅（あきつ）
+Akiyaguchi Station	安芸矢口駅（あきやぐち）
+Akiyama Station	秋山駅（あきやま）
+Akkeshi Station	厚岸駅（あっけし）
+Akogashima Station	安子ヶ島駅（あこがしま）
+Akogi Station	阿漕駅（あこぎ）
+Akui Station	鮎喰駅（あくい）
+Akune Station	阿久根駅（あくね）
+Akuragawa Station	阿倉川駅（あくらがわ）
+Amaariki Station	海士有木駅（あまありき）
+Amagasaka Station	尼ヶ坂駅（あまがさか）
+Amagasaki Center Pool Mae Station	尼崎センタープール前駅（あまがさきせんたーぷーるまえ）
+Amagasaki Station (JR West)	尼崎駅 (JR西日本)（あまがさき）
+Amagasaki Station (Hanshin)	尼崎駅 (阪神)（あまがさき）
+Amagase Station	天ヶ瀬駅（あまがせ）
+Amagatsuji Station	尼ヶ辻駅（あまがつじ）
+Amagi Station	甘木駅（あまぎ）
+Amago Station	尼子駅（あまご）
+Amaharashi Station	雨晴駅（あまはらし）
+Amaji Station	甘地駅（あまじ）
+Amami Station	天見駅（あまみ）
+Amanohashidate Station	天橋立駅（あまのはしだて）
+Amariko Station	余子駅（あまりこ）
+Amarube Station	餘部駅（あまるべ）
+Amarume Station	余目駅（あまるめ）
+Amatsu Station	天津駅（あまつ）
+Amaya Station	あまや駅
+Amino Station	網野駅（あみの）
+Amori Station	安茂里駅（あもり）
+An-Ar[edit]
+Anabe Station	穴部駅（あなべ）
+Anabuki Station	穴吹駅（あなぶき）
+Anagawa Station (Chiba)	穴川駅 (千葉県)（あながわ）
+Anagawa Station (Mie)	穴川駅 (三重県)（あながわ）
+Anamizu Station	穴水駅（あなみず）
+Anamoriinari Station	穴守稲荷駅（あなもりいなり）
+Anan Station	阿南駅（あなん）
+Ananai Station	穴内駅（あなない）
+Anayama Station	穴山駅（あなやま）
+Andō Station	安堂駅（あんどう）
+Anebetsu Station	姉別駅（あねべつ）
+Anegasaki Station	姉ヶ崎駅（あねがさき）
+Ani-Matagi Station	阿仁マタギ駅（あにマタギ）
+Aniai Station	阿仁合駅（あにあい）
+Anihata Station	兄畑駅（あにはた）
+Ani-Maeda Station	阿仁前田駅（あにまえだ）
+Anjinzuka Station	安針塚駅(あんじんづか)
+Anjō Station	安城駅（あんじょう）
+Annaka Station	安中駅（あんなか）
+Annakaharuna Station	安中榛名駅（あんなかはるな）
+Anō Station (Fukuoka)	穴生駅（あのお）
+Anō Station (Mie)	穴太駅 (三重県)（あのう）
+Anō Station (Shiga)	穴太駅 (滋賀県)（あのお）
+Antaroma Station	安足間駅（あんたろま）
+Anzen Station	安善駅（あんぜん）
+Ao Station	粟生駅（あお）
+Aoba Station	青葉駅（あおば）
+Aobadai Station	青葉台駅（あおばだい）
+Aoba-dōri Station	あおば通駅（あおばどおり）
+Aoba-dori Ichibancho Station	青葉通一番町駅（あおばどおりいちばんちょう）
+Aobayama Station	青葉山駅（あおばやま）
+Aobe Station	青部駅（あおべ）
+Aohara Station	青原駅（あおはら）
+Aohori Station	青堀駅（あおほり）
+Aoi Station	青井駅（あおい）
+Aoidake Station	青井岳駅（あおいだけ）
+Aokura Station	青倉駅（あおくら）
+Aomi Station	青海駅 (東京都)（あおみ）
+Aomono-yokochō Station	青物横丁駅（あおものよこちょう）
+Aomori Station	青森駅（あおもり）
+Aonogahara Station	青野ヶ原駅（あおのがはら）
+Aonogō Station	青郷駅（あおのごう）
+Aonoyama Station	青野山駅（あおのやま）
+Aonuma Station	青沼駅（あおぬま）
+Aoshima Station	青島駅（あおしま）
+Aoto Station	青砥駅（あおと）
+Aotsuka Station	青塚駅（あおつか）
+Aoya Station	青谷駅（あおや）
+Aoyagi Station	青柳駅（あおやぎ）
+Aoyagichō Station	青柳町駅（あおやぎちょう）
+Aoyama Station (Aichi)	青山駅 (愛知県)（あおやま）
+Aoyama Station (Iwate)	青山駅 (岩手県)（あおやま）
+Aoyama Station (Niigata)	青山駅 (新潟県)（あおやま）
+Aoyamachō Station	青山町駅（あおやまちょう）
+Aoyama-itchōme Station	青山一丁目駅（あおやまいっちょうめ）
+Aozasa Station	青笹駅（あおざさ）
+Aōzu Station	粟生津駅（あおうづ）
+Appikōgen Station	安比高原駅（あっぴこうげん）
+Aputoichishiro Station	アプトいちしろ駅（あぷといちしろ）
+Aragakashinokidai Station	荒河かしの木台駅（あらがかしのきだい）
+Arahama Station	荒浜駅（あらはま）
+Arahata Station	荒畑駅（あらはた）
+Arai Station (Hyogo)	荒井駅 (兵庫県)（あらい）
+Arai Station (Miyagi)	荒井駅 (宮城県)（あらい）
+Arai Station (Niigata)	新井駅 (新潟県)（あらい）
+Araijuku Station	新井宿駅（あらいじゅく）
+Araimachi Station	新居町駅（あらいまち）
+Araiyakushimae Station	新井薬師前駅（あらいやくしまえ）
+Arakawa-itchūmae Station	荒川一中前駅（あらかわいっちゅうまえ）
+Arakawakuyakushomae Station	荒川区役所前駅（あらかわくやくしょまえ）
+Arakawa-nanachōme Station	荒川七丁目駅（あらかわななちょうめ）
+Arakawa-nichōme Station	荒川二丁目駅（あらかわにちょうめ）
+Arakawaoki Station	荒川沖駅（あらかわおき）
+Arakawa-shakomae Station	荒川車庫前駅（あらかわしゃこまえ）
+Arakawa-yūenchimae Station	荒川遊園地前駅（あらかわゆうえんちまえ）
+Araki Station (Fukuoka)	荒木駅（あらき）
+Araki Station (Chiba)	新木駅 (千葉県)（あらき）
+Arako Station	荒子駅（あらこ）
+Arakogawa-kōen Station	荒子川公園駅（あらこがわこうえん）
+Aramachi Station (Miyagi)	荒町駅 (宮城県)（あらまち）
+Aramachi Station (Toyama)	荒町駅 (富山県)（あらまち）
+Aramoto Station	荒本駅（あらもと）
+Arao Station (Gifu)	荒尾駅 (岐阜県)（あらお）
+Arao Station (Kumamoto)	荒尾駅 (熊本県)（あらお）
+Arase Station	荒瀬駅（あらせ）
+Arashima Station	荒島駅（あらしま）
+Arashiyama Station (Keifuku)	嵐山駅 (京福電気鉄道)（あらしやま）
+Arashiyama Station (Hankyu)	嵐山駅 (阪急)（あらしやま）
+Aratamabashi Station	新瑞橋駅（あらたまばし）
+Aratano Station	新野駅 (徳島県)（あらたの）
+Arato Station	荒砥駅（あらと）
+Araya Station (Akita)	新屋駅 (秋田県)（あらや）
+Araya Station (Gunma)	新屋駅 (群馬県)（あらや）
+Arayamae Station	荒谷前駅（あらやまえ）
+Araya-Shinmachi Station	荒屋新町駅（あらやしんまち）
+Ariake Station (Nagano)	有明駅 (長野県)（ありあけ）
+Ariake Station (Tokyo)	有明駅 (東京都)（ありあけ）
+Ariake-tennis-no-mori Station	有明テニスの森駅（ありあけてにすのもり）
+Ariake-Yue Station	有明湯江駅（ありあけゆえ）
+Arihata Station	有畑駅（ありはた）
+Arii Station	有井駅（ありい）
+Ariigawa Station	有井川駅（ありいがわ）
+Arikabe Station	有壁駅（ありかべ）
+Arimagawa Station	有間川駅（ありまがわ）
+Arimaguchi Station	有馬口駅（ありまぐち）
+Arimaonsen Station	有馬温泉駅（ありまおんせん）
+Arimatsu Station	有松駅（ありまつ）
+Arimineguchi Station	有峰口駅（ありみねぐち）
+Arioka Station	有岡駅（ありおか）
+Arisa Station	有佐駅（ありさ）
+Arisugawa Station	有栖川駅（ありすがわ）
+Arita Station	有田駅（ありた）
+Arito Station	有戸駅（ありと）
+Ariyoshi Station	在良駅（ありよし）
+As[edit]
+Asa Station	厚狭駅（あさ）
+Asabu Station	麻生駅（あさぶ）
+Asagaya Station	阿佐ヶ谷駅（あさがや）
+Asagiri Station (Hyōgo)	朝霧駅（あさぎり）
+Asagiri Station (Kumamoto)	あさぎり駅
+Asagishi Station	浅岸駅（あさぎし）
+Asahi Station (Chiba)	旭駅 (千葉県)（あさひ）
+Asahi Station (Kochi)	旭駅 (高知県)（あさひ）
+Asahi Station (Mie)	朝日駅（あさひ）
+Asahi Station (Nagano)	朝陽駅（あさひ）
+Asahibashi Station	旭橋駅（あさひばし）
+Asahigaoka Station (Miyagi)	旭ヶ丘駅 (宮城県)（あさひがおか）
+Asahigaoka Station (Miyazaki)	旭ヶ丘駅 (宮崎県)（あさひがおか）
+Asahigaoka Station (Shimane)	朝日ヶ丘駅（あさひがおか）
+Asahigaoka Station (Toyama)	旭ヶ丘駅 (富山県)（あさひがおか）
+Asahihama Station	旭浜駅（あさひはま）
+Asahikawa Station	旭川駅（あさひかわ）
+Asahikawayojō Station	旭川四条駅（あさひかわよじょう）
+Asahimae Station	旭前駅（あさひまえ）
+Asahino Station	朝日野駅（あさひの）
+Asahiōtsuka Station	朝日大塚駅（あさひおおつか）
+Asaji Station	朝地駅（あさじ）
+Asaka Station (Osaka)	浅香駅（あさか）
+Asaka Station (Saitama)	朝霞駅（あさか）
+Asakadai Station	朝霞台駅（あさかだい）
+Asakanagamori Station	安積永盛駅（あさかながもり）
+Asakawa Station	浅川駅（あさかわ）
+Asakayama Station	浅香山駅（あさかやま）
+Asakura Station (Aichi)	朝倉駅 (愛知県)（あさくら）
+Asakura Station (JR Shikoku)	朝倉駅 (JR四国)（あさくら）
+Asakura Station (Tosa Electric Railway)	朝倉駅 (土佐電気鉄道)（あさくら）
+Asakuraekimae Station	朝倉駅前駅（あさくらえきまえ）
+Asakuragaidō Station	朝倉街道駅（あさくらがいどう）
+Asakusa Station (Tokyo Metro, Toei, Tobu)	浅草駅（あさくさ）
+Asakusa Station (Tsukuba Express)	浅草駅 (首都圏新都市鉄道)（あさくさ）
+Asakusabashi Station	浅草橋駅（あさくさばし）
+Asama Station	朝熊駅（あさま）
+Asamushi-Onsen Station	浅虫温泉駅（あさむしおんせん）
+Asanai Station	浅内駅（あさない）
+Asanamachi Station	朝菜町駅（あさなまち）
+Asanami Station	浅海駅（あさなみ）
+Asano Station	浅野駅（あさの）
+Asari Station (Hokkaido)	朝里駅（あさり）
+Asari Station (Shimane)	浅利駅（あさり）
+Asashiobashi Station	朝潮橋駅（あさしおばし）
+Asato Station	安里駅（あさと）
+Aseri Station	安栖里駅（あせり）
+Ashibetsu Station	芦別駅（あしべつ）
+Ashidachi Station	足立駅（あしだち）
+Ashidaki Station	足滝駅（あしだき）
+Ashigakubo Station	芦ヶ久保駅（あしがくぼ）
+Ashigara Station (Kanagawa)	足柄駅 (神奈川県)（あしがら）
+Ashigara Station (Shizuoka)	足柄駅 (静岡県)（あしがら）
+Ashigase Station	足ヶ瀬駅（あしがせ）
+Ashigawa Station	芦川駅 (山梨県)（あしがわ）
+Ashihara Station	芦原駅（あしはら）
+Ashiharabashi Station	芦原橋駅（あしはらばし）
+Ashiharachō Station	芦原町駅（あしはらちょう）
+Ashikaga Station	足利駅（あしかが）
+Ashikaga Flower Park Station	あしかがフラワーパーク駅（あしかがふらわーぱーく）
+Ashikagashi Station	足利市駅（あしかがし）
+Ashikajima Station	海鹿島駅（あしかじま）
+Ashimori Station	足守駅（あしもり）
+Ashino-Kōen Station	芦野公園駅（あしのこうえん）
+Ashinomakionsen Station	芦ノ牧温泉駅（あしのまきおんせん）
+Ashinomakionsenminami Station	芦ノ牧温泉南駅（あしのまきおんせんみなみ）
+Ashio Station	足尾駅（あしお）
+Ashisawa Station	芦沢駅（あしさわ）
+Ashiya Station (JR West)	芦屋駅 (JR西日本)（あしや）
+Ashiya Station (Hanshin)	芦屋駅 (阪神)（あしや）
+Ashiyagawa Station	芦屋川駅（あしやがわ）
+Aso Station (Kumamoto)	阿蘇駅（あそ）
+Aso Station (Mie)	阿曽駅（あそ）
+Aso-Shimodajō-Fureai-Onsen Station	阿蘇下田城ふれあい温泉駅（あそしもだじょうふれあいおんせん）
+Aso-Shirakawa Station	阿蘇白川駅（あそしらかわ）
+Asō Station	吾桑駅（あそう）
+Asōzu Station	浅水駅（あそうず）
+Asso Station	朝来駅（あっそ）
+Asuka Station	飛鳥駅（あすか）
+Asukayama Station	飛鳥山駅（あすかやま）
+Asumomae Station	アスモ前駅（あすもまえ）
+Asunarou Yokkaichi Station	あすなろう四日市駅（あすなろうよっかいち）
+Asuwa Station	足羽駅（あすわ）
+Asuwayama-Koenguchi Station	足羽山公園口駅（あすわやまこうえんぐち）
+At-Az[edit]
+Atago Station (Chiba)	愛宕駅 (千葉県)（あたご）
+Atago Station (Miyagi)	愛宕駅 (宮城県)（あたご）
+Atagobashi Station	愛宕橋駅（あたごばし）
+Atami Station	熱海駅（あたみ）
+Atashika Station	新鹿駅（あたしか）
+Atawa Station	阿田和駅（あたわ）
+Aterazawa Station	左沢駅（あてらざわ）
+Ato Station	安登駅（あと）
+Atomic Bomb Dome Station	原爆ドーム前駅（げんばくどーむまえ）
+Atsu Station	厚保駅（あつ）
+Atsubetsu Station	厚別駅（あつべつ）
+Atsuga Station	厚賀駅（あつが）
+Atsugi Station	厚木駅（あつぎ）
+Atsumi Onsen Station	あつみ温泉駅（あつみおんせん）
+Atsunai Station	厚内駅（あつない）
+Atsuta Station	熱田駅（あつた）
+Attoko Station	厚床駅（あっとこ）
+Awa Station	安和駅（あわ）
+Awa-Akaishi Station	阿波赤石駅（あわあかいし）
+Awa-Amatsu Station	安房天津駅（あわあまつ）
+Awa-Fukui Station	阿波福井駅（あわふくい）
+Awagasaki Station	粟ヶ崎駅（あわがさき）
+Awa-Handa Station	阿波半田駅（あわはんだ）
+Awai Station	粟井駅（あわい）
+Awa-Ikeda Station	阿波池田駅（あわいけだ）
+Awaji Station	淡路駅（あわじ）
+Awajichō Station	淡路町駅（あわじちょう）
+Awa-Kainan Station	阿波海南駅（あわかいなん）
+Awa-Kamo Station	阿波加茂駅（あわかも）
+Awa-Kamogawa Station	安房鴨川駅（あわかもがわ）
+Awa-Katsuyama Station	安房勝山駅（あわかつやま）
+Awa-Kawabata Station	阿波川端駅（あわかわばた）
+Awa-Kawaguchi Station	阿波川口駅（あわかわぐち）
+Awa-Kawashima Station	阿波川島駅（あわかわしま）
+Awa-Kominato Station	安房小湊駅（あわこみなと）
+Awakuraonsen Station	あわくら温泉駅（あわくらおんせん）
+Awa-Nakashima Station	阿波中島駅（あわなかしま）
+Awano Station	粟野駅（あわの）
+Awa-Ōmiya Station	阿波大宮駅（あわおおみや）
+Awa-Ōtani Station	阿波大谷駅（あわおおたに）
+Awaraonsen Station	芦原温泉駅（あわらおんせん）
+Awara-Yunomachi Station	あわら湯のまち駅（あわらゆのまち）
+Awa-Tachibana Station	阿波橘駅（あわたちばな）
+Awa-Tomida Station	阿波富田駅（あわとみだ）
+Awaya Station	粟屋駅（あわや）
+Awa-Yamakawa Station	阿波山川駅（あわやまかわ）
+Awaza Station	阿波座駅（あわざ）
+Awazu Station (Ishikawa)	粟津駅 (石川県)（あわづ）
+Awazu Station (Shiga)	粟津駅 (滋賀県)（あわづ）
+Ayabe Station	綾部駅（あやべ）
+Ayagawa Station	綾川駅（あやがわ）
+Ayameike Station	菖蒲池駅（あやめいけ）
+Ayame Kōen Station	あやめ公園駅（あやめこうえん）
+Ayanochō Station	綾ノ町駅（あやのちょう）
+Ayaori Station	綾織駅（あやおり）
+Ayaragi Station	綾羅木駅（あやらぎ）
+Ayase Station	綾瀬駅（あやせ）
+Ayashi Station	愛子駅（あやし）
+Ayukai Station	鮎貝駅（あゆかい）
+Ayukawa Station	鮎川駅 (秋田県)（あゆかわ）
+Azabujūban Station	麻布十番駅（あざぶじゅうばん）
+Azami Station	阿左美駅（あざみ）
+Azamino Station	あざみ野駅（あざみの）
+Azamui Station	浅海井駅（あざむい）
+Azōno Station	薊野駅（あぞうの）
+Azuchi Station	安土駅（あづち）
+Azuma Station	吾妻駅（あづま）
+Azumada Station	東田駅（あずまだ）
+Azumada-Sakaue Station	東田坂上駅（あずまださかうえ）
+Azumi-Kutsukake Station	安曇沓掛駅（あずみくつかけ）
+Azumi-Oiwake Station	安曇追分駅（あずみおいわけ）
+Azusabashi Station	梓橋駅（あずさばし）

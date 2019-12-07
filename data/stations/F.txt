@@ -1,0 +1,214 @@
+Family Kōen-mae Station	ファミリー公園前駅（ふぁみりーこうえんまえ）
+Ferry Terminal Station	フェリーターミナル駅
+Flower Town Station	フラワータウン駅
+Fruits Park Station	フルーツパーク駅
+Fubasami Station	文挟駅（ふばさみ）
+Fuchidaka Station	渕高駅（ふちだか）
+Fuchigaki Station	淵垣駅（ふちがき）
+Fuchinobe Station	淵野辺駅（ふちのべ）
+Fuchū Station (Hiroshima)	府中駅 (広島県)（ふちゅう）
+Fuchū Station (Kyoto)	府中駅 (京都府)（ふちゅう）
+Fuchū Station (Tokyo)	府中駅 (東京都)（ふちゅう）
+Fuchū-Hommachi Station	府中本町駅（ふちゅうほんまち）
+Fuchū-Usaka Station	婦中鵜坂駅（ふちゅううさか）
+Fuchūkeiba-Seimon-mae Station	府中競馬正門前駅（ふちゅうけいばせいもんまえ）
+Fuda Station	布田駅（ふだ）
+Fudai Station	普代駅（ふだい）
+Fudōin-mae Station	不動院前駅（ふどういんまえ）
+Fudōmae Station	不動前駅（ふどうまえ）
+Fudōnosawa Station	不動の沢駅（ふどうのさわ）
+Fuji Station	富士駅（ふじ）
+Fujie Station	藤江駅（ふじえ）
+Fujieda Station	藤枝駅（ふじえだ）
+Fujifilm-mae Station	富士フイルム前駅（ふじふいるむまえ）
+Fujigaoka Station (Aichi)	藤が丘駅 (愛知県)（ふじがおか）
+Fujigaoka Station (Kanagawa)	藤が丘駅 (神奈川県)（ふじがおか）
+Fujii Station	藤井駅（ふじい）
+Fujiidera Station	藤井寺駅（ふじいでら）
+Fujikawa Station (Aichi)	藤川駅（ふじかわ）
+Fujikawa Station (Shizuoka)	富士川駅（ふじかわ）
+Fujikoshi Station	不二越駅（ふじこし）
+Fujikyu Highland Station	富士急ハイランド駅（ふじきゅうはいらんど）
+Fujimatsu Station	富士松駅（ふじまつ）
+Fujimi Station	富士見駅（ふじみ）
+Fujimichō Station (Kanagawa)	富士見町駅 (神奈川県)（ふじみちょう）
+Fujimichō Station (Tottori)	富士見町駅 (鳥取県)（ふじみちょう）
+Fujimidai Station	富士見台駅（ふじみだい）
+Fujimigaoka Station	富士見ヶ丘駅（ふじみがおか）
+Fujimino Station	ふじみ野駅（ふじみの）
+Fujinami Station (Wakayama)	藤並駅（ふじなみ）
+Fujinami Station (Aichi)	藤浪駅（ふじなみ）
+Fujine Station (Iwate)	藤根駅（ふじね）
+Fujine Station (Shizuoka)	富士根駅（ふじね）
+Fujino Station	藤野駅（ふじの）
+Fujinoki Station	藤ノ木駅（ふじのき）
+Fujinomiya Station	富士宮駅（ふじのみや）
+Fujinomori Station	藤森駅（ふじのもり）
+Fujinoushijima Station	藤の牛島駅（ふじのうしじま）
+Fujioka Station (Tochigi)	藤岡駅（ふじおか）
+Fujioka Station (Shizuoka)	富士岡駅（ふじおか）
+Fujisaka Station	藤阪駅（ふじさか）
+Fujisaki Station (Aomori)	藤崎駅 (青森県)（ふじさき）
+Fujisaki Station (Fukuoka)	藤崎駅 (福岡県)（ふじさき）
+Fujisakigū-mae Station	藤崎宮前駅（ふじさきぐうまえ）
+Fujisan Station	富士山駅（ふじさん）
+Fujisawa Station	藤沢駅（ふじさわ）
+Fujisawa-Hommachi Station	藤沢本町駅（ふじさわほんまち）
+Fujishima Station	藤島駅（ふじしま）
+Fujishiro Station	藤代駅（ふじしろ）
+Fujita Station	藤田駅（ふじた）
+Fujitana Station	藤棚駅（ふじたな）
+Fujitec-mae Station	フジテック前駅（ふじてっくまえ）
+Fujiyama Station	藤山駅（ふじやま）
+Fujiyamashita Station	富士山下駅（ふじやました）
+Fujū Station	藤生駅（ふじゅう）
+Fukado Station	深戸駅（ふかど）
+Fukae Station	深江駅 (兵庫県)（ふかえ）
+Fukaebashi Station	深江橋駅（ふかえばし）
+Fukagawa Station	深川駅（ふかがわ）
+Fukai Station	深井駅（ふかい）
+Fukamizo Station	深溝駅（ふかみぞ）
+Fukata Station	深田駅（ふかた）
+Fukaura Station	深浦駅（ふかうら）
+Fukaya Station	深谷駅（ふかや）
+Fukaya Hanazono Station	ふかや花園駅（ふかやはなぞの）
+Fukechō Station	深日町駅（ふけちょう）
+Fukekō Station	深日港駅（ふけこう）
+Fuki Station	富貴駅（ふき）
+Fukiage Station (Aichi)	吹上駅 (愛知県)（ふきあげ）
+Fukiage Station (Saitama)	吹上駅 (埼玉県)（ふきあげ）
+Fukkōdaimae Station	福工大前駅（ふっこうだいまえ）
+Fukkoshi Station	吹越駅（ふっこし）
+Fukōda Station	深郷田駅（ふこうだ）
+Fuku Station	福駅（ふく）
+Fukube Station	福部駅（ふくべ）
+Fukuchi Station	福地駅（ふくち）
+Fukuchiyama Station	福知山駅（ふくちやま）
+Fukuchiyama-shimin-byōin-guchi Station	福知山市民病院口駅（ふくちやましみんびょういんぐち）
+Fukudaimae Station	福大前駅（ふくだいまえ）
+Fukudaimae Nishi-Fukui Station	福大前西福井駅（ふくだいまえにしふくい）
+Fukudamachi Station	福田町駅（ふくだまち）
+Fukue Station	福江駅（ふくえ）
+Fukugami Station	福神駅（ふくがみ）
+Fukugawa Station	福川駅（ふくがわ）
+Fukuhara Station	福原駅（ふくはら）
+Fukui Station (Tochigi)	福居駅（ふくい）
+Fukui Station (Fukui)	福井駅 (福井県)（ふくい）
+Fukui Station (Okayama)	福井駅 (岡山県)（ふくい）
+Fukui Castle Ruins-daimyomachi Station	福井城址大名町駅（ふくいじょうしだいみょうまち）
+Fukui-eki Station	福井駅電停（ふくいえき）
+Fukuiguchi Station	福井口駅（ふくいぐち）
+Fukuma Station	福間駅（ふくま）
+Fukumitsu Station	福光駅（ふくみつ）
+Fukuno Station (Gifu)	福野駅 (岐阜県)（ふくの）
+Fukuno Station (Toyama)	福野駅 (富山県)（ふくの）
+Fukuoka Station	福岡駅（ふくおか）
+Fukuoka Kamotsu Terminal Station	福岡貨物ターミナル駅（ふくおかかもつたーみなる）
+Fukuokakūkō Station	福岡空港駅（ふくおかくうこう）
+Fukuonji Station	福音寺駅（ふくおんじ）
+Fukura Station	吹浦駅（ふくら）
+Fukuro Station	袋駅 (熊本県)（ふくろ）
+Fukuroda Station	袋田駅（ふくろだ）
+Fukurogura Station	袋倉駅（ふくろぐら）
+Fukuroi Station	袋井駅（ふくろい）
+Fukuro-machi Station	袋町駅（ふくろまち）
+Fukusaki Station	福崎駅（ふくさき）
+Fukushima Station (Fukushima)	福島駅 (福島県)（ふくしま）
+Fukushima Station (Osaka)	福島駅 (大阪府)（ふくしま）
+Fukushima-chō Station	福島町駅（ふくしまちょう）
+Fukushimagakuin-mae Station	福島学院前駅（ふくしまがくいんまえ）
+Fukushimaguchi Station	福島口駅（ふくしまぐち）
+Fukushima-Imamachi Station	福島今町駅（ふくしまいままち）
+Fukushima-Takamatsu Station	福島高松駅（ふくしまたかまつ）
+Fukutawara Station	福俵駅（ふくたわら）
+Fukuura Station	福浦駅（ふくうら）
+Fukuwatari Station	福渡駅（ふくわたり）
+Fukuyama Station	福山駅（ふくやま）
+Fukuyoshi Station	福吉駅（ふくよし）
+Fukuyō Station	福用駅（ふくよう）
+Fukuzumi Station	福住駅（ふくずみ）
+Fuminosato Station	文の里駅（ふみのさと）
+Funabashi Station	船橋駅（ふなばし）
+Funabashi-Hōten Station	船橋法典駅（ふなばしほうてん）
+Funabashi-Keibajō Station	船橋競馬場駅（ふなばしけいばじょう）
+Funabashi-Nichidaimae Station	船橋日大前駅（ふなばしにちだいまえ）
+Funabori Station	船堀駅（ふなぼり）
+Funagata Station	舟形駅（ふながた）
+Funahirayama Station	船平山駅（ふなひらやま）
+Funairi-hon-machi Station	舟入本町駅（ふないりほんまち）
+Funairi-kawaguchi-chō Station	舟入川口町駅（ふないりかわぐちちょう）
+Funairi-machi Station	舟入町駅（ふないりまち）
+Funairi-minami-machi Station	舟入南町駅（ふないりみなみまち）
+Funairi-saiwai-chō Station	舟入幸町駅（ふないりさいわいちょう）
+Funakoshi Station	船越駅（ふなこし）
+Funamachi Station	船町駅（ふなまち）
+Funamachiguchi Station	船町口駅（ふなまちぐち）
+Funao Station (Fukuoka)	船尾駅 (福岡県)（ふなお）
+Funao Station (Osaka)	船尾駅 (大阪府)（ふなお）
+Funaoka Station (Kyoto)	船岡駅 (京都府)（ふなおか）
+Funaoka Station (Miyagi)	船岡駅 (宮城県)（ふなおか）
+Funasa Station	船佐駅（ふなさ）
+Funato Station	船戸駅（ふなと）
+Funatsu Station (Kihoku, Mie)	船津駅 (三重県紀北町)（ふなつ）
+Funatsu Station (Toba, Mie)	船津駅 (三重県鳥羽市)（ふなつ）
+Funehiki Station	船引駅（ふねひき）
+Fūren Station	風連駅（ふうれん）
+Furano Station	富良野駅（ふらの）
+Fureai-Shōriki Station	ふれあい生力駅（ふれあいしょうりき）
+Furudate Station	古館駅（ふるだて）
+Furue Station	古江駅（ふるえ）
+Furugō Station	古国府駅（ふるごう）
+Furuichi Station (Hiroshima)	古市駅 (広島県)（ふるいち）
+Furuichi Station (Hyōgo)	古市駅 (兵庫県)（ふるいち）
+Furuichi Station (Osaka)	古市駅 (大阪府)（ふるいち）
+Furuichibashi Station	古市橋駅（ふるいちばし）
+Furujima Station	古島駅（ふるじま）
+Furukawa Station	古川駅（ふるかわ）
+Furukawabashi Station	古川橋駅（ふるかわばし）
+Furukuchi Station	古口駅（ふるくち）
+Furuma Station	古間駅（ふるま）
+Furusan Station	古山駅（ふるさん）
+Furusatokōen Station	ふるさと公園駅（ふるさとこうえん）
+Furuse Station	古瀬駅（ふるせ）
+Furushō Station	古庄駅（ふるしょう）
+Furu-Takamatsu Station	古高松駅（ふるたかまつ）
+Furutakamatsu-Minami Station	古高松南駅（ふるたかまつみなみ）
+Furutsu Station	古津駅（ふるつ）
+Fusa Station	布佐駅（ふさ）
+Fusamoto Station	総元駅（ふさもと）
+Fusazaki Station	房前駅（ふさざき）
+Fuse Station	布施駅（ふせ）
+Fushiki Station	伏木駅（ふしき）
+Fushimi Station (Aichi)	伏見駅 (愛知県)（ふしみ）
+Fushimi Station (Kyoto)	伏見駅 (京都府)（ふしみ）
+Fushimi-Inari Station	伏見稲荷駅（ふしみいなり）
+Fushimi-Momoyama Station	伏見桃山駅（ふしみももやま）
+Fushiya Station	伏屋駅（ふしや）
+Fusō Station	扶桑駅（ふそう）
+Fussa Station	福生駅(ふっさ)
+Futaba Station	双葉駅（ふたば）
+Futada Station	二田駅（ふただ）
+Futagawa Station	二川駅（ふたがわ）
+Futago Station	二子駅（ふたご）
+Futaiwa Station	双岩駅（ふたいわ）
+Futajima Station	二島駅（ふたじま）
+Futako-Shinchi Station	二子新地駅（ふたこしんち）
+Futako-Tamagawa Station	二子玉川駅（ふたこたまがわ）
+Futamata Station (Hokkaido)	二股駅（ふたまた）
+Futamata Station (Kyoto)	二俣駅（ふたまた）
+Futamatagawa Station	二俣川駅（ふたまたがわ）
+Futamata-Hommachi Station	二俣本町駅（ふたまたほんまち）
+Futamatao Station	二俣尾駅（ふたまたお）
+Futamata-Shimmachi Station	二俣新町駅（ふたまたしんまち）
+Futaminoura Station	二見浦駅（ふたみのうら）
+Futana Station	二名駅（ふたな）
+Futatsui Station	二ツ井駅（ふたつい）
+Futatsuiri Station	二ツ杁駅（ふたついり）
+Futatsuka Station	二塚駅（ふたつか）
+Futawa-Mukōdai Station	二和向台駅（ふたわむこうだい）
+Futo Station	富戸駅（ふと）
+Futomi Station	太海駅（ふとみ）
+Futsukaichi Station	二日市駅（ふつかいち）
+Fuwa-Ishiki Station	不破一色駅（ふわいしき）
+Fuya Station	府屋駅（ふや）
+Fuzokuchūgakumae Station	附属中学前駅（ふぞくちゅうがくまえ）

@@ -1,0 +1,71 @@
+Wabuchi Station	和渕駅（わぶち）
+Wabuka Station	和深駅（わぶか）
+Wachi Station	和知駅（わち）
+Wada Station	和田駅（わだ）
+Wadazuka Station	和田塚駅（わだづか）
+Wadagahara Station	和田河原駅（わだがはら）
+Wadahama Station	和田浜駅（わだはま）
+Wadamachi Station	和田町駅（わだまち）
+Wadamisaki Station	和田岬駅（わだみさき）
+Wadaura Station	和田浦駅（わだうら）
+Wadayama Station	和田山駅（わだやま）
+Wado Station	和戸駅（わど）
+Wadō Kuroya Station	和銅黒谷駅（わどうくろや）
+Wajiki Station	和食駅（わじき）
+Wajiro Station	和白駅（わじろ）
+Wakaba Station	若葉駅（わかば）
+Wakabadai Station	若葉台駅（わかばだい）
+Wakabayashi Station (Aichi)	若林駅 (愛知県)（わかばやし）
+Wakabayashi Station (Tokyo)	若林駅 (東京都)（わかばやし）
+Wakae-Iwata Station	若江岩田駅（わかえいわた）
+Wakaguri Station	若栗駅（わかぐり）
+Wakai Station	若井駅（わかい）
+Wakamatsu Station	若松駅（わかまつ）
+Wakamatsu-Kawada Station	若松河田駅（わかまつかわだ）
+Wakamiya Station	若宮駅（わかみや）
+Wakasa Station	若桜駅（わかさ）
+Wakasa-Arita Station	若狭有田駅（わかさありた）
+Wakasa-Hongō Station	若狭本郷駅（わかさほんごう）
+Wakasa-Takahama Station	若狭高浜駅（わかさたかはま）
+Wakasa-Wada Station	若狭和田駅（わかさわだ）
+Waka-Sennin Station	和賀仙人駅（わかせんにん）
+Wakayama Station	和歌山駅（わかやま）
+Wakayamadaigakumae Station	和歌山大学前駅（わかやまだいがくまえ）
+Wakayamakō Station	和歌山港駅（わかやまこう）
+Wakayamashi Station	和歌山市駅（わかやまし）
+Wakayanagi Station	若柳駅（わかやなぎ）
+Wake Station	和気駅（わけ）
+Waki Station	和木駅（わき）
+Wakigami Station	掖上駅（わきがみ）
+Wakimoto Station	脇本駅（わきもと）
+Wakinoda Station	脇野田駅（わきのだ）
+Wakinosawa Station	脇ノ沢駅（わきのさわ）
+Wakkanai Station	稚内駅（わっかない）
+Wakōshi Station	和光市駅（わこうし）
+Wakuraonsen Station	和倉温泉駅（わくらおんせん）
+Wakuya Station	涌谷駅（わくや）
+Wani Station	和邇駅（わに）
+Wanishi Station	輪西駅（わにし）
+Warabi Station	蕨駅（わらび）
+Warabitai Station	蕨岱駅（わらびたい）
+Waridashi Station	割出駅（わりだし）
+Wasa Station	和佐駅（わさ）
+Waseda Station (Toden)	早稲田駅 (東京都交通局)（わせだ）
+Waseda Station (Tokyo Metro)	早稲田駅（わせだ）
+Washibetsu Station	鷲別駅（わしべつ）
+Washizu Station	鷲津駅（わしづ）
+Washizuka-Haribara Station	鷲塚針原駅（わしづかはりばら）
+Washinomiya Station	鷲宮駅（わしのみや）
+Washinosu Station	鷲ノ巣駅（わしのす）
+Wassamu Station	和寒駅（わっさむ）
+Watada Station	和多田駅（わただ）
+Watanabebashi Station	渡辺橋駅（わたなべばし）
+Watanabedōri Station	渡辺通駅（わたなべどおり）
+Watanoha Station	渡波駅（わたのは）
+Watarase Station	渡瀬駅 (群馬県)（わたらせ）
+Watari Station (Kumamoto)	渡駅（わたり）
+Watari Station (Miyagi)	亘理駅（わたり）
+Watarigawa Station	渡川駅（わたりがわ）
+Wataze Station	渡瀬駅 (福岡県)（わたぜ）
+Wespa Tsubakiyama Station	ウェスパ椿山駅（うぇすぱつばきやま）
+Woody Town Chūō Station	ウッディタウン中央駅（うっでぃたうんちゅうおう）

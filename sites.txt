@@ -1,0 +1,5 @@
+sites = {
+"main" : "https://www.google.com/maps",
+}
+
+# https://en.wikipedia.org/wiki/List_of_railway_stations_in_Japan

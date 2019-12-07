@@ -1,0 +1,82 @@
+JA Hiroshimabyouin-mae Station	JA広島病院前駅（じぇいえーひろしまびょういんまえ）
+Jatco-mae Station	ジヤトコ前駅（じやとこまえ）
+Jichi-idai Station	自治医大駅（じちいだい）
+Jidōshagakkōmae Station	自動車学校前駅（じどうしゃがっこうまえ）
+Jieitaimae Station	自衛隊前駅（じえいたいまえ）
+Jifuku Station	地福駅（じふく）
+Jigenji Station	慈眼寺駅（じげんじ）
+Jigozen Station	地御前駅（じごぜん）
+Jike Station	寺家駅（じけ）
+Jikkokutōge Station	十国峠駅（じっこくとうげ）
+Jikkokutōge-Noboriguchi Station	十国峠登り口駅（じっこくとうげのぼりぐち）
+Jimba Station	陣場駅（じんば）
+Jimbohara Station	神保原駅（じんぼはら）
+Jimbōchō Station	神保町駅（じんぼうちょう）
+Jimmachi Station	神町駅（じんまち）
+Jimmuji Station	神武寺駅（じんむじ）
+Jimokuji Station	甚目寺駅（じもくじ）
+Jina Station	地名駅（じな）
+Jin'aigurandomae Station	仁愛グランド前駅（じんあいぐらんどまえ）
+Jin'ai Joshikōkō Station	仁愛女子高校駅（じんあいじょしこうこう）
+Jindai Station	神代駅 (秋田県)（じんだい）
+Jingūji Station	神宮寺駅（じんぐうじ）
+Jingū-mae Station	神宮前駅（じんぐうまえ）
+Jingū-Marutamachi Station	神宮丸太町駅（じんぐうまるたまち）
+Jingūnishi Station	神宮西駅（じんぐうにし）
+Jinnoharu Station	陣原駅（じんのはる）
+Jinryō Station	神領駅（じんりょう）
+Jiroenbashi Station	治良門橋駅（じろえんばし）
+Jirōmaru Station	次郎丸駅（じろうまる）
+Jiyūgaoka Station (Tokyo)	自由が丘駅（じゆうがおか）
+Jiyūgaoka Station (Aichi)	自由ヶ丘駅（じゆうがおか）
+Jizōbashi Station	地蔵橋駅（じぞうばし）
+Jizōmachi Station	地蔵町駅（じぞうまち）
+Jogakuin-mae Station	女学院前駅（じょがくいんまえ）
+Johoku Station	城北駅（じょうほく）
+Joshidai Station	女子大駅（じょしだい）
+Jōei Station	常永駅（じょうえい）
+Jōetsu-Kokusai Ski-jo-mae Station	上越国際スキー場前駅（じょうえつこくさいすきーじょうまえ）
+Jōgasakikaigan Station	城ヶ崎海岸駅（じょうがさきかいがん）
+Jōgawara Station	城川原駅（じょうがわら）
+Jōge Station	上下駅（じょうげ）
+Jōgehama Station	上下浜駅（じょうげはま）
+Jōhana Station	城端駅（じょうはな）
+Jōko Station	上戸駅 (福島県)（じょうこ）
+Jōkōji Station	定光寺駅（じょうこうじ）
+Jōmōkōgen Station	上毛高原駅（じょうもうこうげん）
+Jōno Station (JR Kyushu)	城野駅 (JR九州)（じょうの）
+Jōno Station (Kitakyushu Monorail)	城野駅 (北九州高速鉄道)（じょうの）
+Jōro Station	上呂駅（じょうろ）
+Jōshin Station	浄心駅（じょうしん）
+Jōshū-Fukushima Station	上州福島駅（じょうしゅうふくしま）
+Jōshū-Ichinomiya Station	上州一ノ宮駅（じょうしゅういちのみや）
+Jōshū-Nanokaichi Station	上州七日市駅（じょうしゅうなのかいち）
+Jōshū-Niiya Station	上州新屋駅（じょうしゅうにいや）
+Jōshū-Tomioka Station	上州富岡駅（じょうしゅうとみおか）
+Jōsui Station	浄水駅（じょうすい）
+Jōtō Station (Gunma)	城東駅（じょうとう）
+Jōtō Station (Okayama)	上道駅 (岡山県)（じょうとう）
+Jōyō Station	城陽駅（じょうよう）
+JR-Awaji Station	JR淡路駅（じぇいあーるあわじ）
+JR Fujinomori Station	JR藤森駅（じぇいあーるふじのもり）
+JR Goidō Station	JR五位堂駅（じぇいあーるごいどう）
+JR Kawachi-Eiwa Station	JR河内永和駅（じぇいあーるかわちえいわ）
+JR Miyamaki Station	JR三山木駅（じぇいあーるみやまき）
+JR Nagase Station	JR長瀬駅（じぇいあーるながせ）
+JR Namba Station	JR難波駅（じぇいあーるなんば）
+JR-Noe Station	JR野江駅（じぇいあーるのえ）
+JR Ogura Station	JR小倉駅（じぇいあーるおぐら）
+JR Shuntokumichi Station	JR俊徳道駅（じぇいあーるしゅんとくみち）
+JR-Sōjiji Station	JR総持寺駅（じぇいあーるそうじじ）
+Jūjō Station (Tokyo)	十条駅 (東京都)（じゅうじょう）
+Jūjō Station (Kyoto Municipal Subway)	十条駅 (京都市営地下鉄)（じゅうじょう）
+Jūjō Station (Kintetsu)	十条駅 (近鉄)（じゅうじょう）
+Jūkujō Station	十九条駅（じゅうくじょう）
+Jūmonji Station	十文字駅（じゅうもんじ）
+Jūnikane Station	十二兼駅（じゅうにかね）
+Jūniko Station	十二湖駅（じゅうにこ）
+Jūnikyō Station	十二橋駅（じゅうにきょう）
+Jūnisho Station	十二所駅（じゅうにしょ）
+Jūō Station	十王駅（じゅうおう）
+Jūsō Station	十三駅（じゅうそう）
+J-Village Station	Jヴィレッジ駅（じぇいびれっじ）

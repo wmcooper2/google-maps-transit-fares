@@ -1,0 +1,21 @@
+Zaikōji Station	財光寺駅（ざいこうじ）
+Zama Station	座間駅（ざま）
+Zaō Station	蔵王駅（ざおう）
+Zasshonokuma Station	雑餉隈駅（ざっしょのくま）
+Zen Station	膳駅（ぜん）
+Zendōji Station	善導寺駅（ぜんどうじ）
+Zengo Station	前後駅（ぜんご）
+Zengyō Station	善行駅（ぜんぎょう）
+Zenibako Station	銭函駅（ぜにばこ）
+Zenjino Station	善師野駅（ぜんじの）
+Zenkōji Station	善光寺駅（ぜんこうじ）
+Zenkōjishita Station	善光寺下駅（ぜんこうじした）
+Zenshōji Station	禅昌寺駅（ぜんしょうじ）
+Zentsūji Station	善通寺駅（ぜんつうじ）
+Zeze Station	膳所駅（ぜぜ）
+Zezehonmachi Station	膳所本町駅（ぜぜほんまち）
+Zōda Station	造田駅（ぞうだ）
+Zōshigaya Station	雑司が谷駅（ぞうしがや）
+Zōshiki Station	雑色駅（ぞうしき）
+Zuiko Yonchome Station	瑞光四丁目駅（ずいこうよんちょうめ）
+Zushi Station	逗子駅（ずし）

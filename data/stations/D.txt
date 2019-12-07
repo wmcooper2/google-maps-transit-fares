@@ -1,0 +1,88 @@
+Daian Station	大安駅（だいあん）
+Daianji Station	大安寺駅（だいあんじ）
+Daiba Station (Shizuoka)	大場駅（だいば）
+Daiba Station (Tokyo)	台場駅（だいば）
+Daidō Station	大道駅（だいどう）
+Daidōchō Station	大同町駅（だいどうちょう）
+Daidō-Toyosato Station	だいどう豊里駅（だいどうとよさと）
+Daifuku Station	大福駅（だいふく）
+Daigaku Station	大学駅（だいがく）
+Daigakumae Station (Nagano)	大学前駅 (長野県)（だいがくまえ）
+Daigakumae Station (Shiga)	大学前駅 (滋賀県)（だいがくまえ）
+Daigakumae Station (Toyama)	大学前停留場（だいがくまえ）
+Daigo Station (Akita)	醍醐駅 (秋田県)（だいご）
+Daigo Station (Kyoto)	醍醐駅 (京都府)（だいご）
+Daigyōji Station	大行司駅（だいぎょうじ）
+Daihō Station	大宝駅（だいほう）
+Daiichidōri Station	第一通り駅（だいいちどおり）
+Daijingūshita Station	大神宮下駅（だいじんぐうした）
+Daikai Station	大開駅（だいかい）
+Daikanchō Station	代官町駅（だいかんちょう）
+Daikan-yama Station	代官山駅（だいかんやま）
+Daikokuchō Station	大国町駅（だいこくちょう）
+Daimon Station (Aichi)	大門駅 (愛知県)（だいもん）
+Daimon Station (Hiroshima)	大門駅 (広島県)（だいもん）
+Daimon Station (Tokyo)	大門駅 (東京都)（だいもん）
+Daimotsu Station	大物駅（だいもつ）
+Dainichi Station	大日駅（だいにち）
+Dainohara Station	台原駅（だいのはら）
+Dainyū Station	大入駅（だいにゅう）
+Daisenguchi Station	大山口駅（だいせんぐち）
+Daisenji Station	大川寺駅（だいせんじ）
+Daishaka Station	大釈迦駅（だいしゃか）
+Daishimae Station	大師前駅（だいしまえ）
+Daishōji Station	大聖寺駅（だいしょうじ）
+Daitabashi Station	代田橋駅（だいたばし）
+Daitembōdai Station	大展望台駅（だいてんぼうだい）
+Daitō Station	大塔駅（だいとう）
+Daiyamukō Station	大谷向駅（だいやむこう）
+Daiyūzan Station	大雄山駅（だいゆうざん）
+Daizenji Station	大善寺駅（だいぜんじ）
+Dan Station	段駅（だん）
+Dashina Station	駄科駅（だしな）
+Date Station	伊達駅（だて）
+Date-Mombetsu Station	伊達紋別駅（だてもんべつ）
+Dazaifu Station	太宰府駅（だざいふ）
+Dekijima Station	出来島駅（できじま）
+Demachiyanagi Station	出町柳駅（でまちやなぎ）
+Dempō Station	伝法駅（でんぽう）
+Den-en-chōfu Station	田園調布駅（でんえんちょうふ）
+Dentetsu Ishida Station	電鉄石田駅（でんてついしだ）
+Dentetsu Izumoshi Station	電鉄出雲市駅（でんてついずもし）
+Dentetsu Kurobe Station	電鉄黒部駅（でんてつくろべ）
+Dentetsutāminarubiru-mae Station	電鉄ターミナルビル前駅（でんてつたーみなるびるまえ）
+Dentetsu Toyama Station	電鉄富山駅（でんてつとやま）
+Dentetsu Uozu Station	電鉄魚津駅（でんてつうおづ）
+Deto Station	出戸駅（でと）
+Detohama Station	出戸浜駅（でとはま）
+Deyashiki Station	出屋敷駅（でやしき）
+Doai Station	土合駅（どあい）
+Dobashi Station (Ehime)	土橋駅 (愛媛県)（どばし）
+Dobashi Station (Hiroshima)	土橋駅 (広島県)（どばし）
+Dobukai Station	土深井駅（どぶかい）
+Dōbutsuen Station	動物園駅（どうぶつえん）
+Dōbutsuen-mae Station	動物園前駅（どうぶつえんまえ）
+Dōbutsukōen Station	動物公園駅（どうぶつこうえん）
+Dōgokōen Station	道後公園駅（どうごこうえん）
+Dōgo-Onsen Station	道後温泉駅（どうごおんせん）
+Dogoyama Station	道後山駅（どうごやま）
+Dōhōji Station	道法寺駅（どうほうじ）
+Doi Station (Fukuoka)	土井駅（どい）
+Doi Station (Osaka)	土居駅（どい）
+Doichi Station	土市駅（どいち）
+Doida Station	土居田駅（どいだ）
+Dōjima Station	堂島駅（どうじま）
+Dōjō Station	道場駅（どうじょう）
+Dōjōji Station	道成寺駅（どうじょうじ）
+Dōjō-minamiguchi Station	道場南口駅（どうじょうみなみぐち）
+Dokkyodaigakumae Station	獨協大学前駅（どっきょうだいがくまえ）
+Domeki Station	轟駅（どめき）
+Dome-mae Station	ドーム前駅（どーむまえ）
+Dome-mae Chiyozaki Station	ドーム前千代崎駅（どーむまえちよざき）
+Domoto Station	土本駅（どもと）
+Dōmyōji Station	道明寺駅（どうみょうじ）
+Dōsen Station	洞泉駅（どうせん）
+Dōshishamae Station	同志社前駅（どうししゃまえ）
+Dōshokubutsuen-iriguchi Station	動植物園入口停留場（どうしょくぶつえんいりぐち）
+Dosokohama Station	土底浜駅（どそこはま）
+Dōtoku Station	道徳駅（どうとく）

@@ -1,0 +1,399 @@
+Yabachō Station	矢場町駅（やばちょう）
+Yabara Station	矢原駅（やばら）
+Yabase Station	八橋駅（やばせ）
+Yabashira Station	八柱駅（やばしら）
+Yabe Station	矢部駅（やべ）
+Yabitsu Station	矢美津駅（やびつ）
+Yabu Station	養父駅（やぶ）
+Yabuhara Station	藪原駅（やぶはら）
+Yabukami Station	藪神駅（やぶかみ）
+Yabuki Station	矢吹駅（やぶき）
+Yabuzuka Station	藪塚駅（やぶづか）
+Yachihata Station	谷地畑駅（やちはた）
+Yachiho Station	八千穂駅（やちほ）
+Yachimata Station	八街駅（やちまた）
+Yachiyo-Chūō Station	八千代中央駅（やちよちゅうおう）
+Yachiyodai Station	八千代台駅（やちよだい）
+Yachiyo-Midorigaoka Station	八千代緑が丘駅（やちよみどりがおか）
+Yada Station	矢田駅 (愛知県)（やだ）
+Yadamae Station	矢田前駅（やだまえ）
+Yaenosato Station	八戸ノ里駅（やえのさと）
+Yaga Station (Kanagawa)	谷峨駅（やが）
+Yaga Station (Hiroshima)	矢賀駅（やが）
+Yagami Station	矢神駅（やがみ）
+Yagawa Station	矢川駅（やがわ）
+Yagawara Station	谷河原駅（やがわら）
+Yagi Station	八木駅（やぎ）
+Yagihara Station	八木原駅（やぎはら）
+Yagi-nishiguchi Station	八木西口駅（やぎにしぐち）
+Yagiri Station	矢切駅（やぎり）
+Yagisaki Station	八木崎駅（やぎさき）
+Yagisawa Station	八木沢駅（やぎさわ）
+Yagisawa Miyakotandai Station	八木沢・宮古短大駅（やぎさわみやこたんだい）
+Yagiyama Zoological Park Station	八木山動物公園駅（やぎやまどうぶつこうえん）
+Yagoshi Station	矢越駅（やごし）
+Yagoshima Station	弥五島駅（やごしま）
+Yagoto Station	八事駅（やごと）
+Yagotonisseki Station	八事日赤駅（やごとにっせき）
+Yaguchinowatashi Station	矢口渡駅（やぐちのわたし）
+Yagumadai Station	やぐま台駅（やぐまだい）
+Yagura Station	矢倉駅（やぐら）
+Yagyū Station	柳生駅（やぎゅう）
+Yagyūbashi Station	柳生橋駅（やぎゅうばし）
+Yahaba Station	矢幅駅（やはば）
+Yahagi Station	矢作駅（やはぎ）
+Yahagibashi Station	矢作橋駅（やはぎばし）
+Yahata Station	八幡駅 (福岡県)（やはた）
+Yahiko Station	弥彦駅（やひこ）
+Yahiro Station	八広駅（やひろ）
+Yaho Station	谷保駅（やほ）
+Yairo Station	八色駅（やいろ）
+Yaita Station	矢板駅（やいた）
+Yaizu Station	焼津駅（やいづ）
+Yaka Station	八家駅（やか）
+Yakabe Station	矢加部駅（やかべ）
+Yakage Station	矢掛駅（やかげ）
+Yakawa Station	八川駅（やかわ）
+Yakeishi Station	焼石駅（やけいし）
+Yakimaki Station	八木蒔駅（やきまき）
+Yakō Station	矢向駅（やこう）
+Yakuendai Station	薬園台駅（やくえんだい）
+Yakuin Station	薬院駅（やくいん）
+Yakuin-ōdōri Station	薬院大通駅（やくいんおおどおり）
+Yakujin Station	厄神駅（やくじん）
+Yakumo Station	八雲駅（やくも）
+Yakuri Station	八栗駅（やくり）
+Yakuriguchi Station	八栗口駅（やくりぐち）
+Yakurisanjō Station	八栗山上駅（やくりさんじょう）
+Yakuri-shinmichi Station	八栗新道駅（やくりしんみち）
+Yakuri-tozanguchi Station	八栗登山口駅（やくりとざんぐち）
+Yakusa Station	八草駅（やくさ）
+Yakushidō Station (Akita)	薬師堂駅 (秋田県)（やくしどう）
+Yakushido Station (Miyagi)	薬師堂駅 (宮城県)（やくしどう）
+Yamabe Station	山部駅（やまべ）
+Yamabuki Station	山吹駅（やまぶき）
+Yamada Station (Gifu)	山田駅 (岐阜県)（やまだ）
+Yamada Station (Osaka)	山田駅 (大阪府)（やまだ）
+Yamada Station (Tokyo)	山田駅 (東京都)（やまだ）
+Yamadagawa Station	山田川駅（やまだがわ）
+Yamada-Kamiguchi Station	山田上口駅（やまだかみぐち）
+Yamadani Station	山谷駅（やまだに）
+Yamada-Nishimachi Station	山田西町駅（やまだにしまち）
+Yamadera Station	山寺駅（やまでら）
+Yamaga Station	山家駅（やまが）
+Yamagata Station	山形駅（やまがた）
+Yamagatajuku Station	山方宿駅（やまがたじゅく）
+Yamagawachi Station	山河内駅（やまがわち）
+Yamagishi Station	山岸駅（やまぎし）
+Yamaguchi Station (Aichi)	山口駅 (愛知県)（やまぐち）
+Yamaguchi Station (Yamaguchi)	山口駅 (山口県)（やまぐち）
+Yamaguchi Danchi Station	山口団地駅（やまぐちだんち）
+Yamaguma Station	山隈駅（やまぐま）
+Yamahana Jūkujō Station	山鼻19条駅（やまはなじゅうくじょう）
+Yamahana Kujō Station	山鼻9条駅（やまはなくじょう）
+Yamajō Station	山城駅（やまじょう）
+Yamakawa Station	山川駅（やまかわ）
+Yamakita Station	山北駅（やまきた）
+Yamakoshi Station	山越駅（やまこし）
+Yamamae Station	山前駅（やままえ）
+Yamamoto Station (Hyogo)	山本駅 (兵庫県)（やまもと）
+Yamamoto Station (Saga)	山本駅 (佐賀県)（やまもと）
+Yamana Station	山名駅（やまな）
+Yamanakadani Station	山中渓駅（やまなかだに）
+Yamanashishi Station	山梨市駅（やまなしし）
+Yamanishi Station	山西駅（やまにし）
+Yamanokuchi Station	山之口駅（やまのくち）
+Yamanome Station	山ノ目駅（やまのめ）
+Yamanota Station	山の田駅（やまのた）
+Yamanouchi Station (Hiroshima)	山ノ内駅 (広島県)（やまのうち）
+Yamanouchi Station (Kyoto)	山ノ内駅 (京都府)（やまのうち）
+Yamaoka Station	山岡駅（やまおか）
+Yamasaki Station	山崎駅 (北海道)（やまさき）
+Yamasato Station	山郷駅（やまさと）
+Yamase Station	山瀬駅（やませ）
+Yamashina Station	山科駅（やましな）
+Yamashiro-Aodani Station	山城青谷駅（やましろあおだに）
+Yamashiro-Taga Station	山城多賀駅（やましろたが）
+Yamashita Station (Hyogo)	山下駅 (兵庫県)（やました）
+Yamashita Station (Miyagi)	山下駅 (宮城県)（やました）
+Yamashita Station (Tokyo)	山下駅 (東京都)（やました）
+Yamate Station	山手駅（やまて）
+Yamato Station (Fukushima)	山都駅（やまと）
+Yamato Station (Ibaraki)	大和駅 (茨城県)（やまと）
+Yamato Station (Kanagawa)	大和駅 (神奈川県)（やまと）
+Yamato-Asakura Station	大和朝倉駅（やまとあさくら）
+Yamato-Futami Station	大和二見駅（やまとふたみ）
+Yamatogawa Station	大和川駅（やまとがわ）
+Yamato-Kamiichi Station	大和上市駅（やまとかみいち）
+Yamato-Koizumi Station	大和小泉駅（やまとこいずみ）
+Yamato-Saidaiji Station	大和西大寺駅（やまとさいだいじ）
+Yamato-Shinjō Station	大和新庄駅（やまとしんじょう）
+Yamato-Takada Station	大和高田駅（やまとたかだ）
+Yamato-Yagi Station	大和八木駅（やまとやぎ）
+Yamatsuriyama Station	矢祭山駅（やまつりやま）
+Yamazaki Station (Aichi)	山崎駅 (愛知県)（やまざき）
+Yamazaki Station (Kyoto)	山崎駅 (京都府)（やまざき）
+Yamoto Station	矢本駅（やもと）
+Yamubetsu Station	止別駅（やむべつ）
+Yamuramachi Station	谷村町駅（やむらまち）
+Yanaba Station	簗場駅（やなば）
+Yanaba Ski-jō Mae Station	ヤナバスキー場前駅（やなばすきーじょうまえ）
+Yanagawa Station (Okayama)	柳川駅（やながわ）
+Yanagawa Station (Fukushima)	梁川駅 (福島県)（やながわ）
+Yanagawa Station (Yamanashi)	梁川駅 (山梨県)（やながわ）
+Yanagawa-kibōnomori-kōen-mae Station	やながわ希望の森公園前駅（やながわきぼうのもりこうえんまえ）
+Yanagi Station	柳駅（やなぎ）
+Yanagigaura Station	柳ヶ浦駅（やなぎがうら）
+Yanagihara Station (Ehime)	柳原駅 (愛媛県)（やなぎはら）
+Yanagihara Station (Iwate)	柳原駅 (岩手県)（やなぎはら）
+Yanagihara Station (Nagano)	柳原駅 (長野県)（やなぎはら）
+Yanagikōji Station	柳小路駅（やなぎこうじ）
+Yanagimoto Station	柳本駅（やなぎもと）
+Yanagisawa Station	柳沢駅（やなぎさわ）
+Yanagita Station	柳田駅（やなぎた）
+Yanai Station	柳井駅（やない）
+Yanaiminato Station	柳井港駅（やないみなと）
+Yanaizu Station (Gifu)	柳津駅 (岐阜県)（やないづ）
+Yanaizu Station (Miyagi)	柳津駅 (宮城県)（やないづ）
+Yanase Station	梁瀬駅（やなせ）
+Yanasegawa Station	柳瀬川駅（やなせがわ）
+Yanaze Station	柳瀬駅（やなぜ）
+Yano Station	矢野駅（やの）
+Yanokuchi Station	矢野口駅（やのくち）
+Yao Station	八尾駅（やお）
+Yaominami Station	八尾南駅（やおみなみ）
+Yaotome Station	八乙女駅（やおとめ）
+Yariminai Station	鑓見内駅（やりみない）
+Yasaka Station (Gifu)	八坂駅 (岐阜県)（やさか）
+Yasaka Station (Tokyo)	八坂駅 (東京都)（やさか）
+Yasehieizanguchi Station	八瀬比叡山口駅（やせひえいざんぐち）
+Yashima Station (Kagawa)	屋島駅（やしま）
+Yashima Station (Akita)	矢島駅（やしま）
+Yashio Station	八潮駅（やしお）
+Yashiro Station	屋代駅（やしろ）
+Yashirochō Station	社町駅（やしろちょう）
+Yashiroda Station	矢代田駅（やしろだ）
+Yashirokōkō-mae Station	屋代高校前駅（やしろこうこうまえ）
+Yashū-Hirakawa Station	野州平川駅（やしゅうひらかわ）
+Yashū-Ōtsuka Station	野州大塚駅（やしゅうおおつか）
+Yashū-Yamabe Station	野州山辺駅（やしゅうやまべ）
+Yasoba Station	八十場駅（やそば）
+Yasu Station (Kōchi)	夜須駅（やす）
+Yasu Station (Shiga)	野洲駅（やす）
+Yasuda Station (Kōchi)	安田駅 (高知県)（やすだ）
+Yasuda Station (Niigata)	安田駅 (新潟県)（やすだ）
+Yasuzuka Station	安塚駅（やすづか）
+Yasugi Station	安来駅（やすぎ）
+Yasuhigashi Station	安東駅（やすひがし）
+Yasukuni Station	安国駅（やすくに）
+Yasunoya Station	安野屋駅（やすのや）
+Yasuoka Station	安岡駅（やすおか）
+Yasutake Station	安武駅（やすたけ）
+Yasuura Station	安浦駅（やすうら）
+Yasuushi Station	安牛駅（やすうし）
+Yata Station	矢田駅 (大阪府)（やた）
+Yatagawa Station	谷田川駅（やたがわ）
+Yatake Station	矢岳駅（やたけ）
+Yatomi Station	弥富駅（やとみ）
+Yatsu Station (Akita)	八津駅（やつ）
+Yatsu Station (Chiba)	谷津駅（やつ）
+Yatsugi Station	八次駅（やつぎ）
+Yatsuka Station	谷塚駅（やつか）
+Yatsumi Station	八積駅（やつみ）
+Yatsumori Station	八ツ森駅（やつもり）
+Yatsushima Station	八ツ島駅（やつしま）
+Yawata Station	八幡駅 (愛知県)（やわた）
+Yawatahama Station	八幡浜駅（やわたはま）
+Yawatajuku Station	八幡宿駅（やわたじゅく）
+Yawatashinden Station	八幡新田駅（やわたしんでん）
+Yayoi Station	弥生駅（やよい）
+Yayoidai Station	弥生台駅（やよいだい）
+Yayoigaoka Station	弥生が丘駅（やよいがおか）
+Yazaike Station	谷在家駅（やざいけ）
+Yazukōkōmae Station	八頭高校前駅（やずこうこうまえ）
+Yo[edit]
+Yoake Station	夜明駅（よあけ）
+Yobe Station	余部駅（よべ）
+Yobito Station	呼人駅（よびと）
+Yobitsugi Station	呼続駅（よびつぎ）
+Yobuno Station	呼野駅（よぶの）
+Yodo Station	淀駅（よど）
+Yōdo Station	用土駅（ようど）
+Yodoe Station	淀江駅（よどえ）
+Yodogawa Station	淀川駅（よどがわ）
+Yodoyabashi Station	淀屋橋駅（よどやばし）
+Yōga Station	用賀駅（ようが）
+Yogo Station	余呉駅（よご）
+Yōgo Station	余戸駅（ようご）
+Yoichi Station	余市駅（よいち）
+Yōka Station	八鹿駅（ようか）
+Yōkaichi Station	八日市駅（ようかいち）
+Yōkaichiba Station	八日市場駅（ようかいちば）
+Yōkan Station	遥堪駅（ようかん）
+Yokkaichi Station	四日市駅（よっかいち）
+Yokobori Station	横堀駅（よこぼり）
+Yokoe Station	横江駅（よこえ）
+Yōkoku Station	暘谷駅（ようこく）
+Yōkōdai Station	洋光台駅（ようこうだい）
+Yokogawa Station	横川駅 (広島県)（よこがわ）
+Yokogawa Station	横川駅|広島電鉄横川線|横川駅（よこがわ）
+Yokogawara Station	横河原駅（よこがわら）
+Yokohama Station	横浜駅（よこはま）
+Yokohama-Hazawa Station	横浜羽沢駅（よこはまはざわ）
+Yokohama-Honmoku Station	横浜本牧駅（よこはまほんもく）
+Yokoiso Station	横磯駅（よこいそ）
+Yokokawa Station	横川駅 (群馬県)（よこかわ）
+Yokokawame Station	横川目駅（よこかわめ）
+Yokokura Station (Miyagi)	横倉駅 (宮城県)（よこくら）
+Yokokura Station (Nagano)	横倉駅 (長野県)（よこくら）
+Yokoma Station	横間駅（よこま）
+Yokoo Station	横尾駅（よこお）
+Yokoshiba Station	横芝駅（よこしば）
+Yokosuka Station	横須賀駅（よこすか）
+Yokosuka-Chūō Station	横須賀中央駅（よこすかちゅうおう）
+Yokota Station	横田駅（よこた）
+Yokote Station	横手駅（よこて）
+Yokoya Station	横屋駅（よこや）
+Yokoyama Station (Hyogo)	横山駅 (兵庫県)（よこやま）
+Yokoyama Station (Ishikawa)	横山駅 (石川県)（よこやま）
+Yokoze Station	横瀬駅（よこぜ）
+Yokozutsumi Station	横堤駅（よこづつみ）
+Yomase Station	夜間瀬駅（よませ）
+Yomiuri-Land-mae Station	読売ランド前駅（よみうりらんどまえ）
+Yomogita Station	蓬田駅（よもぎた）
+Yonago Station	米子駅（よなご）
+Yonago Airport Station	米子空港駅（よなごくうこう）
+Yonaizawa Station	米内沢駅（よないざわ）
+Yonezu Station	米津駅（よねづ）
+Yonekawa Station	米川駅（よねかわ）
+Yoneyama Station	米山駅（よねやま）
+Yonezawa Station	米沢駅（よねざわ）
+Yono Station	与野駅（よの）
+Yonohonmachi Station	与野本町駅（よのほんまち）
+Yonomori Station	夜ノ森駅（よのもり）
+Yorihata Station	寄畑駅（よりはた）
+Yorii Station	寄居駅（よりい）
+Yoroi Station	鎧駅（よろい）
+Yoshibori Station	吉堀駅（よしぼり）
+Yosano Station	与謝野駅（よさの）
+Yoshida Station	吉田駅 (新潟県)（よしだ）
+Yoshidaguchi Station	吉田口駅（よしだぐち）
+Yoshizuka Station	吉塚駅（よしづか）
+Yoshihama Station (Aichi)	吉浜駅 (愛知県)（よしはま）
+Yoshihama Station (Iwate)	吉浜駅 (岩手県)（よしはま）
+Yoshii Station (Gunma)	吉井駅 (群馬県)（よしい）
+Yoshii Station (Nagasaki)	吉井駅 (長崎県)（よしい）
+Yoshiike-onsenmae Station	葭池温泉前駅（よしいけおんせんまえ）
+Yoshikawa Station (Ishikawa)	良川駅（よしかわ）
+Yoshikawa Station (Saitama)	吉川駅（よしかわ）
+Yoshikawa Station (Kochi)	よしかわ駅
+Yoshikawakōen Station	葭川公園駅（よしかわこうえん）
+Yoshikawa-Minami Station	吉川美南駅（よしかわみなみ）
+Yoshimatsu Station	吉松駅（よしまつ）
+Yoshimi Station	吉見駅（よしみ）
+Yoshiminosato Station	吉見ノ里駅（よしみのさと）
+Yoshimizu Station	吉水駅（よしみず）
+Yoshina Station	吉名駅（よしな）
+Yoshinaga Station	吉永駅（よしなが）
+Yoshinari Station	吉成駅（よしなり）
+Yoshino Station (Fukuoka)	吉野駅 (福岡県)（よしの）
+Yoshino Station (Nara)	吉野駅 (奈良県)（よしの）
+Yoshinobu Station	吉野生駅（よしのぶ）
+Yoshinochō Station	吉野町駅（よしのちょう）
+Yoshinogarikōen Station	吉野ヶ里公園駅（よしのがりこうえん）
+Yoshinoguchi Station	吉野口駅（よしのぐち）
+Yoshinohara Station	吉野原駅（よしのはら）
+Yoshinojingū Station	吉野神宮駅（よしのじんぐう）
+Yoshio Station	吉尾駅（よしお）
+Yoshioka-Kaitei Station	吉岡海底駅（よしおかかいてい）
+Yoshita Station	吉田駅 (大阪府)（よした）
+Yoshitomi Station (Fukuoka)	吉富駅 (福岡県)（よしとみ）
+Yoshitomi Station (Kyoto)	吉富駅 (京都府)（よしとみ）
+Yoshiura Station	吉浦駅（よしうら）
+Yoshiwara Station	吉原駅（よしわら）
+Yoshiwara-honchō Station	吉原本町駅（よしわらほんちょう）
+Yoshizawa Station	吉沢駅（よしざわ）
+Yotsubashi Station	四ツ橋駅（よつばし）
+Yotsugi Station	四ツ木駅（よつぎ）
+Yotsugoya Station	四ツ小屋駅（よつごや）
+Yotsukaidō Station	四街道駅（よつかいどう）
+Yotsukura Station	四ツ倉駅（よつくら）
+Yotsutsuji Station	四辻駅（よつつじ）
+Yotsuya Station	四ツ谷駅（よつや）
+Yotsuya-Sanchōme Station	四谷三丁目駅（よつやさんちょうめ）
+Yōrō Station	養老駅（ようろう）
+Yōrōkeikoku Station	養老渓谷駅（ようろうけいこく）
+Yōsonkōen Station	養鱒公園駅（ようそんこうえん）
+Yowara Station	榎原駅（よわら）
+Yoyogi Station	代々木駅（よよぎ）
+Yoyogi-Hachiman Station	代々木八幡駅（よよぎはちまん）
+Yoyogi-Kōen Station	代々木公園駅（よよぎこうえん）
+Yoyogi-Uehara Station	代々木上原駅（よよぎうえはら）
+YRP Nobi Station	YRP野比駅（ワイアールピーのび）
+Yu[edit]
+Yū Station	由宇駅（ゆう）
+Yuasa Station	湯浅駅（ゆあさ）
+Yūbari Station	夕張駅（ゆうばり）
+Yūbikan Station	有備館駅（ゆうびかん）
+Yubiso Station	湯檜曽駅（ゆびそ）
+Yūchi Station	勇知駅（ゆうち）
+Yudakinshūko Station	ゆだ錦秋湖駅（ゆだきんしゅうこ）
+Yudakōgen Station	ゆだ高原駅（ゆだこうげん）
+Yudamura Station	湯田村駅（ゆだむら）
+Yudanaka Station	湯田中駅（ゆだなか）
+Yudaonsen Station	湯田温泉駅（ゆだおんせん）
+Yue Station	湯江駅（ゆえ）
+Yūenchi-Nishi Station	遊園地西駅（ゆうえんちにし）
+Yufuin Station	由布院駅（ゆふいん）
+Yūfutsu Station	勇払駅（ゆうふつ）
+Yugawara Station	湯河原駅（ゆがわら）
+Yuge Station	弓削駅（ゆげ）
+Yūhigaura-Kitsu-onsen Station	夕日ヶ浦木津温泉駅（ゆうひがうらきつおんせん）
+Yui Station	由比駅（ゆい）
+Yuigahama Station	由比ヶ浜駅（ゆいがはま）
+Yukaba Station	行波駅（ゆかば）
+Yūkarigaoka Station	ユーカリが丘駅（ゆーかりがおか）
+Yukawa Station	湯川駅（ゆかわ）
+Yuki Station (Hiroshima)	油木駅（ゆき）
+Yuki Station (Tokushima)	由岐駅（ゆき）
+Yūki Station	結城駅（ゆうき）
+Yukigaya-Ōtsuka Station	雪が谷大塚駅（ゆきがやおおつか）
+Yukuhashi Station	行橋駅（ゆくはし）
+Yumegaoka Station	ゆめが丘駅（ゆめがおか）
+Yumemino Station	ゆめみ野駅（ゆめみの）
+Yumesakigawa Station	夢前川駅（ゆめさきがわ）
+Yumigahama Station	弓ヶ浜駅（ゆみがはま）
+Yumoto Station	湯本駅（ゆもと）
+Yuni Station	由仁駅（ゆに）
+Yunishigawaonsen Station	湯西川温泉駅（ゆにしがわおんせん）
+Yuno Station	湯野駅（ゆの）
+Yunohira Station	湯平駅（ゆのひら）
+Yunohora-Onsen-guchi Station	湯の洞温泉口駅（ゆのほらおんせんぐち）
+Yunokamionsen Station	湯野上温泉駅（ゆのかみおんせん）
+Yunoki Station (Shizuoka, Shizuoka)	柚木駅 (静岡県静岡市)（ゆのき）
+Yunoki Station (Fuji, Shizuoka)	柚木駅 (静岡県富士市)（ゆのき）
+Yunomae Station	湯前駅（ゆのまえ）
+Yunomoto Station	湯之元駅（ゆのもと）
+Yunoo Station	湯尾駅（ゆのお）
+Yunotai Station	湯ノ岱駅（ゆのたい）
+Yunotō Station	湯ノ峠駅（ゆのとう）
+Yunotsu Station	温泉津駅（ゆのつ）
+Yunoura Station	湯浦駅（ゆのうら）
+Yunoyamaonsen Station	湯の山温泉駅（ゆのやまおんせん）
+Yura Station	由良駅（ゆら）
+Yūrakuchō Station	有楽町駅（ゆうらくちょう）
+Yurigahara Station	百合が原駅（ゆりがはら）
+Yurigaoka Station	百合ヶ丘駅（ゆりがおか）
+Yusato Station	湯里駅（ゆさと）
+Yushima Station (Iwate)	油島駅（ゆしま）
+Yushima Station (Tokyo)	湯島駅（ゆしま）
+Yusu Station	柚須駅（ゆす）
+Yusubaru Station	油須原駅（ゆすばる）
+Yutama Station	湯玉駅（ゆたま）
+Yūtari Station	勇足駅（ゆうたり）
+Yūtenji Station	祐天寺駅（ゆうてんじ）
+Yuyaonsen Station	湯谷温泉駅（ゆやおんせん）
+Yuza Station	遊佐駅（ゆざ）
+Yūzaki Station	結崎駅（ゆうざき）
+Yuzawa Station	湯沢駅（ゆざわ）
+Yuze-Onsen Station	湯瀬温泉駅（ゆぜおんせん）
