@@ -83,19 +83,29 @@ def locate_click(image: Text) -> None:
     pyautogui.click()
 
 
-def capture_fare(saveto: Text) -> None:
-    """Screenshot the first fare price. Returns None."""
-    try:
-        yenX, yenY = pyautogui.locateCenterOnScreen(
-            "icons/yen.png", confidence=0.9)
-        pyautogui.moveTo(yenX, yenY)
-        price = pyautogui.screenshot(
-            region=(yenX-10, yenY-10, 45, 20))
-        price.save(saveto)
-        print(f"saved: {saveto}")
-    except TypeError:
-        print("Yen symbol not found. Quitting.")
-        exit()
+def capture_fare(saveto: Text) -> bool:
+    """Screenshot the first fare price. Returns bool."""
+    attempts = 0
+    max_attempts = 5
+    while attempts < max_attempts:
+        try:
+            yenX, yenY = pyautogui.locateCenterOnScreen(
+                "icons/yen.png", confidence=0.9)
+            pyautogui.moveTo(yenX, yenY)
+            price = pyautogui.screenshot(
+                region=(yenX-10, yenY-10, 60, 20))
+            price.save(saveto)
+            print(f"saved: {saveto}")
+            attempts += max_attempts
+        except TypeError:
+            print("Yen symbol not found. Quitting.")
+            return False
+        except:
+            print("unknown error with capture_fare()")
+            return False
+        wait(2)
+        attempts += 1
+    return True
 
 
 def change_starting_station(start: Text) -> None:
