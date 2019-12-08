@@ -1,6 +1,6 @@
 from time import sleep as wait
 from util import load_stations
-from util import load_stations2
+from util import load_stations_long_name
 from util import file_counter
 from util import fares_already_scraped
 from milestones import confirm_start
@@ -11,17 +11,25 @@ icons = "icons/"
 direction_arrow1 = icons+"directionarrow1.png"
 direction_arrow2 = icons+"directionarrow2.png"
 issue_stations = "data/stations/issuestations.txt"
+station_file = "data/stations/C.txt"
 
 
 #for each destination choice (decided before hand)
 # dest = f"{stations.pop(0)} Station"
-dest = "Shinjuku Station"
+dest = "Shinjuku Station" # change for different target venues
+
+# all_stations = set(load_stations("data/trains/Keio.txt")) # for testing
+all_stations = set(load_stations("data/trains/TokyoMetro.txt")) # for testing
+# all_stations = set(load_stations_long_name(station_file))
 fare_count = file_counter(fares)
-print(f"starting fare count: {fare_count}")
 stations_finished = fares_already_scraped(fares)
-# all_stations = set(load_stations("data/trains/Keio.txt"))
-all_stations = set(load_stations2("data/stations/A.txt"))
-fares_waiting = all_stations.difference(stations_finished)
+error_stations = set(load_stations(issue_stations))
+fares_waiting = all_stations.difference(stations_finished, error_stations)
+print(f"Stations in {station_file}: {len(all_stations)}")
+print(f"Fares already collected: {fare_count}")
+print(f"Error stations: {len(error_stations)}")
+print(f"Fares waiting to be collected: {len(fares_waiting)}")
+
 
 # dest == start, nonsense
 if dest in fares_waiting:
