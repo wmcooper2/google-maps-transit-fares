@@ -1,46 +1,28 @@
-from time import sleep as wait
-from util import load_stations
-from util import load_stations_long_name
-from util import file_counter
-from util import fares_already_scraped
-from milestones import confirm_start
+from constants import *
 from googlemaps import *
+from milestones import confirm_start
+from time import sleep as wait
+from util import *
 
-fares = "fares/"
-icons = "icons/"
-direction_arrow1 = icons+"directionarrow1.png"
-direction_arrow2 = icons+"directionarrow2.png"
-issue_stations = "data/stations/issuestations.txt"
-station_file = "data/stations/C.txt"
-
+dest = "Shinjuku Station" # change for different target venues
+target_stations = "data/trains/TokyoMetro.txt"
 
 #for each destination choice (decided before hand)
 # dest = f"{stations.pop(0)} Station"
-dest = "Shinjuku Station" # change for different target venues
+# all_stations = set(load_stations_long_name(STATION_FILE))
 
-# all_stations = set(load_stations("data/trains/Keio.txt")) # for testing
-all_stations = set(load_stations("data/trains/TokyoMetro.txt")) # for testing
-# all_stations = set(load_stations_long_name(station_file))
-fare_count = file_counter(fares)
-stations_finished = fares_already_scraped(fares)
-error_stations = set(load_stations(issue_stations))
-fares_waiting = all_stations.difference(stations_finished, error_stations)
-print(f"Stations in {station_file}: {len(all_stations)}")
+fares_waiting = load_fares_waiting(target_stations)
+fare_count = file_counter(FARES)
 print(f"Fares already collected: {fare_count}")
-print(f"Error stations: {len(error_stations)}")
-print(f"Fares waiting to be collected: {len(fares_waiting)}")
 
-
-# dest == start, nonsense
 if dest in fares_waiting:
     fares_waiting.remove(dest)
 
 stations = list(fares_waiting)
+print(f"Fares waiting to be collected: {len(stations)}")
+
 stations.sort()
 print(stations[0])
-print(f"fares waiting to be collected: {len(stations)}")
-# stations = load_stations("data/trains/Keio.txt")
-# exit()
 
 
 #to switch desktops
@@ -53,10 +35,10 @@ enter_text(dest)
 
 #2 different versions from google maps
 try: 
-    locate_click(direction_arrow1)
+    locate_click(DIRECTION_ARROW1)
 except TypeError:
     print("Normal arrow not found, trying other arrow")
-    locate_click(direction_arrow2)
+    locate_click(DIRECTION_ARROW2)
 
 
 while len(stations) > 0:
@@ -69,17 +51,17 @@ while len(stations) > 0:
         #just quit
         print("Too many errors. Quitting...")
         exit()
-    if station in load_stations(issue_stations):
+    if station in load_stations(ISSUE_STATIONS):
         continue
     else:
         # if capturing the fare image was successful
-        if capture_fare(f"{fares}{start}_{dest}.png"):
-            assert fare_count == file_counter(fares) - 1
+        if capture_fare(f"{FARES}{start}_{dest}.png"):
+#             assert fare_count == file_counter(FARES) - 1
             fare_count += 1
         else:
             print("Unable to locate the fare. Quitting...")
             # add station to issue file
-            with open(issue_stations, "a+") as f:
+            with open(ISSUE_STATIONS, "a+") as f:
                 f.write(station+"\n")
             errors += 1
 

@@ -110,6 +110,7 @@ def capture_fare(saveto: Text) -> bool:
 
 def change_starting_station(start: Text) -> None:
     """Changes the starting station. Returns None."""
+    wait(1)
     locate("icons/transit.png")
     pyautogui.moveRel(0, 45)
     pyautogui.click()

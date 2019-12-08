@@ -1,0 +1,6 @@
+FARES = "fares/"
+ICONS = "icons/"
+DIRECTION_ARROW1 = ICONS+"directionarrow1.png"
+DIRECTION_ARROW2 = ICONS+"directionarrow2.png"
+ISSUE_STATIONS = "data/stations/issuestations.txt"
+STATION_FILE = "data/stations/C.txt"

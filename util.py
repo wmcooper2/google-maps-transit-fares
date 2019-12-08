@@ -1,3 +1,4 @@
+from constants import *
 from pathlib import Path
 from typing import List, Set, Text
 
@@ -43,3 +44,18 @@ def file_counter(_dir: Text) -> int:
 def fares_already_scraped(_dir: Text) -> Set[Text]:
     """Loads names of stations already looked up. Returns set."""
     return set([str(p.name).split(" ")[0] for p in Path(_dir).iterdir()])
+
+
+def load_fares_waiting(_file: Text) -> Set[Text]:
+    """Loads names of stations waiting to be scraped. Returns Set."""
+    all_stations = set(load_stations(_file))
+    stations_finished = fares_already_scraped(FARES)
+    error_stations = set(load_stations(ISSUE_STATIONS))
+
+    #print simple stats, delete before wrapping up
+    #send to log
+    print(f"Stations in {STATION_FILE}: {len(all_stations)}")
+    print(f"Error stations: {len(error_stations)}")
+    return all_stations.difference(stations_finished, error_stations)
+
+
