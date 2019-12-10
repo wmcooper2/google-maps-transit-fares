@@ -16,7 +16,7 @@ def get_fares_from_google_maps():
 
     wait(3)  # manually switch desktop
     goto_search_input()
-    enter_text(DEST)
+    enter_text(f"{DEST} Station")
     wait(3)
     locate_directions_arrow()
     wait(2)
@@ -25,17 +25,16 @@ def get_fares_from_google_maps():
     while len(stations) > 0:
         errors = 0
         station = stations.pop(0)
-        st_name = f"{station} Station"
-        change_starting_station(st_name) 
+        change_starting_station(f"{station} Station") 
 
         if errors > 20:
             LOG.debug("Too many errors. Quitting...")
             exit()
         if station not in load_stations(ISSUE_STATIONS):
-            if capture_fare(f"{FARES}{st_name}_{DEST}.png"):
+            if capture_fare(station):
                 fare_count += 1
             else:
-                LOG.debug(f"Fare not found: {st_name} to {DEST}")
+                LOG.debug(f"Fare not found: {station} to {DEST}")
                 with open(ISSUE_STATIONS, "a+") as f:
                     f.write(station+"\n")
                 errors += 1

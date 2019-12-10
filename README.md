@@ -23,18 +23,17 @@ This tool is intended to extract the transit fares from Google Maps.
 
 ## Train Data
 This minimum viable product does not include bus routes and stops.
-It does not include all the train stations.
+It does not include all the train stations, yet.
+Mostly, I am working with data in the Tokyo area.
 
 
 ### Major Steps
-1. Open Google Chrome browser and go to Google Maps
-  * Easier to do this manually
+__Performed mostly by the program, not the user__
+1. Open Google Chrome browser and go to Google Maps.
+  * Easier to do this manually.
 2. Enter a destination into the search input.
-3. Enter a starting station
-4. Screenshot the price
+3. Enter a starting station.
+4. Screenshot the transit fare.
 5. Extract the text from the image.
-6. Save the text with the station info.
-7. Repeat from 3.
-
-
-
+6. Save the fare with the station info.
+7. Repeat from 3 until all trip data is collected.

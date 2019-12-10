@@ -95,8 +95,9 @@ def locate_directions_arrow() -> None:
         locate_click(ARROW2)
 
 
-def capture_fare(saveto: Text) -> bool:
+def capture_fare(start: Text) -> bool:
     """Screenshot the first fare price. Returns bool."""
+    save_to: Text = f"{FARES}{start}_{DEST}.png"
     attempts = 0
     max_attempts = 5
     while attempts < max_attempts:
@@ -106,15 +107,15 @@ def capture_fare(saveto: Text) -> bool:
             pyautogui.moveTo(yenX, yenY)
             img = pyautogui.screenshot(
                 region=(yenX-10, yenY-10, 60, 20))
-            img.save(saveto)
+            img.save(save_to)
             actual_fare = image_to_fare(img)  # pytesseract
-            LOG.debug(f"{actual_fare}, {saveto}")
-#             LOG.info(f"saved: {saveto}")
+            with open("results/TokyoMetro.txt", "a+") as f:
+                f.write(f"{actual_fare}_{DEST}_{start}\n")
             return True
         except TypeError:
-            LOG.debug("Yen symbol not found. Quitting.")
+            LOG.debug("Yen symbol not found. Skipping...")
         except:
-            LOG.debug("Unknown error with capture_fare()")
+            LOG.debug("Unknown error with capture_fare(). Quitting...")
             attempts += max_attempts
             return False
         wait(2)

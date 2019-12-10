@@ -26,7 +26,7 @@ LOG.info("test of debug log")
 # logger.debug('debug message')
 
 
-DEST = "Shinjuku Station" # change for different target venues
+DEST = "Shinjuku" # change for different target venues
 FARES = "fares/"
 ICONS = "icons/"
 ISSUE_STATIONS = "data/stations/issuestations.txt"
