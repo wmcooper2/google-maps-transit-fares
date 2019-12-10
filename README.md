@@ -2,21 +2,24 @@
 This tool is intended to extract the transit fares from Google Maps.
 
 ## Operation
-1. Manually set up Google Maps (see `manualsetup.png`)
-2. run `scrape.py` from the terminal, and make sure google maps is the only thing on the screen.
-3. price extraction program is separate from the scraping program, for now.
+1. Manually set up Google Maps
+  * (on MacBook Air, 13inch screen), make new desktop and open Google Chrome browser.
+  * Make the browser full screen (click on the green button).
+  * Go back to the desktop with the open terminal.
+2. Run `main.py` and switch to the google maps desktop within 3 seconds.
+3. The program will take control of the mouse and keyboard. Don't touch it.
+4. You can regain control by using the fail-safe.
+  * Move the mouse into the upper left corner of the screen and wait a moment.
 
 ### File Descriptions
+* main.py
+    * the main file.
 * scrape.py
-    * main file.
+    * high level commands, the basic workflow.
+* constants.py
+    * global constants
 * directurlinput.py
     * input the destination and starting stations directly into the browser to avoid some gui manipulation steps.
-* openmaps.py
-    * this doesn't seem too necessary. It's easier just to manually prepare Google Maps, then start the program.
-* fileparser.py
-    * loads train station lists.
-* getprices.py
-    * extract the prices from images and save to a single json object.
 
 ## Train Data
 This minimum viable product does not include bus routes and stops.

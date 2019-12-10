@@ -1,6 +1,7 @@
 from constants import *
 from pathlib import Path
-from typing import List, Set, Text
+import pytesseract
+from typing import Any, List, Set, Text
 
 def load_stations(stations: Text) -> List[Text]:
     """Load station names. Returns List.
@@ -51,11 +52,18 @@ def load_fares_waiting(_file: Text) -> Set[Text]:
     all_stations = set(load_stations(_file))
     stations_finished = fares_already_scraped(FARES)
     error_stations = set(load_stations(ISSUE_STATIONS))
-
-    #print simple stats, delete before wrapping up
-    #send to log
-    print(f"Stations in {STATION_FILE}: {len(all_stations)}")
-    print(f"Error stations: {len(error_stations)}")
     return all_stations.difference(stations_finished, error_stations)
 
 
+def extract_num(num: Text) -> Text:
+    """Extracts the number portion of num. Returns string."""
+    return num.split("¥")[-1]
+
+
+def image_to_fare(img: Any) -> int:
+    """Converts png image of price to a number. Returns int."""
+    num = pytesseract.image_to_string(img)
+    try: 
+        return int(num)
+    except ValueError:
+        return int(extract_num(num))

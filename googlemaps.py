@@ -1,27 +1,33 @@
+try:
+    from PIL import Image
+except ImportError:
+    import Image
+
+from constants import *
+from pathlib import Path
 import pyautogui
+import pytesseract
 from typing import Text
 from time import sleep as wait
+from util import image_to_fare
 pyautogui.PAUSE = 1
 pyautogui.FAILSAFE = True
 
 
-# silence tkinter warning from pyautogui, doesnt work
-# TK_SILENCE_DEPRECATION = 1
-
-
 def goto_maps():
     """Opens Google Maps in Chrome browser. Returns None."""
-    # find google chrome, center mouse on icon
-    chrome_x, chrome_y = pyautogui.locateCenterOnScreen("icons/googlechrome.png", confidence=0.9)
+    chrome_x, chrome_y = pyautogui.locateCenterOnScreen(
+            CHROME, confidence=0.9)
 
-    # weird thing with the dock, it moves the icon to the left a little.
+    # weird thingthe dock, it moves the icon to the left a little.
     pyautogui.moveTo(chrome_x-20, chrome_y)
     pyautogui.click()
     wait(1)
 
     # expand to fullscreen, for consistency
-    fullscreendot_x, fullscreendot_y = pyautogui.locateCenterOnScreen("icons/fullscreendot.png")
-    pyautogui.moveTo(fullscreendot_x+3, fullscreendot_y+3)
+    fullscreen_x, fullscreen_y = pyautogui.locateCenterOnScreen(
+            FULLSCREENDOT)
+    pyautogui.moveTo(fullscreen_x+3, fullscreen_y+3)
     pyautogui.click()
     wait(1)
 
@@ -30,12 +36,12 @@ def goto_maps():
     wait(1)
 
     # find google maps, click
-    maps_x, maps_y = pyautogui.locateCenterOnScreen("icons/googlemaps.png")
+    maps_x, maps_y = pyautogui.locateCenterOnScreen(MAPS)
     pyautogui.moveTo(maps_x, maps_y)
     pyautogui.click()
 
     # if maps icon is still on the screen click again
-    if pyautogui.locateCenterOnScreen("icons/googlemaps.png"):
+    if pyautogui.locateCenterOnScreen(MAPS):
         pyautogui.moveTo(maps_x, maps_y)
     pyautogui.click()
 wait(1)
@@ -47,25 +53,22 @@ def switch_desktop():
     wait(1)
 
 
-def goto_search_input():
-    """Puts focus on the Google Maps search input field."""
+def goto_search_input() -> None:
+    """Puts focus on the Google Maps search input field. Returns None."""
     try:
-        search_x, search_y = pyautogui.locateCenterOnScreen(
-                "icons/searchinput.png", confidence=0.9,
-                region=(50, 100, 250, 200))
-        pyautogui.moveTo(search_x, search_y)
+        x, y = pyautogui.locateCenterOnScreen(
+            SEARCH_INPUT, confidence=0.9,
+            region=(100, 120, 130, 40))
+        pyautogui.click(x, y)
     except TypeError:
-#         pyautogui.alert(text='Google Maps search input not found', title='', button='OK')
-        print("Search input not found. Quitting...")
+        LOG.debug("Search input not found. Quitting...")
         exit()
-    pyautogui.click()
 
 
 def enter_text(dest: Text) -> None:
     """Enter text into search input. Returns None."""
-    pyautogui.typewrite(dest, interval=0.1)
+    pyautogui.typewrite(dest, interval=0.15)
     pyautogui.press("enter")
-    wait(3)
 
 
 def locate(image: Text) -> None:
@@ -77,10 +80,19 @@ def locate(image: Text) -> None:
 
 def locate_click(image: Text) -> None:
     """Locates, clicks image. Returns None."""
-    dirX, dirY = pyautogui.locateCenterOnScreen(
-        image, confidence=0.9)
+    dirX, dirY = pyautogui.locateCenterOnScreen(image, confidence=0.9)
     pyautogui.moveTo(dirX, dirY)
     pyautogui.click()
+
+
+def locate_directions_arrow() -> None:
+    """Locates, clicks directions arrow image. Returns None."""
+    # 2 different versions from google maps
+    try: 
+        locate_click(ARROW1)
+    except TypeError:
+        LOG.debug("{ARROW1} not found. Trying {ARROW2}.")
+        locate_click(ARROW2)
 
 
 def capture_fare(saveto: Text) -> bool:
@@ -89,30 +101,30 @@ def capture_fare(saveto: Text) -> bool:
     max_attempts = 5
     while attempts < max_attempts:
         try:
-            yenX, yenY = pyautogui.locateCenterOnScreen(
-                "icons/yen.png", confidence=0.9)
+            yenX, yenY = pyautogui.locateCenterOnScreen(YEN,
+                    region=(50, 460, 80, 50), confidence=0.9)
             pyautogui.moveTo(yenX, yenY)
-            price = pyautogui.screenshot(
+            img = pyautogui.screenshot(
                 region=(yenX-10, yenY-10, 60, 20))
-            price.save(saveto)
-            print(f"saved: {saveto}")
-            attempts += max_attempts
+            img.save(saveto)
+            actual_fare = image_to_fare(img)  # pytesseract
+            LOG.debug(f"{actual_fare}, {saveto}")
+#             LOG.info(f"saved: {saveto}")
+            return True
         except TypeError:
-            print("Yen symbol not found. Quitting.")
-            return False
+            LOG.debug("Yen symbol not found. Quitting.")
         except:
-            print("unknown error with capture_fare()")
+            LOG.debug("Unknown error with capture_fare()")
+            attempts += max_attempts
             return False
         wait(2)
         attempts += 1
-    return True
 
 
-def change_starting_station(start: Text) -> None:
-    """Changes the starting station. Returns None."""
-    wait(1)
-    locate("icons/transit.png")
+def change_starting_station(st_name: Text) -> None:
+    """Changes starting station in search input. Returns None."""
+    locate(TRANSIT)
     pyautogui.moveRel(0, 45)
     pyautogui.click()
-    enter_text(start)
+    enter_text(st_name)
 
