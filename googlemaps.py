@@ -47,10 +47,9 @@ def goto_maps():
 wait(1)
 
 
-def switch_desktop():
-    """Move to the left desktop. Returns None."""
-    pyautogui.hotkey("ctrl", "left")
-    wait(1)
+def swipe_desktop(direction: Text) -> None:
+    """Swipes desktop to 'direction'. Returns None."""
+    pyautogui.hotkey("ctrl", direction)
 
 
 def goto_search_input() -> None:
@@ -87,17 +86,24 @@ def locate_click(image: Text) -> None:
 
 def locate_directions_arrow() -> None:
     """Locates, clicks directions arrow image. Returns None."""
-    # 2 different versions from google maps
-    try: 
-        locate_click(ARROW1)
-    except TypeError:
-        LOG.debug("{ARROW1} not found. Trying {ARROW2}.")
-        locate_click(ARROW2)
+    attempts, max_attempts = 0, 5
+    while attempts < max_attempts:
+        try: 
+            locate_click(ARROW1)
+            attempts += max_attempts
+        except TypeError:
+            LOG.debug("{ARROW1} not found. Trying {ARROW2}.")
+            locate_click(ARROW2)
+            attempts += max_attempts
+        except:
+            attempts += max_attempts
+        wait(2)
+        attempts += 1
 
 
-def capture_fare(start: Text) -> bool:
+def capture_fare(start: Text, dest: Text) -> bool:
     """Screenshot the first fare price. Returns bool."""
-    save_to: Text = f"{FARES}{start}_{DEST}.png"
+    save_to: Text = f"{FARES}{start}_{dest}.png"
     attempts = 0
     max_attempts = 5
     while attempts < max_attempts:
@@ -109,11 +115,12 @@ def capture_fare(start: Text) -> bool:
                 region=(yenX-10, yenY-10, 60, 20))
             img.save(save_to)
             actual_fare = image_to_fare(img)  # pytesseract
+            print(f"fare: {actual_fare}, start: {start}, dest: {dest}")
             with open("results/TokyoMetro.txt", "a+") as f:
-                f.write(f"{actual_fare}_{DEST}_{start}\n")
+                f.write(f"{actual_fare}_{start}_{dest}\n")
             return True
         except TypeError:
-            LOG.debug("Yen symbol not found. Skipping...")
+            LOG.debug("Yen symbol not found, capture_fare(). Skipping...")
         except:
             LOG.debug("Unknown error with capture_fare(). Quitting...")
             attempts += max_attempts
@@ -129,3 +136,10 @@ def change_starting_station(st_name: Text) -> None:
     pyautogui.click()
     enter_text(st_name)
 
+
+def change_dest_station(st_name: Text) -> None:
+    """Changes dest station in search input. Returns None."""
+    locate(TRANSIT)
+    pyautogui.moveRel(0, 83)
+    pyautogui.click()
+    enter_text(st_name)

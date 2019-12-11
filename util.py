@@ -47,12 +47,12 @@ def fares_already_scraped(_dir: Text) -> Set[Text]:
     return set([str(p.name).split(" ")[0] for p in Path(_dir).iterdir()])
 
 
-def load_fares_waiting(_file: Text) -> Set[Text]:
-    """Loads names of stations waiting to be scraped. Returns Set."""
-    all_stations = set(load_stations(_file))
-    stations_finished = fares_already_scraped(FARES)
-    error_stations = set(load_stations(ISSUE_STATIONS))
-    return all_stations.difference(stations_finished, error_stations)
+# def load_fares_waiting(_file: Text) -> Set[Text]:
+#     """Loads names of stations waiting to be scraped. Returns Set."""
+#     all_stations = set(load_stations(_file))
+#     stations_finished = fares_already_scraped(FARES)
+#     error_stations = set(load_stations(ISSUE_STATIONS))
+#     return all_stations.difference(stations_finished, error_stations)
 
 
 def extract_num(num: Text) -> Text:

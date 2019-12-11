@@ -20,10 +20,27 @@
 # add the station names to the tree if not there.
 
 if __name__ == "__main__":
+    from constants import *
+    from googlemaps import swipe_desktop
     from time import sleep as wait
-    from scrape import get_fares_from_google_maps as get_fares
+    from scrape import scrape_fares
 
     debug = False
+#     debug = True
+
+    if not debug:
+        station_info = {
+            "destinations": EXAMPLE_DESTINATIONS,
+            "starting_stations": EXAMPLE_TARGET_STATIONS,
+            "issues": EXAMPLE_ISSUE_STATIONS,
+            }
+    else:
+        station_info = {
+            "destinations": DESTINATIONS,
+            "starting_stations": TARGET_STATIONS,
+            "issues": ISSUE_STATIONS,
+            }
+
     if not debug:
         answer = input(
             "This program will take control of your mouse and keyboard.\nAfter pressing [y], move the desktop to a fullscreen view of google maps. ")
@@ -32,8 +49,11 @@ if __name__ == "__main__":
                 print(f"\rTaking control in: {i} seconds.", end="\r")
                 wait(1)
             print()
-            get_fares()
+            swipe_desktop("left")
+            wait(2)
+            scrape_fares(station_info)
     else:
-        get_fares()
+        scrape_fares(station_info)
+    swipe_desktop("right")
     print("\nQuitting...")
     exit()
