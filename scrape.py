@@ -14,7 +14,7 @@ def get_fares_from_google_maps():
     stations: List[Text] = list(fares_waiting)
     stations.sort()
 
-    wait(3)  # manually switch desktop
+#     wait(3)  # manually switch desktop
     goto_search_input()
     enter_text(f"{DEST} Station")
     wait(3)
