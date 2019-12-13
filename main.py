@@ -1,34 +1,13 @@
-# load graph and tree
-    # graph: collection of nodes with fare information
-    # tree:  a fast way to check for fare existence
-
-# get station names through user input
-    # a list of names
-    # check if they already exist
-        # if in the tree, check the graph, else get from gui
-        # if checking the graph, return the price
-
-
-# manipulate the gui to get the directions 
-    # pyautogui
-    # googlemaps
-
-# extract the fare from the image
-    # pytesseract
-
-# insert the fare into the gui
-# add the station names to the tree if not there.
-
 if __name__ == "__main__":
     from constants import *
-    from googlemaps import swipe_desktop
+    from scrape import *
     from time import sleep as wait
-    from scrape import scrape_fares
+    from util import *
 
     debug = False
-#     debug = True
+    debug = True
 
-    if not debug:
+    if debug:
         station_info = {
             "destinations": EXAMPLE_DESTINATIONS,
             "starting_stations": EXAMPLE_TARGET_STATIONS,
@@ -45,14 +24,12 @@ if __name__ == "__main__":
         answer = input(
             "This program will take control of your mouse and keyboard.\nAfter pressing [y], move the desktop to a fullscreen view of google maps. ")
         if answer == "y":
-            for i in range(3, -1, -1):
-                print(f"\rTaking control in: {i} seconds.", end="\r")
-                wait(1)
-            print()
+            give_user_time_to_swipe_desktop(3)
             swipe_desktop("left")
             wait(2)
             scrape_fares(station_info)
     else:
+        give_user_time_to_swipe_desktop(3)
         scrape_fares(station_info)
     swipe_desktop("right")
     print("\nQuitting...")

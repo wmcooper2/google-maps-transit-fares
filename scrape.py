@@ -35,16 +35,25 @@ def fares_to_dest(dest: Text, stations: List[Text],
     while len(stations) > 0:
         errors = 0
         station = stations.pop()
+        wait(2)
         change_starting_station(f"{station} Station") 
+        wait(1)
 
         try:
-            capture_fare(station, dest)
+            fare = capture_fare(station, dest)
+            print(f"{actual_fare}_{start}_{dest}\n")
+#             with open("results/TokyoMetro.txt", "a+") as f:
+#                 csvfile = csv.writer(f, delimiter=",")
+#                 csvfile.write([actual_fare, start, dest])
+#                 f.write(f"{actual_fare}_{start}_{dest}\n")
         except:
-            LOG.debug(f"Fare not found: {station} to {dest}")
-            with open(info["issues"], "a+") as f:
-                f.write(station+"\n")
+            print(f"{actual_fare}_{start}_{dest}\n")
+#             LOG.debug(f"Fare not found: {station} to {dest}")
+#             with open(info["issues"], "a+") as f:
+#                 f.write(station+"\n")
             errors += 1
 
         if errors > ERR_LIM:
-            LOG.debug("Too many errors with fares_to_dest(). Quitting...")
+            print(f"Too many errors, fares_to_dest(). Quitting...")
+#             LOG.debug("Too many errors with fares_to_dest(). Quitting...")
             exit()

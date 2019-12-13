@@ -4,6 +4,7 @@ except ImportError:
     import Image
 
 from constants import *
+import csv
 from pathlib import Path
 import pyautogui
 import pytesseract
@@ -46,10 +47,6 @@ def goto_maps():
     pyautogui.click()
 wait(1)
 
-
-def swipe_desktop(direction: Text) -> None:
-    """Swipes desktop to 'direction'. Returns None."""
-    pyautogui.hotkey("ctrl", direction)
 
 
 def goto_search_input() -> None:
@@ -101,11 +98,12 @@ def locate_directions_arrow() -> None:
         attempts += 1
 
 
-def capture_fare(start: Text, dest: Text) -> bool:
-    """Screenshot the first fare price. Returns bool."""
+def capture_fare(start: Text, dest: Text) -> int:
+    """Screenshot the first fare price. Returns int."""
     save_to: Text = f"{FARES}{start}_{dest}.png"
     attempts = 0
     max_attempts = 5
+    actual_fare = 0
     while attempts < max_attempts:
         try:
             yenX, yenY = pyautogui.locateCenterOnScreen(YEN,
@@ -115,18 +113,21 @@ def capture_fare(start: Text, dest: Text) -> bool:
                 region=(yenX-10, yenY-10, 60, 20))
             img.save(save_to)
             actual_fare = image_to_fare(img)  # pytesseract
-            print(f"fare: {actual_fare}, start: {start}, dest: {dest}")
-            with open("results/TokyoMetro.txt", "a+") as f:
-                f.write(f"{actual_fare}_{start}_{dest}\n")
-            return True
+#             with open("results/TokyoMetro.txt", "a+") as f:
+#                 csvfile = csv.writer(f, delimiter=",")
+#                 csvfile.write([actual_fare, start, dest])
+#                f.write(f"{actual_fare}_{start}_{dest}\n")
+#             return actual_fare
         except TypeError:
-            LOG.debug("Yen symbol not found, capture_fare(). Skipping...")
+#             LOG.debug("Yen not found, capture_fare(). Skipping...")
+            print("Yen not found, capture_fare(). Skipping...")
         except:
-            LOG.debug("Unknown error with capture_fare(). Quitting...")
+#             LOG.debug("Unknown error, capture_fare(). Quitting...")
+            print("Unknown error, capture_fare(). Quitting...")
             attempts += max_attempts
-            return False
-        wait(2)
+        wait(1)
         attempts += 1
+    return actual_fare
 
 
 def change_starting_station(st_name: Text) -> None:
