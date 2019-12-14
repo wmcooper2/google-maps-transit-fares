@@ -19,12 +19,13 @@ TARGET_STATIONS = "data/trains/TokyoMetro.txt"
 # icons
 ARROW1 = ICONS+"arrow1.png"
 ARROW2 = ICONS+"arrow2.png"
-CHROME = ICONS+"googlechrome.png"
+CHROME = ICONS+"chrome.png"
 CLOSE = ICONS+"closedirections.png"
 FULLSCREENDOT = ICONS+"fullscreendot.png"
-MAPS = ICONS+"googlemaps.png"
+MAPS = ICONS+"maps.png"
 SEARCH_INPUT = ICONS+"searchinput.png"
 TRANSIT = ICONS+"transit.png"
+TRAINRESULT = ICONS+"trainresult.png"
 YEN = ICONS+"yen.png"
 
 # settings

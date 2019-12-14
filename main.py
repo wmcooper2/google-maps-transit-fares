@@ -11,7 +11,7 @@ if __name__ == "__main__":
 
     #move DEBUG stuff to constants when finished
     DEBUG = False
-#     DEBUG = True
+    DEBUG = True
     if DEBUG:
         station_info = {
             "destinations": EXAMPLE_DESTINATIONS,

@@ -4,9 +4,10 @@ except ImportError:
     import Image
 from constants import *
 from pathlib import Path
+from pprint import pprint
 import pyautogui
 import pytesseract
-from typing import Text
+from typing import List, Text, Tuple
 from time import sleep as wait
 from util import image_to_fare
 pyautogui.PAUSE = 1
@@ -47,8 +48,7 @@ def goto_maps() -> None:
     if pyautogui.locateCenterOnScreen(MAPS):
         pyautogui.moveTo(maps_x, maps_y)
     pyautogui.click()
-wait(1)
-
+    wait(1)
 
 
 def goto_search_input() -> None:
@@ -116,28 +116,59 @@ def capture_fare(start: Text, dest: Text) -> int:
         try:
             yenX, yenY = pyautogui.locateCenterOnScreen(YEN,
                     region=(50, 460, 80, 50), confidence=0.9)
-#             pyautogui.moveTo(yenX, yenY)
-#TODO
-
-
             img = pyautogui.screenshot(
                 region=(yenX-10, yenY-10, 60, 20))
             img.save(save_to)
             fare = image_to_fare(img)  # pytesseract
-#             with open("results/TokyoMetro.txt", "a+") as f:
-#                 csvfile = csv.writer(f, delimiter=",")
-#                 csvfile.write([fare, start, dest])
-#                f.write(f"{fare}_{start}_{dest}\n")
-#             return fare
         except TypeError:
-#             LOG.debug("Yen not found, capture_fare(). Skipping...")
             print("Yen not found, capture_fare(). Skipping...")
         except:
-#             LOG.debug("Unknown error, capture_fare(). Quitting...")
             print("Unknown error, capture_fare(). Quitting...")
             attempts += max_attempts
         wait(1)
         attempts += 1
+
+
+#TODO
+def capture_many_fares(start: Text, dest: Text) -> List[int]:
+    """Screenshot the first fare price. Returns list of fares."""
+    attempts, max_attempts = 0, 5
+    fares = []
+    while attempts < max_attempts:
+        try:
+            train_listings = list(pyautogui.locateAllOnScreen(
+                TRAINRESULT, region=(10, 380, 50, 500)))
+            attempts += max_attempts
+            print("maxing out attempts, leaving while loop")
+        except:
+            print("Unknown error, capture_many_fares(). Quitting...")
+            attempts += max_attempts
+        wait(1)
+        attempts += 1
+    first_listing = train_listings[0]
+    other_listings = train_listings[1:]
+    train_center = pyautogui.center(first_listing)
+    pyautogui.moveTo(train_center)
+    fare = capture_yen(pyautogui.center(first_listing), offsetY=50)
+    fares.append(fare)
+    for listing in other_listings:
+        train_center = pyautogui.center(listing)
+        pyautogui.moveTo(train_center)
+        pyautogui.click()
+        wait(1)
+        fare = capture_yen(train_center)
+        fares.append(fare)
+    return fares
+
+
+def capture_yen(row: Tuple[int, int], offsetY: int = -20) -> int:
+    """Capture the fare for the row. Returns int."""
+    yenX, yenY = pyautogui.locateCenterOnScreen(YEN,region=(row.x+23, row.y+offsetY, 80, 80), confidence=0.9)
+    img = pyautogui.screenshot(
+        region=(yenX-10, yenY-10, 60, 20))
+    debug_img = pyautogui.screenshot(
+        region=(yenX-10, yenY-10, 60, 20))
+    fare = image_to_fare(img)  # pytesseract
     return fare
 
 
