@@ -1,8 +1,15 @@
+try:
+    from PIL import Image
+except ImportError:
+    import Image
 from constants import *
 from pathlib import Path
+import pyautogui
 import pytesseract
 from typing import Any, List, Set, Text
 from time import sleep as wait
+pyautogui.PAUSE = 1
+pyautogui.FAILSAFE = True
 
 
 def file_counter(_dir: Text) -> int:

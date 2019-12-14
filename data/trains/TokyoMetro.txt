@@ -2,7 +2,7 @@ Akabane Iwabuchi
 Akasaka
 Akasaka Mitsuke
 Akihabara
-Aoyama-Itchōme
+Aoyama-Itchome
 Asakusa
 Awajicho
 Ayase
@@ -79,7 +79,7 @@ Nakano-Fujimicho
 Nakano-Shimbashi
 Nezu
 Nihombashi
-Nijobashimae
+Nijubashimae
 Ningyocho
 Nishi-Funabashi
 Nishi-Kasai
