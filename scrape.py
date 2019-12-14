@@ -2,6 +2,7 @@ from constants import *
 from googlemaps import (
         capture_fare,
         capture_many_fares,
+        capture_url,
         change_dest_station,
         change_starting_station,
         close_directions,
@@ -39,9 +40,12 @@ def scrape_fares(info: Dict[Text, Text]) -> None:
             wait(3)
             try:
                 key = f"{start}_{dest}"
-                fares[key] = capture_many_fares(start, dest)
+                fares[key] = {}
+#                 fares[key] = capture_many_fares(start, dest)
+                fares[key]["fares"] = capture_many_fares(start, dest)
+#                 fares[key]["url"] = capture_url()
             except:
-                print("fares = ", fares)
-    print("fares = ", fares)
+                print("Unknown error, scrape_fares()")
     close_directions()
+    print(fares)
     return fares
