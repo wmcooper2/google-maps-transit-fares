@@ -37,3 +37,5 @@ __Performed mostly by the program, not the user__
 5. Extract the text from the image.
 6. Save the fare with the station info.
 7. Repeat from 3 until all trip data is collected.
+
+![Transit Fare Reimbursement](screenshot.png)
