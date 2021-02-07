@@ -1,5 +1,6 @@
 ## Purpose
-This tool is intended to extract the transit fares from Google Maps.
+This tool is intended to extract the transit fares from Google Maps.  
+It is not a practical tool. It is just a contrived project of the pyautogui library simply because I had no other use for it but wanted to do *something* with it.
 
 ## Operation
 1. Manually set up Google Maps
