@@ -157,14 +157,15 @@ def goto_maps() -> None:
 
 def goto_search_input() -> None:
     """Puts focus on the Google Maps search input field. Returns None."""
-    try:
-        x, y = pyautogui.locateCenterOnScreen(
-            SEARCH_INPUT, confidence=0.9,
-            region=(100, 120, 130, 40))
-        pyautogui.click(x, y)
-    except TypeError:
-        LOG.debug("Search input not found. Quitting...")
-        exit()
+    print("looking for search input in google maps")
+#     try:
+    x, y = pyautogui.locateCenterOnScreen(
+        SEARCH_INPUT, confidence=0.9,
+        region=(100, 120, 130, 40))
+    pyautogui.click(x, y)
+#     except TypeError:
+#         LOG.debug("Search input not found. Quitting...")
+#         exit()
 
 
 def locate(image: Text) -> None:

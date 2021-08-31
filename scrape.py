@@ -18,6 +18,7 @@ def scrape_fares(info: Dict[Text, Text]) -> None:
     """Begin scraping fares. Returns None."""
     first_station = True
     station_data = load_stations(info["starting_stations"])
+    print("Starting Stations:", station_data)
     starting_stations = set(station_data)
     fares = {}
     for dest in load_stations(info["destinations"]):

@@ -80,5 +80,9 @@ def load_stations_long_name(stations: Text) -> List[Text]:
 
 def swipe_desktop(direction: Text) -> None:
     """Swipes desktop to 'direction'. Returns None."""
-    pyautogui.hotkey("ctrl", direction)
+#     pyautogui.hotkey("ctrl", direction)
+    pyautogui.keyDown ('ctrl')
+    pyautogui.press ('left')
+    pyautogui.keyUp ('left')
+    pyautogui.keyUp ('ctrl')
 
