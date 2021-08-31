@@ -3,6 +3,7 @@ This tool is intended to extract the transit fares from Google Maps.
 It is not a practical tool. It is just a contrived project of the pyautogui library simply because I had no other use for it but wanted to do *something* with it.
 
 ## Operation
+[YouTube Demo Video](https://youtu.be/28hjUg8mEZo)
 You may need to give the terminal permission to control your computer  
 1. System Preferences > Security & Privacy > Privacy > Accessibility  
 2. System Preferences > Security & Privacy > Privacy > Screen Recording    
@@ -45,7 +46,6 @@ __Performed mostly by the program, not the user__
 7. Repeat from 3 until all trip data is collected.
 
 ![Transit Fare Reimbursement](screenshot.png)
-[YouTube Demo Video](https://youtu.be/28hjUg8mEZo)
 
 
 ### Errors
