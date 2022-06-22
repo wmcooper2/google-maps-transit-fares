@@ -1,5 +1,5 @@
 MouseInfo==0.1.2
-numpy==1.21.2
+numpy==1.22.0
 opencv-python==4.5.3.56
 Pillow==8.2.0
 PyAutoGUI==0.9.48
